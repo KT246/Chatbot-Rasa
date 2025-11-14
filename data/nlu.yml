@@ -1,0 +1,10880 @@
+version: "3.1"
+nlu:
+  - intent: hoi_nghia_chi_tiet
+    examples: |
+      - [CEO](word) là gì
+
+      - [CEO](word) nghĩa là gì?
+
+      - [CV](word) là gì
+
+      - [CV](word) nghĩa là gì?
+
+      - [DNA](word) dịch ra là gì
+
+      - [DNA](word) là cái gì thế
+
+      - [DNA](word) nghĩa là sao
+
+      - [Earth](word) là gì?
+
+      - [Earth](word) nghĩa là gì 🌍
+
+      - [HR](word) co nghia la gi
+
+      - [HR](word) là gì?
+
+      - [P.E.](word) là gì
+
+      - [P.E.](word) nghĩa là gì?
+
+      - [TV show](word) là gì
+
+      - [TV show](word) nghĩa là gì?
+
+      - [a bit tired](word) là gì?
+
+      - [a bit tired](word) 😴 nghĩa là gì
+
+      - [ability](word) là gì
+
+      - [ability](word) nghĩa là gì?
+
+      - [abroad](word) co nghia la gi
+
+      - [abroad](word) là gì?
+
+      - [acai berry](word) là gì
+
+      - [acai berry](word) nghĩa là gì?
+
+      - [acceleration](word) la gi
+
+      - [acceleration](word) nghĩa là gì vậy
+
+      - [accountant](word) co nghia la gi
+
+      - [accountant](word) là gì?
+
+      - [acid](word) la gi
+
+      - [acid](word) nghĩa là gì vậy
+
+      - [actor](word) co nghia la gi
+
+      - [actor](word) là gì?
+
+      - [actress](word) là gì
+
+      - [actress](word) nghĩa là gì?
+
+      - [adult](word) co nghia la gi
+
+      - [adult](word) là gì?
+
+      - [adventure](word) là gì
+
+      - [adventure](word) nghĩa là gì?
+
+      - [advertisement](word) là gì
+
+      - [advertisement](word) nghĩa là gì?
+
+      - [afternoon](word) nghĩa là gì?
+
+      - [afternoon](word) 🌇 là gì
+
+      - [air](word) có nghĩa là gì
+
+      - [air](word) là gì?
+
+      - [airplane](word) là gì
+
+      - [airplane](word) nghĩa là gì?
+
+      - [airport](word) là gì
+
+      - [airport](word) nghĩa là gì? ✈️
+
+      - [album](word) co nghia la gi
+
+      - [album](word) là gì?
+
+      - [algorithm](word) dịch ra là gì
+
+      - [algorithm](word) là cái gì thế
+
+      - [algorithm](word) nghĩa là sao
+
+      - [alligator](word) co nghia la gi
+
+      - [alligator](word) là con gì?
+
+      - [almond milk](word) là gì
+
+      - [almond milk](word) nghĩa là gì?
+
+      - [alumni](word) là gì
+
+      - [alumni](word) nghĩa là gì?
+
+      - [americano](word) co nghia la gi
+
+      - [americano](word) là gì?
+
+      - [amphibian](word) la gi 🐸
+
+      - [amphibian](word) là gì?
+
+      - [and you?](word) là gì?
+
+      - [and you?](word) nghĩa là gì
+
+      - [angle](word) là gì?
+
+      - [angle](word) tieng viet la gi
+
+      - [angry](word) co nghia la gi
+
+      - [angry](word) là gì? 😠
+
+      - [animal](word) có nghĩa là gì 🐘
+
+      - [animal](word) là gì?
+
+      - [animation](word) co nghia la gi
+
+      - [animation](word) là gì?
+
+      - [ant](word) la gi
+
+      - [ant](word) là con kiến?
+
+      - [ant](word) 🐜 có nghĩa là gì?
+
+      - [anxious](word) là gì
+
+      - [anxious](word) nghĩa là gì?
+
+      - [any plans for the weekend?](word) là gì?
+
+      - [any plans for the weekend?](word) nghĩa là gì
+
+      - [apartment](word) co nghia la gi
+
+      - [apartment](word) là gì?
+
+      - [apple juice](word) co nghia la gi
+
+      - [apple juice](word) 🍎 là gì?
+
+      - [apple](word) co nghia la gi 🍎
+
+      - [apple](word) là gì?
+
+      - [apple](word) nghĩa là gì 🍎
+
+      - [application](word) (app) là gì?
+
+      - [application](word) là gì
+
+      - [application](word) nghĩa là gì?
+
+      - [application](word) nghĩa là sao
+
+      - [apricot](word) là gì?
+
+      - [apricot](word) nghĩa là gì
+
+      - [april](word) là gì?
+
+      - [april](word) nghĩa là gì
+
+      - [aquarium](word) co nghia la gi
+
+      - [aquarium](word) là gì?
+
+      - [arc](word) là gì?
+
+      - [arc](word) tieng viet la gi
+
+      - [architect](word) là gì
+
+      - [architect](word) nghĩa là gì?
+
+      - [arrival](word) là gì
+
+      - [arrival](word) nghĩa là gì?
+
+      - [arrow](word) là gì?
+
+      - [arrow](word) tieng viet la gi
+
+      - [art](word) co nghia la gi
+
+      - [art](word) là gì
+
+      - [art](word) là gì? 🎨
+
+      - [art](word) nghĩa là gì? 🎨
+
+      - [artificial intelligence](word) la gi vay
+
+      - [artificial intelligence](word) là gì
+
+      - [artificial intelligence](word) 🤖 dịch là gì
+
+      - [artist](word) là gì
+
+      - [artist](word) nghĩa là gì?
+
+      - [artist](word) nghĩa là gì? 🎨
+
+      - [ashamed](word) là gì
+
+      - [ashamed](word) nghĩa là gì?
+
+      - [asparagus](word) co nghia la gi
+
+      - [asparagus](word) là gì?
+
+      - [assignment](word) co nghia la gi
+
+      - [assignment](word) là gì?
+
+      - [assistant](word) co nghia la gi
+
+      - [assistant](word) là gì?
+
+      - [asteroid](word) dịch là gì
+
+      - [asteroid](word) la gi vay
+
+      - [asteroid](word) là gì
+
+      - [astronaut](word) la gi 🧑‍🚀
+
+      - [astronaut](word) là gì
+
+      - [astronaut](word) nghĩa là gì
+
+      - [astronomy](word) là gì
+
+      - [astronomy](word) là thiên văn học hả?
+
+      - [atmosphere](word) là gì
+
+      - [atmosphere](word) là gì?
+
+      - [atmosphere](word) nghĩa là gì
+
+      - [atom](word) là gì
+
+      - [atom](word) ⚛️
+
+      - [audience](word) co nghia la gi
+
+      - [audience](word) là gì?
+
+      - [august](word) là gì
+
+      - [august](word) nghĩa là gì?
+
+      - [aunt](word) là gì
+
+      - [aunt](word) nghĩa là gì?
+
+      - [author](word) là gì
+
+      - [author](word) nghĩa là gì?
+
+      - [author](word) nghĩa là gì? ✍️
+
+      - [autumn](word) có nghĩa là gì?
+
+      - [autumn](word) la gi
+
+      - [autumn](word) là mùa thu?
+
+      - [avocado](word) là gì?
+
+      - [avocado](word) nghĩa là gì?
+
+      - [avocado](word) 🥑 la gi
+
+      - [avocado](word) 🥑 nghĩa là gì
+
+      - [baby](word) co nghia la gi
+
+      - [baby](word) là gì? 👶
+
+      - [backpack](word) co nghia la gi
+
+      - [backpack](word) là gì? 🎒
+
+      - [bacon](word) là gì
+
+      - [bacon](word) nghĩa là gì? 🥓
+
+      - [bacteria](word) là ai
+
+      - [bacteria](word) là vi khuẩn à
+
+      - [bacteria](word) nghĩa là gì
+
+      - [ballet](word) là gì
+
+      - [ballet](word) nghĩa là gì?
+
+      - [banana](word) có nghĩa là gì?
+
+      - [banana](word) la gi trong tieng viet
+
+      - [banana](word) là quả chuối phải không?
+
+      - [banana](word) là quả gì
+
+      - [banana](word) nghĩa là gì?
+
+      - [band](word) là gì
+
+      - [band](word) nghĩa là gì? 🎸
+
+      - [bandwidth](word) là gì
+
+      - [bandwidth](word) nghĩa là gì
+
+      - [bandwidth](word) 📶 la gi
+
+      - [bank](word) co nghia la gi
+
+      - [bank](word) là gì? 🏦
+
+      - [bark](word) là gì?
+
+      - [bark](word) nghĩa là gì
+
+      - [base](word) có nghĩa là gì
+
+      - [base](word) là gì
+
+      - [bat](word) là gì?
+
+      - [bat](word) 🦇 nghĩa là gì
+
+      - [beach](word) co nghia la gi
+
+      - [beach](word) là gì?
+
+      - [beach](word) là gì? 🏖️
+
+      - [beach](word) nghĩa là gì 🏖️
+
+      - [bean](word) là hạt gì
+
+      - [bean](word) nghĩa là gì?
+
+      - [bear](word) la gi
+
+      - [bear](word) là con gấu?
+
+      - [bear](word) 🐻 có nghĩa là gì?
+
+      - [bee](word) là gì?
+
+      - [bee](word) 🐝 nghĩa là gì
+
+      - [beef](word) co nghia la gi
+
+      - [beef](word) 🥩 là gì?
+
+      - [beer](word) co nghia la gi
+
+      - [beer](word) 🍻 là gì?
+
+      - [beige](word) là gì?
+
+      - [beige](word) nghĩa là gì
+
+      - [biography](word) co nghia la gi
+
+      - [biography](word) là gì?
+
+      - [biology](word) co nghia la gi
+
+      - [biology](word) là gì?
+
+      - [bird](word) la gi 🐦
+
+      - [bird](word) là gì?
+
+      - [bird](word) 🐦 nghĩa là gì
+
+      - [birth](word) co nghia la gi
+
+      - [birth](word) là gì?
+
+      - [black hole](word) là gì
+
+      - [black hole](word) ⚫
+
+      - [black tea](word) là gì
+
+      - [black tea](word) nghĩa là gì?
+
+      - [black](word) nghĩa là gì?
+
+      - [black](word) ⚫️ là gì
+
+      - [blackberry](word) là gì?
+
+      - [blackberry](word) nghĩa là gì
+
+      - [blockchain](word) la gi
+
+      - [blockchain](word) là gì?
+
+      - [blockchain](word) nghĩa là gì
+
+      - [blood orange](word) có nghĩa là gì?
+
+      - [blood orange](word) la gi
+
+      - [blood orange](word) là cam máu?
+
+      - [blue](word) là gì?
+
+      - [blue](word) 🔵 nghĩa là gì
+
+      - [blueberry](word) có nghĩa là gì
+
+      - [blueberry](word) là gì?
+
+      - [blueberry](word) nghĩa là gì
+
+      - [board](word) là gì
+
+      - [board](word) nghĩa là gì?
+
+      - [boarding pass](word) co nghia la gi
+
+      - [boarding pass](word) là gì?
+
+      - [boat](word) là gì
+
+      - [boat](word) nghĩa là gì? ⛵
+
+      - [bonus](word) co nghia la gi
+
+      - [bonus](word) là gì?
+
+      - [book](word) là gì
+
+      - [book](word) nghĩa là gì? 📚
+
+      - [booking](word) là gì
+
+      - [booking](word) nghĩa là gì?
+
+      - [bored](word) co nghia la gi
+
+      - [bored](word) là gì? 😑
+
+      - [boss](word) co nghia la gi
+
+      - [boss](word) là gì?
+
+      - [boy](word) co nghia la gi
+
+      - [boy](word) là gì? 👦
+
+      - [boysenberry](word) co nghia la gi
+
+      - [boysenberry](word) là quả gì?
+
+      - [branch](word) là gì
+
+      - [branch](word) nghĩa là gì?
+
+      - [brave](word) là gì
+
+      - [brave](word) nghĩa là gì?
+
+      - [bread](word) nghĩa là gì
+
+      - [bread](word) 🍞 là gì?
+
+      - [breadfruit](word) có nghĩa là gì?
+
+      - [breadfruit](word) la gi
+
+      - [breadfruit](word) là sa kê?
+
+      - [bright red](word) co nghia la gi
+
+      - [bright red](word) là màu gì?
+
+      - [bright](word) la gi
+
+      - [bright](word) là sáng?
+
+      - [bright](word) ☀️ có nghĩa là gì?
+
+      - [broadcast](word) co nghia la gi
+
+      - [broadcast](word) là gì?
+
+      - [broccoli](word) co nghia la gi
+
+      - [broccoli](word) nghĩa là gì?
+
+      - [bronze](word) la gi
+
+      - [bronze](word) là màu đồng?
+
+      - [bronze](word) 🥉 có nghĩa là gì?
+
+      - [brother](word) là gì
+
+      - [brother](word) nghĩa là gì?
+
+      - [brown](word) nghĩa là gì?
+
+      - [brown](word) 🟤 là gì
+
+      - [bubble tea](word) co nghia la gi
+
+      - [bubble tea](word) là gì?
+
+      - [buddha's hand](word) là gì?
+
+      - [buddha's hand](word) nghĩa là gì
+
+      - [bug](word) là gì
+
+      - [bug](word) trong máy tính là gì
+
+      - [bug](word) 🐞 la gi
+
+      - [builder](word) co nghia la gi
+
+      - [builder](word) là gì?
+
+      - [bully](word) co nghia la gi
+
+      - [bully](word) là gì?
+
+      - [bus stop](word) co nghia la gi
+
+      - [bus stop](word) là gì?
+
+      - [bus](word) là gì
+
+      - [bus](word) nghĩa là gì? 🚌
+
+      - [bush](word) là gì?
+
+      - [bush](word) nghĩa là gì
+
+      - [business](word) là gì
+
+      - [business](word) nghĩa là gì?
+
+      - [butter](word) là gì?
+
+      - [butter](word) nghĩa là gì
+
+      - [butterfly](word) là con gì?
+
+      - [butterfly](word) 🦋 co nghia la gi
+
+      - [bye-bye](word) co nghia la gi
+
+      - [bye-bye](word) là gì?
+
+      - [bye](word) là gì?
+
+      - [bye](word) 👋 nghĩa là gì
+
+      - [cabbage](word) là rau gì?
+
+      - [cabbage](word) nghĩa là gì?
+
+      - [cafe](word) là gì
+
+      - [cafe](word) nghĩa là gì? ☕
+
+      - [cake](word) co nghia la gi
+
+      - [cake](word) 🍰 là gì?
+
+      - [calamansi](word) là gì?
+
+      - [calamansi](word) nghĩa là gì
+
+      - [calendar](word) nghĩa là gì?
+
+      - [calendar](word) 📅 là gì
+
+      - [calm](word) là gì
+
+      - [calm](word) nghĩa là gì?
+
+      - [camel](word) là con gì?
+
+      - [camel](word) 🐫 co nghia la gi
+
+      - [camera](word) co nghia la gi
+
+      - [camera](word) là gì? 📷
+
+      - [camping](word) là gì
+
+      - [camping](word) nghĩa là gì? 🏕️
+
+      - [campus](word) co nghia la gi
+
+      - [campus](word) là gì?
+
+      - [can't complain](word) có nghĩa là gì?
+
+      - [can't complain](word) la gi
+
+      - [can't complain](word) nghĩa là gì?
+
+      - [cantaloupe](word) là gì
+
+      - [cantaloupe](word) nghĩa là gì?
+
+      - [canteen](word) co nghia la gi
+
+      - [canteen](word) là gì?
+
+      - [canyon](word) là gì?
+
+      - [canyon](word) nghia la gi
+
+      - [capital](word) co nghia la gi
+
+      - [capital](word) là gì
+
+      - [capital](word) là gì?
+
+      - [capital](word) nghĩa là gì?
+
+      - [cappuccino](word) co nghia la gi
+
+      - [cappuccino](word) là gì?
+
+      - [car](word) là gì
+
+      - [car](word) nghĩa là gì? 🚗
+
+      - [carbohydrate](word) (chất đường bột) nghĩa là gì
+
+      - [carbohydrate](word) là gì
+
+      - [carbon dioxide](word) la gi
+
+      - [carbon dioxide](word) là gì?
+
+      - [career](word) co nghia la gi
+
+      - [career](word) là gì?
+
+      - [carpenter](word) co nghia la gi
+
+      - [carpenter](word) là gì?
+
+      - [carrot](word) là gì?
+
+      - [carrot](word) 🥕 la cu gi
+
+      - [cartoon](word) là gì
+
+      - [cartoon](word) nghĩa là gì?
+
+      - [cashier](word) là gì
+
+      - [cashier](word) nghĩa là gì?
+
+      - [castle](word) là gì
+
+      - [castle](word) nghĩa là gì? 🏰
+
+      - [cat](word) la gi trong tieng viet
+
+      - [cat](word) nghĩa là gì?
+
+      - [cat](word) 🐈 là con gì
+
+      - [catalyst](word) la gi
+
+      - [catalyst](word) là gì?
+
+      - [catalyst](word) nghĩa là gì
+
+      - [catch you later](word) co nghia la gi
+
+      - [catch you later](word) là gì?
+
+      - [cave](word) là gì 🦇
+
+      - [cave](word) nghia la gi
+
+      - [celebration](word) là gì
+
+      - [celebration](word) nghĩa là gì?
+
+      - [celebrity](word) co nghia la gi
+
+      - [celebrity](word) là gì?
+
+      - [celery](word) là rau gì?
+
+      - [celery](word) nghĩa là gì?
+
+      - [cell](word) có phải là tế bào không?
+
+      - [cell](word) nghĩa là gì
+
+      - [cereal](word) là gì?
+
+      - [cereal](word) nghĩa là gì
+
+      - [certificate](word) là gì
+
+      - [certificate](word) nghĩa là gì?
+
+      - [chair](word) co nghia la gi
+
+      - [chair](word) là gì?
+
+      - [chalk](word) co nghia la gi
+
+      - [chalk](word) là gì?
+
+      - [champagne](word) là gì
+
+      - [champagne](word) nghĩa là gì?
+
+      - [channel](word) co nghia la gi
+
+      - [channel](word) là gì?
+
+      - [chapter](word) là gì
+
+      - [chapter](word) nghĩa là gì?
+
+      - [character](word) là gì
+
+      - [character](word) nghĩa là gì?
+
+      - [charcoal](word) co nghia la gi
+
+      - [charcoal](word) là màu gì?
+
+      - [charity](word) co nghia la gi
+
+      - [charity](word) là gì?
+
+      - [check-in](word) co nghia la gi
+
+      - [check-in](word) là gì?
+
+      - [check-out](word) là gì
+
+      - [check-out](word) nghĩa là gì?
+
+      - [cheerful](word) co nghia la gi
+
+      - [cheerful](word) là gì?
+
+      - [cheers](word) là gì?
+
+      - [cheers](word) 🍻 co nghia la gi
+
+      - [cheese](word) co nghia la gi
+
+      - [cheese](word) 🧀 là gì?
+
+      - [chef](word) là gì
+
+      - [chef](word) nghĩa là gì? 👨‍🍳
+
+      - [chemistry](word) là gì
+
+      - [chemistry](word) nghĩa là gì? 🧪
+
+      - [cherimoya](word) là gì?
+
+      - [cherimoya](word) nghĩa là gì
+
+      - [cherry](word) la gi trong tieng viet 🍒
+
+      - [cherry](word) là gì?
+
+      - [cherry](word) nghĩa là gì?
+
+      - [cherry](word) 🍒 nghĩa là gì
+
+      - [chicken](word) nghĩa là gì
+
+      - [chicken](word) nghĩa là gì?
+
+      - [chicken](word) 🍗 là gì?
+
+      - [chicken](word) 🐔 là gì
+
+      - [child](word) co nghia la gi
+
+      - [child](word) là gì?
+
+      - [children](word) là gì
+
+      - [children](word) nghĩa là gì?
+
+      - [chili](word) co nghia la gi
+
+      - [chili](word) 🌶️ là gì?
+
+      - [chips](word) co nghia la gi
+
+      - [chips](word) là gì?
+
+      - [chocolate](word) nghĩa là gì
+
+      - [chocolate](word) 🍫 là gì?
+
+      - [chokeberry](word) là gì?
+
+      - [chokeberry](word) nghĩa là gì
+
+      - [chromosome](word) la gi
+
+      - [chromosome](word) nghĩa là gì vậy
+
+      - [church](word) co nghia la gi
+
+      - [church](word) là gì? ⛪
+
+      - [cider](word) co nghia la gi
+
+      - [cider](word) là gì?
+
+      - [cinema](word) là gì
+
+      - [cinema](word) nghĩa là gì? 🍿
+
+      - [circle](word) là gì?
+
+      - [circle](word) tieng viet la gi
+
+      - [circus](word) co nghia la gi
+
+      - [circus](word) là gì? 🎪
+
+      - [citizen](word) là gì
+
+      - [citizen](word) nghĩa là gì?
+
+      - [citron](word) co nghia la gi
+
+      - [citron](word) là quả gì?
+
+      - [city](word) co nghia la gi
+
+      - [city](word) là gì
+
+      - [city](word) là gì?
+
+      - [city](word) nghĩa là gì? 🏙️
+
+      - [classroom](word) là gì
+
+      - [classroom](word) nghĩa là gì?
+
+      - [clementine](word) là gì?
+
+      - [clementine](word) nghĩa là gì
+
+      - [climate change](word) co nghia la gi
+
+      - [climate change](word) là gì?
+
+      - [climate change](word) nghia la gi
+
+      - [climate](word) la gi
+
+      - [climate](word) là gì
+
+      - [climate](word) là gì?
+
+      - [climate](word) nghĩa là gì
+
+      - [climate](word) trong địa lý là gì
+
+      - [clock](word) là gì?
+
+      - [clock](word) 🕰️ co nghia la gi
+
+      - [cloud computing](word) có nghĩa là gì
+
+      - [cloud computing](word) là gì
+
+      - [cloud](word) co nghia gi
+
+      - [cloud](word) là gì?
+
+      - [cloudberry](word) là gì
+
+      - [cloudberry](word) nghĩa là gì?
+
+      - [club](word) co nghia la gi
+
+      - [club](word) là gì?
+
+      - [coach](word) co nghia la gi
+
+      - [coach](word) là gì?
+
+      - [cocktail](word) nghĩa là gì
+
+      - [cocktail](word) 🍸 là gì?
+
+      - [coconut water](word) nghĩa là gì
+
+      - [coconut water](word) 🥥 là gì?
+
+      - [coconut](word) là gì? 🥥
+
+      - [coconut](word) là quả gì?
+
+      - [coconut](word) tiếng việt là gì
+
+      - [coconut](word) 🥥 co nghia la gi
+
+      - [coffee](word) co nghia la gi
+
+      - [coffee](word) la gi
+
+      - [coffee](word) nghĩa là gì? ☕
+
+      - [coffee](word) ☕ là gì?
+
+      - [cola](word) co nghia la gi
+
+      - [cola](word) là gì?
+
+      - [cold](word) là gì
+
+      - [cold](word) nghĩa là gì? 🥶
+
+      - [colleague](word) là gì
+
+      - [colleague](word) nghĩa là gì?
+
+      - [college](word) là gì
+
+      - [college](word) nghĩa là gì?
+
+      - [color](word) là gì?
+
+      - [color](word) 🎨 co nghia la gi
+
+      - [colorful](word) nghĩa là gì?
+
+      - [colorful](word) 🌈 là gì
+
+      - [comedian](word) co nghia la gi
+
+      - [comedian](word) là gì?
+
+      - [comedy](word) là gì
+
+      - [comedy](word) nghĩa là gì? 😂
+
+      - [comet](word) nghĩa là gì
+
+      - [comet](word) ☄️ là sao chổi phải không?
+
+      - [community](word) la gi
+
+      - [community](word) nghĩa là gì?
+
+      - [company](word) co nghia la gi
+
+      - [company](word) là gì
+
+      - [company](word) là gì? 🏢
+
+      - [company](word) nghĩa là gì?
+
+      - [compass](word) co nghia la gi
+
+      - [compass](word) là gì?
+
+      - [compound](word) có phải là hợp chất không?
+
+      - [compound](word) nghĩa là gì
+
+      - [computer](word) co nghia la gi
+
+      - [computer](word) là gì? 💻
+
+      - [concert](word) là gì
+
+      - [concert](word) nghĩa là gì?
+
+      - [cone](word) là gì?
+
+      - [cone](word) tieng viet la gi
+
+      - [confident](word) co nghia la gi
+
+      - [confident](word) là gì?
+
+      - [confused](word) là gì
+
+      - [confused](word) nghĩa là gì? 😕
+
+      - [conservation](word) là gì
+
+      - [conservation](word) nghĩa là gì?
+
+      - [constellation](word) là gì
+
+      - [constellation](word) nghĩa là gì
+
+      - [continent](word) co nghia la gi
+
+      - [continent](word) là gì?
+
+      - [continent](word) nghia la gi
+
+      - [contract](word) co nghia la gi
+
+      - [contract](word) là gì?
+
+      - [cook](word) co nghia la gi
+
+      - [cook](word) là gì?
+
+      - [cookie](word) nghĩa là gì
+
+      - [cookie](word) 🍪 là gì?
+
+      - [coral](word) là gì
+
+      - [coral](word) nghĩa là gì?
+
+      - [core](word) (lõi Trái Đất) nghĩa là gì
+
+      - [core](word) là gì
+
+      - [corn](word) là gì?
+
+      - [corn](word) 🌽 co nghia la gi
+
+      - [cosmology](word) la gi trong tieng viet
+
+      - [cosmology](word) là gì
+
+      - [could be better](word) co nghia la gi
+
+      - [could be better](word) là gì?
+
+      - [could you repeat that?](word) la gi
+
+      - [could you repeat that?](word) là gì?
+
+      - [could you repeat that?](word) ❓ có nghĩa là gì?
+
+      - [count](word) co nghia la gi
+
+      - [count](word) là gì?
+
+      - [country](word) co nghia la gi
+
+      - [country](word) la gi
+
+      - [country](word) là gì?
+
+      - [country](word) nghĩa là gì?
+
+      - [course](word) là gì
+
+      - [course](word) nghĩa là gì?
+
+      - [court](word) co nghia la gi
+
+      - [court](word) là gì?
+
+      - [cousin](word) co nghia la gi
+
+      - [cousin](word) là gì?
+
+      - [covalent bond](word) là ai
+
+      - [covalent bond](word) là liên kết à
+
+      - [covalent bond](word) nghĩa là gì
+
+      - [cow](word) là gì?
+
+      - [cow](word) 🐄 nghĩa là gì
+
+      - [coward](word) co nghia la gi
+
+      - [coward](word) là gì?
+
+      - [crab](word) co nghia la gi
+
+      - [crab](word) nghĩa là gì?
+
+      - [crab](word) 🦀 là gì
+
+      - [crab](word) 🦀 là gì?
+
+      - [cranberry](word) là gì
+
+      - [cranberry](word) nghĩa là gì?
+
+      - [cream](word) co nghia la gi
+
+      - [cream](word) là màu gì?
+
+      - [creative](word) là gì
+
+      - [creative](word) nghĩa là gì?
+
+      - [creature](word) la gi
+
+      - [creature](word) là gì?
+
+      - [crescent](word) là gì?
+
+      - [crescent](word) tieng viet la gi
+
+      - [crime](word) co nghia la gi
+
+      - [crime](word) là gì?
+
+      - [crimson](word) là gì
+
+      - [crimson](word) nghĩa là gì?
+
+      - [crocodile](word) là gì?
+
+      - [crocodile](word) 🐊 nghĩa là gì
+
+      - [cross](word) là gì?
+
+      - [cross](word) tieng viet la gi
+
+      - [cruise](word) co nghia la gi
+
+      - [cruise](word) là gì?
+
+      - [crust](word) la gi
+
+      - [crust](word) là gì
+
+      - [cryptocurrency](word) là gì
+
+      - [cryptocurrency](word) 💰
+
+      - [cube](word) là gì?
+
+      - [cube](word) tieng viet la gi
+
+      - [cuboid](word) là gì?
+
+      - [cuboid](word) tieng viet la gi
+
+      - [cucumber](word) co nghia la gi
+
+      - [cucumber](word) là gì? 🥒
+
+      - [culture](word) co nghia la gi
+
+      - [culture](word) là gì
+
+      - [culture](word) là gì?
+
+      - [culture](word) nghĩa là gì?
+
+      - [cupuacu](word) co nghia la gi
+
+      - [cupuacu](word) là quả gì?
+
+      - [curious](word) co nghia la gi
+
+      - [curious](word) là gì?
+
+      - [currant](word) là gì?
+
+      - [currant](word) nghĩa là gì
+
+      - [currency](word) là gì
+
+      - [currency](word) nghĩa là gì?
+
+      - [current](word) là gì?
+
+      - [current](word) nghia la gi
+
+      - [curriculum](word) co nghia la gi
+
+      - [curriculum](word) là gì?
+
+      - [curry](word) là gì?
+
+      - [curry](word) nghĩa là gì
+
+      - [curve](word) là gì?
+
+      - [curve](word) tieng viet la gi
+
+      - [custom](word) co nghia la gi
+
+      - [custom](word) là gì
+
+      - [custom](word) là gì?
+
+      - [custom](word) nghĩa là gì?
+
+      - [cyan](word) có nghĩa là gì?
+
+      - [cyan](word) la gi
+
+      - [cyan](word) là màu gì?
+
+      - [cybersecurity](word) co phai an ninh mang?
+
+      - [cybersecurity](word) là gì
+
+      - [cybersecurity](word) là gì thế
+
+      - [cylinder](word) là gì?
+
+      - [cylinder](word) tieng viet la gi
+
+      - [daily](word) là gì?
+
+      - [daily](word) nghĩa là gì
+
+      - [dance](word) co nghia la gi
+
+      - [dance](word) là gì? 💃
+
+      - [dark green](word) là gì?
+
+      - [dark green](word) nghĩa là gì
+
+      - [dark](word) là gì?
+
+      - [dark](word) 🌃 nghĩa là gì
+
+      - [database](word) là cơ sở dữ liệu đúng không
+
+      - [database](word) là gì
+
+      - [database](word) ❓
+
+      - [date](word) là gì
+
+      - [date](word) là gì?
+
+      - [date](word) nghĩa là gì
+
+      - [date](word) nghĩa là gì?
+
+      - [daughter](word) co nghia la gi
+
+      - [daughter](word) là gì?
+
+      - [day](word) là gì
+
+      - [day](word) nghĩa là gì?
+
+      - [deadline](word) co nghia la gi
+
+      - [deadline](word) là gì?
+
+      - [death](word) co nghia la gi
+
+      - [death](word) là gì?
+
+      - [decagon](word) là gì?
+
+      - [decagon](word) tieng viet la gi
+
+      - [december](word) là tháng mấy?
+
+      - [december](word) 🎄 co nghia la gi
+
+      - [deer](word) la gi
+
+      - [deer](word) là con hươu?
+
+      - [deer](word) 🦌 có nghĩa là gì?
+
+      - [degree](word) là gì
+
+      - [degree](word) nghĩa là gì?
+
+      - [democracy](word) là gì
+
+      - [democracy](word) nghĩa là gì?
+
+      - [dentist](word) co nghia la gi
+
+      - [dentist](word) là gì?
+
+      - [department](word) là gì
+
+      - [department](word) nghĩa là gì?
+
+      - [departure](word) co nghia la gi
+
+      - [departure](word) là gì?
+
+      - [desert](word) là gì
+
+      - [desert](word) là gì?
+
+      - [desert](word) nghia la gi 🏜️
+
+      - [desert](word) nghĩa là gì?
+
+      - [designer](word) là gì
+
+      - [designer](word) nghĩa là gì?
+
+      - [desk](word) là gì
+
+      - [desk](word) nghĩa là gì?
+
+      - [developer](word) co nghia la gi
+
+      - [developer](word) là ai
+
+      - [developer](word) là gì? 💻
+
+      - [developer](word) là lập trình viên à
+
+      - [developer](word) nghĩa là gì
+
+      - [diamond](word) là gì?
+
+      - [diamond](word) tieng viet la gi
+
+      - [diploma](word) co nghia la gi
+
+      - [diploma](word) là gì?
+
+      - [direction](word) là gì
+
+      - [direction](word) nghĩa là gì?
+
+      - [director](word) co nghia la gi
+
+      - [director](word) là gì?
+
+      - [disappointed](word) co nghia la gi
+
+      - [disappointed](word) là gì?
+
+      - [discipline](word) là gì
+
+      - [discipline](word) nghĩa là gì?
+
+      - [disease](word) là gì
+
+      - [disease](word) nghĩa là gì?
+
+      - [dislike](word) là gì
+
+      - [dislike](word) nghĩa là gì? 👎
+
+      - [dissertation](word) co nghia la gi
+
+      - [dissertation](word) là gì?
+
+      - [divided by](word) là gì?
+
+      - [divided by](word) ➗ co nghia la gi
+
+      - [doctor](word) là gì
+
+      - [doctor](word) nghĩa là gì? 👨‍⚕️
+
+      - [documentary](word) co nghia la gi
+
+      - [documentary](word) là gì?
+
+      - [dodecahedron](word) là gì?
+
+      - [dodecahedron](word) tieng viet la gi
+
+      - [dog](word) là gì?
+
+      - [dog](word) 🐶 co nghia la gi
+
+      - [dolphin](word) la gi
+
+      - [dolphin](word) là cá heo?
+
+      - [dolphin](word) 🐬 có nghĩa là gì?
+
+      - [domestic](word) là gì
+
+      - [domestic](word) nghĩa là gì?
+
+      - [don't mention it](word) là gì
+
+      - [don't mention it](word) nghĩa là gì?
+
+      - [dormitory](word) là gì
+
+      - [dormitory](word) nghĩa là gì?
+
+      - [double](word) là gì?
+
+      - [double](word) nghĩa là gì
+
+      - [dragon fruit](word) là gì?
+
+      - [dragon fruit](word) nghĩa là gì
+
+      - [drama](word) co nghia la gi
+
+      - [drama](word) là gì?
+
+      - [driver](word) là gì
+
+      - [driver](word) nghĩa là gì?
+
+      - [drums](word) là gì
+
+      - [drums](word) nghĩa là gì? 🥁
+
+      - [duck](word) là gì?
+
+      - [duck](word) nghĩa là gì
+
+      - [duck](word) 🦆 nghĩa là gì
+
+      - [durian](word) có nghĩa là gì?
+
+      - [durian](word) la gi
+
+      - [durian](word) là sầu riêng?
+
+      - [duty](word) co nghia la gi
+
+      - [duty](word) là gì?
+
+      - [e-learning](word) co nghia la gi
+
+      - [e-learning](word) là gì?
+
+      - [eagle](word) nghĩa là gì?
+
+      - [eagle](word) 🦅 là gì
+
+      - [earthquake](word) là gì
+
+      - [earthquake](word) là động đất phải không?
+
+      - [earthquake](word) nghĩa là gì
+
+      - [earthquake](word) nghĩa là gì?
+
+      - [east](word) co nghia la gi
+
+      - [east](word) là gì?
+
+      - [eclipse](word) có nghĩa là gì
+
+      - [eclipse](word) la gi
+
+      - [eclipse](word) là gì
+
+      - [economy](word) co nghia la gi
+
+      - [economy](word) là gì? 📈
+
+      - [ecosystem](word) là gì
+
+      - [ecosystem](word) nghĩa là gì?
+
+      - [ecosystem](word) 🌳
+
+      - [editor](word) là gì
+
+      - [editor](word) nghĩa là gì?
+
+      - [education](word) co nghia la gi
+
+      - [education](word) là gì
+
+      - [education](word) là gì?
+
+      - [education](word) nghĩa là gì?
+
+      - [egg](word) nghĩa là gì
+
+      - [egg](word) 🥚 là gì?
+
+      - [eggplant](word) co nghia la gi
+
+      - [eggplant](word) 🍆 là gì?
+
+      - [eight](word) 8️⃣ la gi
+
+      - [eight](word) là số mấy?
+
+      - [eighteen](word) co nghia la gi
+
+      - [eighteen](word) là số mấy?
+
+      - [eighty](word) có nghĩa là gì?
+
+      - [eighty](word) la gi
+
+      - [eighty](word) là tám mươi?
+
+      - [elderberry](word) là gì?
+
+      - [elderberry](word) nghĩa là gì
+
+      - [elderly](word) là gì
+
+      - [elderly](word) nghĩa là gì? 👴👵
+
+      - [election](word) là gì
+
+      - [election](word) nghĩa là gì?
+
+      - [electrician](word) co nghia la gi
+
+      - [electrician](word) là gì?
+
+      - [electricity](word) la gi
+
+      - [electricity](word) là gì
+
+      - [electricity](word) nghĩa là gì
+
+      - [electron](word) là gì
+
+      - [electron](word) nghĩa là gì
+
+      - [element](word) là gì
+
+      - [element](word) 🧪 la gi trong tieng viet
+
+      - [elephant](word) là gì?
+
+      - [elephant](word) 🐘 nghĩa là gì
+
+      - [eleven](word) có nghĩa là gì?
+
+      - [eleven](word) la gi
+
+      - [eleven](word) là mười một?
+
+      - [embarrassed](word) co nghia la gi
+
+      - [embarrassed](word) là gì?
+
+      - [emerald](word) có nghĩa là gì?
+
+      - [emerald](word) la gi
+
+      - [emerald](word) là màu gì?
+
+      - [emotion](word) co nghia la gi
+
+      - [emotion](word) là gì?
+
+      - [employee](word) co nghia la gi
+
+      - [employee](word) là gì
+
+      - [employee](word) là gì?
+
+      - [employee](word) nghĩa là gì?
+
+      - [employer](word) co nghia la gi
+
+      - [employer](word) là gì
+
+      - [employer](word) là gì?
+
+      - [employer](word) nghĩa là gì?
+
+      - [energy drink](word) là gì
+
+      - [energy drink](word) nghĩa là gì?
+
+      - [energy](word) là cái gì thế
+
+      - [energy](word) nghĩa là sao
+
+      - [energy](word) ⚡ dịch ra là gì
+
+      - [engineer](word) là gì
+
+      - [engineer](word) nghĩa là gì?
+
+      - [environment](word) co nghia la gi
+
+      - [environment](word) là gì?
+
+      - [environment](word) là gì? 🌍
+
+      - [environment](word) nghia la gi
+
+      - [enzyme](word) là gì
+
+      - [enzyme](word) 🧬
+
+      - [episode](word) là gì
+
+      - [episode](word) nghĩa là gì?
+
+      - [equality](word) co nghia la gi
+
+      - [equality](word) là gì?
+
+      - [equals](word) nghĩa là gì?
+
+      - [equals](word) 🟰 là gì
+
+      - [equator](word) có nghĩa là gì
+
+      - [equator](word) là gì?
+
+      - [equilateral triangle](word) là gì?
+
+      - [equilateral triangle](word) tieng viet la gi
+
+      - [eraser](word) là gì
+
+      - [eraser](word) nghĩa là gì?
+
+      - [erosion](word) là gì
+
+      - [erosion](word) 🌊
+
+      - [espresso](word) là gì
+
+      - [espresso](word) nghĩa là gì?
+
+      - [essay](word) là gì
+
+      - [essay](word) nghĩa là gì?
+
+      - [evening](word) là gì?
+
+      - [evening](word) 🌆 nghĩa là gì
+
+      - [evolution](word) có nghĩa là gì
+
+      - [evolution](word) là gì
+
+      - [exam](word) là gì
+
+      - [exam](word) nghĩa là gì?
+
+      - [excited](word) là gì
+
+      - [excited](word) nghĩa là gì? 🤩
+
+      - [excuse me](word) có nghĩa là gì?
+
+      - [excuse me](word) la gi
+
+      - [excuse me](word) là xin lỗi?
+
+      - [exhibition](word) là gì
+
+      - [exhibition](word) nghĩa là gì?
+
+      - [experience](word) co nghia la gi
+
+      - [experience](word) là gì?
+
+      - [explore](word) là gì
+
+      - [explore](word) nghĩa là gì?
+
+      - [extracurricular](word) là gì
+
+      - [extracurricular](word) nghĩa là gì?
+
+      - [factory](word) là gì
+
+      - [factory](word) nghĩa là gì?
+
+      - [fail](word) co nghia la gi
+
+      - [fail](word) là gì?
+
+      - [fall](word) là gì?
+
+      - [fall](word) 🍂 nghĩa là gì
+
+      - [family](word) là gì
+
+      - [family](word) nghĩa là gì? 👨‍👩‍👧‍👦
+
+      - [famous](word) là gì
+
+      - [famous](word) nghĩa là gì?
+
+      - [fan](word) là gì
+
+      - [fan](word) nghĩa là gì?
+
+      - [fantastic](word) là gì
+
+      - [fantastic](word) nghĩa là gì?
+
+      - [farewell](word) là gì
+
+      - [farewell](word) nghĩa là gì?
+
+      - [farmer](word) co nghia la gi
+
+      - [farmer](word) là gì? 👨‍🌾
+
+      - [father](word) co nghia la gi
+
+      - [father](word) là gì?
+
+      - [february](word) la gi
+
+      - [february](word) là tháng mấy?
+
+      - [feeling](word) là gì
+
+      - [feeling](word) nghĩa là gì?
+
+      - [feijoa](word) co nghia la gi
+
+      - [feijoa](word) là quả gì?
+
+      - [festival](word) co nghia la gi
+
+      - [festival](word) là gì? 🎉
+
+      - [fiction](word) co nghia la gi
+
+      - [fiction](word) là gì?
+
+      - [fifteen](word) là gì?
+
+      - [fifteen](word) nghĩa là gì
+
+      - [fifth](word) là gì
+
+      - [fifth](word) nghĩa là gì?
+
+      - [fifty](word) co nghia la gi
+
+      - [fifty](word) là số mấy?
+
+      - [fig](word) là gì
+
+      - [fig](word) nghĩa là gì?
+
+      - [film](word) la gi
+
+      - [film](word) nghĩa là gì?
+
+      - [finance](word) là gì
+
+      - [finance](word) nghĩa là gì?
+
+      - [finger lime](word) là gì
+
+      - [finger lime](word) nghĩa là gì?
+
+      - [fire](word) là gì
+
+      - [fire](word) là gì 🔥
+
+      - [fire](word) nghĩa là gì?
+
+      - [firefighter](word) co nghia la gi
+
+      - [firefighter](word) là gì? 👨‍🚒
+
+      - [firewall](word) là gì
+
+      - [firewall](word) nghĩa là gì
+
+      - [first](word) là gì?
+
+      - [first](word) 🥇 nghĩa là gì
+
+      - [fish](word) là con gì?
+
+      - [fish](word) là gì 🐟
+
+      - [fish](word) nghia la gi
+
+      - [fish](word) nghĩa là gì?
+
+      - [fish](word) 🐟 là gì?
+
+      - [fish](word) 🐠 co nghia la gi
+
+      - [five](word) 5️⃣ nghĩa là gì
+
+      - [five](word) là gì?
+
+      - [flight attendant](word) là gì
+
+      - [flight attendant](word) nghĩa là gì?
+
+      - [flight](word) co nghia la gi
+
+      - [flight](word) là gì?
+
+      - [flour](word) co nghia la gi
+
+      - [flour](word) là gì?
+
+      - [flower](word) có nghĩa là gì?
+
+      - [flower](word) la gi
+
+      - [fog](word) la gi 🌫️
+
+      - [fog](word) là gì?
+
+      - [force](word) là gì trong tiếng Việt?
+
+      - [force](word) 💨 la gi trong tieng viet
+
+      - [forest](word) co nghia gi
+
+      - [forest](word) co nghia la gi
+
+      - [forest](word) là gì?
+
+      - [forty](word) là gì?
+
+      - [forty](word) nghĩa là gì
+
+      - [fossil fuel](word) có nghĩa là gì
+
+      - [fossil fuel](word) là gì?
+
+      - [fossil](word) là gì
+
+      - [fossil](word) là hóa thạch đúng không
+
+      - [fossil](word) ❓
+
+      - [four](word) 4️⃣ là gì
+
+      - [four](word) nghĩa là gì?
+
+      - [fourteen](word) là gì
+
+      - [fourteen](word) nghĩa là gì?
+
+      - [fourth](word) co nghia la gi
+
+      - [fourth](word) là gì?
+
+      - [fox](word) là gì?
+
+      - [fox](word) 🦊 nghĩa là gì
+
+      - [freedom](word) co nghia la gi
+
+      - [freedom](word) là gì?
+
+      - [freelancer](word) là gì
+
+      - [freelancer](word) nghĩa là gì?
+
+      - [french fries](word) nghĩa là gì
+
+      - [french fries](word) 🍟 là gì?
+
+      - [friction](word) là ma sát phải không?
+
+      - [friction](word) nghĩa là gì
+
+      - [friday](word) nghĩa là gì?
+
+      - [friday](word) 🗓️ là gì
+
+      - [friend](word) co nghia la gi
+
+      - [friend](word) là gì?
+
+      - [friendly](word) co nghia la gi
+
+      - [friendly](word) là gì?
+
+      - [friendship](word) co nghia la gi
+
+      - [friendship](word) là gì?
+
+      - [frog](word) là con gì?
+
+      - [frog](word) 🐸 co nghia la gi
+
+      - [fuchsia](word) co nghia la gi
+
+      - [fuchsia](word) là màu gì?
+
+      - [full-time](word) co nghia la gi
+
+      - [full-time](word) là gì?
+
+      - [funeral](word) là gì
+
+      - [funeral](word) nghĩa là gì?
+
+      - [fungus](word) la gi 🍄
+
+      - [fungus](word) là gì
+
+      - [funny](word) là gì
+
+      - [funny](word) nghĩa là gì? 😂
+
+      - [future](word) co nghia la gi
+
+      - [future](word) là gì?
+
+      - [galaxy](word) là gì
+
+      - [galaxy](word) là thiên hà đúng không
+
+      - [galaxy](word) ❓
+
+      - [gallery](word) co nghia la gi
+
+      - [gallery](word) là gì
+
+      - [gallery](word) là gì?
+
+      - [gallery](word) nghĩa là gì?
+
+      - [game](word) là gì
+
+      - [game](word) nghĩa là gì? 🎮
+
+      - [garlic](word) co nghia la gi
+
+      - [garlic](word) nghĩa là gì?
+
+      - [gate](word) co nghia la gi
+
+      - [gate](word) là gì?
+
+      - [gene](word) là gen đúng không
+
+      - [gene](word) là gì
+
+      - [gene](word) ❓
+
+      - [generation](word) là gì
+
+      - [generation](word) nghĩa là gì?
+
+      - [generous](word) là gì
+
+      - [generous](word) nghĩa là gì?
+
+      - [geography](word) co nghia la gi
+
+      - [geography](word) là gì? 🗺️
+
+      - [geology](word) là gì
+
+      - [geology](word) là địa chất học hả?
+
+      - [gin](word) là gì
+
+      - [gin](word) nghĩa là gì?
+
+      - [ginger](word) là củ gì?
+
+      - [ginger](word) nghĩa là gì?
+
+      - [giraffe](word) là gì?
+
+      - [giraffe](word) 🦒 nghĩa là gì
+
+      - [girl](word) là gì
+
+      - [girl](word) nghĩa là gì? 👧
+
+      - [glacier](word) có nghĩa là gì
+
+      - [glacier](word) la gi
+
+      - [glacier](word) là gì
+
+      - [glacier](word) là gì?
+
+      - [glad to meet you](word) co nghia la gi
+
+      - [glad to meet you](word) là gì?
+
+      - [goat](word) là con gì?
+
+      - [goat](word) 🐐 co nghia la gi
+
+      - [god](word) là gì
+
+      - [god](word) nghĩa là gì?
+
+      - [goji berry](word) là gì?
+
+      - [goji berry](word) nghĩa là gì
+
+      - [gold](word) nghĩa là gì?
+
+      - [gold](word) 🥇 là gì
+
+      - [good afternoon](word) là gì
+
+      - [good afternoon](word) nghĩa là gì?
+
+      - [good evening](word) là gì?
+
+      - [good evening](word) 🌆 nghĩa là gì
+
+      - [good luck](word) là gì?
+
+      - [good luck](word) 🍀 co nghia la gi
+
+      - [good morning](word) là gì?
+
+      - [good morning](word) ☀️ co nghia la gi
+
+      - [good night](word) dùng khi nào?
+
+      - [good night](word) la gi
+
+      - [good night](word) 🌙 có nghĩa là gì?
+
+      - [good to see you again](word) co nghia la gi
+
+      - [good to see you again](word) là gì?
+
+      - [good to see you](word) là gì?
+
+      - [good to see you](word) nghĩa là gì
+
+      - [goodbye](word) có nghĩa là gì?
+
+      - [goodbye](word) la gi
+
+      - [goodbye](word) là tạm biệt?
+
+      - [gooseberry](word) có nghĩa là gì?
+
+      - [gooseberry](word) la gi
+
+      - [gooseberry](word) là quả lý gai?
+
+      - [gossip](word) là gì
+
+      - [gossip](word) nghĩa là gì?
+
+      - [government](word) co nghia la gi
+
+      - [government](word) là gì?
+
+      - [grade](word) co nghia la gi
+
+      - [grade](word) là gì?
+
+      - [graduate](word) là gì
+
+      - [graduate](word) nghĩa là gì?
+
+      - [graduation](word) co nghia la gi
+
+      - [graduation](word) là gì? 🎓
+
+      - [grandchild](word) là gì
+
+      - [grandchild](word) nghĩa là gì?
+
+      - [grandfather](word) co nghia la gi
+
+      - [grandfather](word) là gì? 👴
+
+      - [grandmother](word) là gì
+
+      - [grandmother](word) nghĩa là gì? 👵
+
+      - [grandparent](word) co nghia la gi
+
+      - [grandparent](word) là gì?
+
+      - [grape](word) la gi
+
+      - [grape](word) là quả gì?
+
+      - [grape](word) 🍇 co nghia la gi
+
+      - [grape](word) 🍇 nghĩa là gì
+
+      - [grapefruit](word) là gì?
+
+      - [grapefruit](word) nghĩa là gì
+
+      - [grass](word) là gì?
+
+      - [grass](word) nghia la gi 🌿
+
+      - [gravity](word) có phải là trọng lực không?
+
+      - [gravity](word) nghĩa là gì
+
+      - [gray](word) là gì?
+
+      - [gray](word) 🔘 nghĩa là gì
+
+      - [great](word) là gì?
+
+      - [great](word) 🎉 nghĩa là gì
+
+      - [green tea](word) co nghia la gi
+
+      - [green tea](word) là gì?
+
+      - [green](word) la gi trong tieng viet
+
+      - [green](word) nghĩa là gì?
+
+      - [green](word) 🟢 là màu gì
+
+      - [greetings](word) là gì?
+
+      - [greetings](word) nghĩa là gì
+
+      - [grumpy](word) là gì
+
+      - [grumpy](word) nghĩa là gì?
+
+      - [guava](word) là gì?
+
+      - [guava](word) nghĩa là gì
+
+      - [guesthouse](word) là gì
+
+      - [guesthouse](word) nghĩa là gì?
+
+      - [guide](word) co nghia la gi
+
+      - [guide](word) là gì?
+
+      - [guidebook](word) là gì
+
+      - [guidebook](word) nghĩa là gì?
+
+      - [guitar](word) co nghia la gi
+
+      - [guitar](word) là gì? 🎸
+
+      - [gymnasium](word) co nghia la gi
+
+      - [gymnasium](word) là gì?
+
+      - [habitat](word) co phai moi truong song?
+
+      - [habitat](word) là gì
+
+      - [habitat](word) là gì thế
+
+      - [habitat](word) nghĩa là gì?
+
+      - [half](word) là gì?
+
+      - [half](word) 🌗 nghĩa là gì
+
+      - [hamburger](word) nghĩa là gì
+
+      - [hamburger](word) 🍔 là gì?
+
+      - [hamster](word) là gì?
+
+      - [hamster](word) 🐹 nghĩa là gì
+
+      - [happy](word) co nghia la gi
+
+      - [happy](word) là gì? 😊
+
+      - [hard-working](word) co nghia la gi
+
+      - [hard-working](word) là gì?
+
+      - [hardware](word) có phải là phần cứng không?
+
+      - [hardware](word) nghĩa là gì
+
+      - [hate](word) là gì
+
+      - [hate](word) nghĩa là gì?
+
+      - [have a good day](word) là gì?
+
+      - [have a good day](word) nghĩa là gì
+
+      - [have a great weekend](word) là gì?
+
+      - [have a great weekend](word) nghĩa là gì
+
+      - [have a nice day](word) la gi
+
+      - [have a nice day](word) là gì?
+
+      - [have a nice day](word) 😊 có nghĩa là gì?
+
+      - [have you met...](word) là gì?
+
+      - [have you met...](word) nghĩa là gì
+
+      - [health](word) là gì
+
+      - [health](word) nghĩa là gì? ❤️
+
+      - [heart](word) là gì?
+
+      - [heart](word) tieng viet la gi
+
+      - [helix](word) là gì?
+
+      - [helix](word) tieng viet la gi
+
+      - [hello](word) là gì?
+
+      - [hello](word) 👋 co nghia la gi
+
+      - [hemisphere](word) là gì?
+
+      - [hemisphere](word) tieng viet la gi
+
+      - [heptagon](word) là gì?
+
+      - [heptagon](word) tieng viet la gi
+
+      - [herbal tea](word) co nghia la gi
+
+      - [herbal tea](word) là gì?
+
+      - [hexagon](word) là gì?
+
+      - [hexagon](word) tieng viet la gi
+
+      - [hey](word) là gì?
+
+      - [hey](word) nghĩa là gì
+
+      - [hi](word) la gi trong tieng viet
+
+      - [hi](word) là gì
+
+      - [hi](word) nghĩa là gì?
+
+      - [hiking](word) co nghia la gi
+
+      - [hiking](word) là gì? 🥾
+
+      - [hill](word) là gì?
+
+      - [hill](word) nghĩa là gì
+
+      - [hire](word) co nghia la gi
+
+      - [hire](word) là gì?
+
+      - [history](word) là gì
+
+      - [history](word) nghĩa là gì?
+
+      - [hobby](word) co nghia la gi
+
+      - [hobby](word) là gì?
+
+      - [holiday](word) co nghia la gi
+
+      - [holiday](word) là gì?
+
+      - [holiday](word) là gì? 🎉
+
+      - [homeless](word) co nghia la gi
+
+      - [homeless](word) là gì?
+
+      - [homework](word) là gì
+
+      - [homework](word) nghĩa là gì?
+
+      - [honest](word) là gì
+
+      - [honest](word) nghĩa là gì?
+
+      - [honey](word) co nghia la gi
+
+      - [honey](word) 🍯 là gì?
+
+      - [honeydew](word) là gì?
+
+      - [honeydew](word) nghĩa là gì
+
+      - [horror](word) co nghia la gi
+
+      - [horror](word) là gì? 👻
+
+      - [horse](word) nghĩa là gì?
+
+      - [horse](word) 🐎 là gì
+
+      - [hospital](word) co nghia la gi
+
+      - [hospital](word) là gì? 🏥
+
+      - [hostel](word) là gì
+
+      - [hostel](word) nghĩa là gì?
+
+      - [hot chocolate](word) co nghia la gi
+
+      - [hot chocolate](word) ☕ là gì?
+
+      - [hot](word) co nghia la gi
+
+      - [hot](word) là gì? 🔥
+
+      - [hotel](word) co nghia la gi
+
+      - [hotel](word) là gì? 🏨
+
+      - [hour](word) là gì?
+
+      - [hour](word) ⏰ nghĩa là gì
+
+      - [how about you?](word) có nghĩa là gì?
+
+      - [how about you?](word) la gi
+
+      - [how about you?](word) là hỏi lại?
+
+      - [how are you doing?](word) là gì
+
+      - [how are you doing?](word) nghĩa là gì?
+
+      - [how are you?](word) co nghia la gi
+
+      - [how are you?](word) là gì?
+
+      - [how can i help you?](word) là gì
+
+      - [how can i help you?](word) nghĩa là gì?
+
+      - [how do you do?](word) là gì
+
+      - [how do you do?](word) nghĩa là gì?
+
+      - [how have you been?](word) có nghĩa là gì?
+
+      - [how have you been?](word) dùng khi nào?
+
+      - [how have you been?](word) la gi
+
+      - [how was your day?](word) là gì?
+
+      - [how was your day?](word) nghĩa là gì
+
+      - [how was your weekend?](word) là gì
+
+      - [how was your weekend?](word) nghĩa là gì?
+
+      - [how's everything?](word) là gì
+
+      - [how's everything?](word) nghĩa là gì?
+
+      - [how's it going?](word) là gì?
+
+      - [how's it going?](word) nghĩa là gì
+
+      - [how's life?](word) là gì?
+
+      - [how's life?](word) nghĩa là gì
+
+      - [huckleberry](word) có nghĩa là gì?
+
+      - [huckleberry](word) la gi
+
+      - [huckleberry](word) là quả gì?
+
+      - [human](word) co nghia la gi
+
+      - [human](word) là gì?
+
+      - [humidity](word) la gi
+
+      - [humidity](word) là gì?
+
+      - [hungry](word) là gì
+
+      - [hungry](word) nghĩa là gì?
+
+      - [hungry](word) nghĩa là gì? 😋
+
+      - [husband](word) là gì
+
+      - [husband](word) nghĩa là gì?
+
+      - [i apologize](word) là gì
+
+      - [i apologize](word) nghĩa là gì?
+
+      - [i'd like you to meet...](word) có nghĩa là gì?
+
+      - [i'd like you to meet...](word) la gi
+
+      - [i'd like you to meet...](word) là gì?
+
+      - [i'm a/an...](word) co nghia la gi
+
+      - [i'm a/an...](word) là gì?
+
+      - [i'm doing well](word) co nghia la gi
+
+      - [i'm doing well](word) là gì?
+
+      - [i'm fine, thank you](word) có nghĩa là gì?
+
+      - [i'm fine, thank you](word) la gi
+
+      - [i'm fine, thank you](word) là câu gì?
+
+      - [i'm from...](word) là gì?
+
+      - [i'm from...](word) nghĩa là gì
+
+      - [i'm good](word) là gì?
+
+      - [i'm good](word) 👍 nghĩa là gì
+
+      - [i'm just looking](word) co nghia la gi
+
+      - [i'm just looking](word) là gì?
+
+      - [i'm okay](word) có nghĩa là gì?
+
+      - [i'm okay](word) la gi
+
+      - [i'm okay](word) là ổn phải không?
+
+      - [i'm sorry](word) là gì?
+
+      - [i'm sorry](word) 😥 co nghia la gi
+
+      - [i'm...](word) là gì
+
+      - [i'm...](word) nghĩa là gì?
+
+      - [i've been busy](word) là gì
+
+      - [i've been busy](word) nghĩa là gì?
+
+      - [ice cream](word) co nghia la gi
+
+      - [ice cream](word) 🍦 là gì?
+
+      - [ice](word) là gì 🧊
+
+      - [ice](word) nghĩa là gì?
+
+      - [iced tea](word) là gì?
+
+      - [iced tea](word) nghĩa là gì
+
+      - [icosahedron](word) là gì?
+
+      - [icosahedron](word) tieng viet la gi
+
+      - [ilama](word) là gì
+
+      - [ilama](word) nghĩa là gì?
+
+      - [impatient](word) co nghia la gi
+
+      - [impatient](word) là gì?
+
+      - [income](word) là gì
+
+      - [income](word) nghĩa là gì?
+
+      - [indigo](word) là gì?
+
+      - [indigo](word) nghĩa là gì
+
+      - [industry](word) là gì
+
+      - [industry](word) nghĩa là gì?
+
+      - [insect](word) là gì?
+
+      - [insect](word) nghia la gi 🐞
+
+      - [instrument](word) là gì
+
+      - [instrument](word) nghĩa là gì?
+
+      - [insurance](word) là gì
+
+      - [insurance](word) nghĩa là gì?
+
+      - [intelligence](word) co nghia la gi
+
+      - [intelligence](word) là gì?
+
+      - [interested](word) là gì
+
+      - [interested](word) nghĩa là gì?
+
+      - [international](word) co nghia la gi
+
+      - [international](word) là gì?
+
+      - [internet](word) co nghia la gi
+
+      - [internet](word) là gì
+
+      - [internet](word) là gì?
+
+      - [internet](word) nghĩa là gì?
+
+      - [internship](word) là gì
+
+      - [internship](word) nghĩa là gì?
+
+      - [interview](word) co nghia la gi
+
+      - [interview](word) là gì?
+
+      - [ion](word) la gi
+
+      - [ion](word) là gì
+
+      - [ion](word) trong hóa học là gì
+
+      - [ionic bond](word) la gi
+
+      - [ionic bond](word) là gì
+
+      - [island](word) là gì
+
+      - [island](word) là gì?
+
+      - [island](word) nghĩa là gì 🏝️
+
+      - [island](word) nghĩa là gì? 🏝️
+
+      - [isosceles triangle](word) là gì?
+
+      - [isosceles triangle](word) tieng viet la gi
+
+      - [isotope](word) là gì
+
+      - [isotope](word) nghĩa là gì
+
+      - [it's a pleasure to meet you](word) là gì?
+
+      - [it's a pleasure to meet you](word) nghĩa là gì
+
+      - [it's been a while](word) co nghia la gi
+
+      - [it's been a while](word) là gì?
+
+      - [ivory](word) là gì
+
+      - [ivory](word) nghĩa là gì?
+
+      - [jabuticaba](word) là gì?
+
+      - [jabuticaba](word) nghĩa là gì
+
+      - [jackfruit](word) là gì?
+
+      - [jackfruit](word) nghĩa là gì
+
+      - [january](word) là gì?
+
+      - [january](word) nghĩa là gì
+
+      - [jealous](word) co nghia la gi
+
+      - [jealous](word) là gì?
+
+      - [job](word) co nghia la gi
+
+      - [job](word) là gì
+
+      - [job](word) là gì?
+
+      - [job](word) nghĩa là gì?
+
+      - [journalist](word) co nghia la gi
+
+      - [journalist](word) là gì
+
+      - [journalist](word) là gì?
+
+      - [journalist](word) nghĩa là gì?
+
+      - [journey](word) là gì
+
+      - [journey](word) nghĩa là gì?
+
+      - [judge](word) co nghia la gi
+
+      - [judge](word) là gì
+
+      - [judge](word) là gì?
+
+      - [judge](word) nghĩa là gì?
+
+      - [juice](word) co nghia la gi
+
+      - [juice](word) là gì
+
+      - [juice](word) là gì?
+
+      - [juice](word) nghĩa là gì?
+
+      - [jujube](word) có nghĩa là gì?
+
+      - [jujube](word) la gi
+
+      - [jujube](word) là táo tàu?
+
+      - [july](word) co nghia la gi
+
+      - [july](word) là tháng mấy?
+
+      - [june](word) là gì?
+
+      - [june](word) nghĩa là gì
+
+      - [jungle](word) là gì
+
+      - [jungle](word) nghĩa là gì?
+
+      - [justice](word) là gì
+
+      - [justice](word) nghĩa là gì?
+
+      - [kangaroo](word) là gì
+
+      - [kangaroo](word) nghĩa là gì?
+
+      - [key](word) co nghia la gi
+
+      - [key](word) là gì? 🔑
+
+      - [kind](word) co nghia la gi
+
+      - [kind](word) là gì?
+
+      - [king](word) là gì
+
+      - [king](word) nghĩa là gì? 👑
+
+      - [kite](word) là gì?
+
+      - [kite](word) tieng viet la gi
+
+      - [kiwano](word) là gì
+
+      - [kiwano](word) nghĩa là gì?
+
+      - [kiwi](word) co nghia la gi
+
+      - [kiwi](word) la gi
+
+      - [kiwi](word) là quả gì?
+
+      - [kiwi](word) nghĩa là gì? 🥝
+
+      - [knowledge](word) là gì
+
+      - [knowledge](word) nghĩa là gì?
+
+      - [koala](word) là gì?
+
+      - [koala](word) 🐨 nghĩa là gì
+
+      - [kombucha](word) co nghia la gi
+
+      - [kombucha](word) là gì?
+
+      - [kumquat](word) co nghia la gi
+
+      - [kumquat](word) là quả gì?
+
+      - [laboratory](word) co nghia la gi
+
+      - [laboratory](word) là gì?
+
+      - [lake](word) là gì
+
+      - [lake](word) là gì 🏞️
+
+      - [lake](word) nghĩa là gì
+
+      - [lake](word) nghĩa là gì?
+
+      - [lamb](word) là thịt gì
+
+      - [lamb](word) nghĩa là gì?
+
+      - [landscape](word) la gi
+
+      - [landscape](word) là gì?
+
+      - [langsat](word) là gì?
+
+      - [langsat](word) nghĩa là gì
+
+      - [language](word) co nghia la gi
+
+      - [language](word) là gì?
+
+      - [laptop](word) là gì
+
+      - [laptop](word) nghĩa là gì?
+
+      - [latte](word) là gì
+
+      - [latte](word) nghĩa là gì?
+
+      - [lava](word) có nghĩa là gì
+
+      - [lava](word) là gì
+
+      - [lavender](word) là gì?
+
+      - [lavender](word) nghĩa là gì
+
+      - [law](word) là gì
+
+      - [law](word) nghĩa là gì? ⚖️
+
+      - [lawyer](word) co nghia la gi
+
+      - [lawyer](word) là gì
+
+      - [lawyer](word) là gì?
+
+      - [lawyer](word) nghĩa là gì?
+
+      - [lazy](word) là gì
+
+      - [lazy](word) nghĩa là gì?
+
+      - [leaf](word) là gì?
+
+      - [leaf](word) nghĩa là gì
+
+      - [learn](word) là gì
+
+      - [learn](word) nghĩa là gì?
+
+      - [lecture](word) là gì
+
+      - [lecture](word) nghĩa là gì?
+
+      - [lecturer](word) là gì
+
+      - [lecturer](word) nghĩa là gì?
+
+      - [leisure](word) là gì
+
+      - [leisure](word) nghĩa là gì?
+
+      - [lemon](word) là gì?
+
+      - [lemon](word) là quả gì?
+
+      - [lemon](word) 🍋 co nghia la gi
+
+      - [lemon](word) 🍋 nghia la gi
+
+      - [lemonade](word) co nghia la gi
+
+      - [lemonade](word) là gì? 🍋
+
+      - [lesson](word) co nghia la gi
+
+      - [lesson](word) là gì?
+
+      - [lettuce](word) là rau gì?
+
+      - [lettuce](word) nghĩa là gì?
+
+      - [librarian](word) co nghia la gi
+
+      - [librarian](word) là gì?
+
+      - [library](word) là gì
+
+      - [library](word) nghĩa là gì?
+
+      - [library](word) nghĩa là gì? 📚
+
+      - [life](word) là gì
+
+      - [life](word) nghĩa là gì?
+
+      - [light blue](word) có nghĩa là gì?
+
+      - [light blue](word) la gi
+
+      - [light blue](word) là màu gì?
+
+      - [light-year](word) (năm ánh sáng) là gì?
+
+      - [light-year](word) là gì
+
+      - [light-year](word) nghĩa là sao
+
+      - [light](word) co nghia la gi
+
+      - [light](word) là gì?
+
+      - [lightning](word) là gì?
+
+      - [lightning](word) nghia la gi ⚡
+
+      - [like](word) co nghia la gi
+
+      - [like](word) là gì? 👍
+
+      - [lime](word) la gi
+
+      - [lime](word) là gì
+
+      - [lime](word) là gì?
+
+      - [lime](word) nghĩa là gì
+
+      - [lime](word) nghĩa là gì?
+
+      - [line](word) là gì?
+
+      - [line](word) tieng viet la gi
+
+      - [lion](word) nghĩa là gì?
+
+      - [lion](word) 🦁 là gì
+
+      - [lipid](word) có nghĩa là gì
+
+      - [lipid](word) la gi
+
+      - [lipid](word) là gì
+
+      - [literature](word) là gì
+
+      - [literature](word) nghĩa là gì?
+
+      - [lizard](word) nghĩa là gì?
+
+      - [lizard](word) 🦎 là gì
+
+      - [lobby](word) là gì
+
+      - [lobby](word) nghĩa là gì?
+
+      - [lobster](word) là gì?
+
+      - [lobster](word) nghĩa là gì
+
+      - [local](word) là gì
+
+      - [local](word) nghĩa là gì?
+
+      - [loganberry](word) là gì?
+
+      - [loganberry](word) nghĩa là gì
+
+      - [lonely](word) là gì
+
+      - [lonely](word) nghĩa là gì?
+
+      - [long time no see](word) là gì?
+
+      - [long time no see](word) nghĩa là gì
+
+      - [longan](word) co nghia la gi
+
+      - [longan](word) là quả gì?
+
+      - [loop](word) là gì?
+
+      - [loop](word) tieng viet la gi
+
+      - [loquat](word) là gì?
+
+      - [loquat](word) nghĩa là gì
+
+      - [love](word) co nghia la gi
+
+      - [love](word) là gì
+
+      - [love](word) là gì? ❤️
+
+      - [love](word) nghĩa là gì?
+
+      - [loyal](word) co nghia la gi
+
+      - [loyal](word) là gì?
+
+      - [lucuma](word) có nghĩa là gì?
+
+      - [lucuma](word) la gi
+
+      - [lucuma](word) là lê ki ma?
+
+      - [luggage](word) là gì
+
+      - [luggage](word) nghĩa là gì?
+
+      - [lychee](word) là gì
+
+      - [lychee](word) nghĩa là gì?
+
+      - [lyrics](word) co nghia la gi
+
+      - [lyrics](word) là gì?
+
+      - [machine learning](word) là học máy phải không?
+
+      - [machine learning](word) nghĩa là gì
+
+      - [magazine](word) là gì
+
+      - [magazine](word) nghĩa là gì?
+
+      - [magenta](word) là gì?
+
+      - [magenta](word) nghĩa là gì
+
+      - [magic](word) là gì
+
+      - [magic](word) nghĩa là gì? 🪄
+
+      - [magma](word) la gi
+
+      - [magma](word) nghĩa là gì vậy
+
+      - [magnetism](word) là gì
+
+      - [magnetism](word) là từ tính hả?
+
+      - [major](word) co nghia la gi
+
+      - [major](word) là gì?
+
+      - [mamey sapote](word) có nghĩa là gì?
+
+      - [mamey sapote](word) la gi
+
+      - [mamey sapote](word) là quả gì?
+
+      - [mammal](word) là gì?
+
+      - [mammal](word) nghĩa là gì
+
+      - [man](word) co nghia la gi
+
+      - [man](word) là gì? 👨
+
+      - [manager](word) là gì
+
+      - [manager](word) nghĩa là gì?
+
+      - [mango](word) có nghĩa là gì?
+
+      - [mango](word) la gi
+
+      - [mango](word) la qua gi
+
+      - [mango](word) là quả xoài?
+
+      - [mango](word) nghĩa là gì?
+
+      - [mangosteen](word) là gì
+
+      - [mangosteen](word) nghĩa là gì?
+
+      - [mantle](word) (lớp manti) là gì?
+
+      - [mantle](word) là gì
+
+      - [mantle](word) nghĩa là sao
+
+      - [map](word) là gì
+
+      - [map](word) nghĩa là gì? 🗺️
+
+      - [march](word) nghĩa là gì?
+
+      - [march](word) 🌸 là gì
+
+      - [margarita](word) co nghia la gi
+
+      - [margarita](word) là gì?
+
+      - [marionberry](word) co nghia la gi
+
+      - [marionberry](word) là quả gì?
+
+      - [mark](word) là gì
+
+      - [mark](word) nghĩa là gì?
+
+      - [marker](word) là gì
+
+      - [marker](word) nghĩa là gì?
+
+      - [market](word) co nghia la gi
+
+      - [market](word) là gì?
+
+      - [marketing](word) là gì
+
+      - [marketing](word) nghĩa là gì?
+
+      - [maroon](word) là gì
+
+      - [maroon](word) nghĩa là gì?
+
+      - [marriage](word) là gì
+
+      - [marriage](word) nghĩa là gì? 💍
+
+      - [mass](word) có nghĩa là gì
+
+      - [mass](word) là gì
+
+      - [matcha](word) là gì
+
+      - [matcha](word) nghĩa là gì? 🍵
+
+      - [mathematics](word) co nghia la gi
+
+      - [mathematics](word) là gì?
+
+      - [may i have your name?](word) co nghia la gi
+
+      - [may i have your name?](word) là gì?
+
+      - [may i help you?](word) là gì?
+
+      - [may i help you?](word) nghĩa là gì
+
+      - [may](word) có nghĩa là gì?
+
+      - [may](word) la gi
+
+      - [may](word) là tháng 5?
+
+      - [meadow](word) là gì?
+
+      - [meadow](word) nghĩa là gì
+
+      - [mean](word) co nghia la gi
+
+      - [mean](word) là gì?
+
+      - [mechanic](word) là gì
+
+      - [mechanic](word) nghĩa là gì?
+
+      - [media](word) co nghia la gi
+
+      - [media](word) là gì?
+
+      - [medicine](word) co nghia la gi
+
+      - [medicine](word) là gì? 💊
+
+      - [meeting](word) là gì
+
+      - [meeting](word) nghĩa là gì?
+
+      - [metabolism](word) la gi
+
+      - [metabolism](word) là gì?
+
+      - [metabolism](word) nghĩa là gì
+
+      - [meteor](word) la gi
+
+      - [meteor](word) là gì?
+
+      - [meteor](word) nghĩa là gì
+
+      - [midnight](word) là gì?
+
+      - [midnight](word) 🕛 nghĩa là gì
+
+      - [milk](word) là gì
+
+      - [milk](word) nghĩa là gì
+
+      - [milk](word) nghĩa là gì? 🥛
+
+      - [milk](word) 🥛 là gì?
+
+      - [milkshake](word) là gì
+
+      - [milkshake](word) nghĩa là gì?
+
+      - [mineral water](word) co nghia la gi
+
+      - [mineral water](word) là gì?
+
+      - [mineral](word) dịch ra là gì
+
+      - [mineral](word) là cái gì thế
+
+      - [mineral](word) là gì 💎
+
+      - [mineral](word) nghĩa là gì?
+
+      - [mineral](word) nghĩa là sao
+
+      - [mint](word) co nghia la gi
+
+      - [mint](word) là màu gì?
+
+      - [minus](word) la gi
+
+      - [minus](word) là phép trừ?
+
+      - [minus](word) ➖ có nghĩa là gì?
+
+      - [minute](word) có nghĩa là gì?
+
+      - [minute](word) la gi
+
+      - [minute](word) là phút?
+
+      - [miracle fruit](word) co nghia la gi
+
+      - [miracle fruit](word) là quả gì?
+
+      - [miserable](word) là gì
+
+      - [miserable](word) nghĩa là gì?
+
+      - [mitochondria](word) la gi
+
+      - [mitochondria](word) là gì
+
+      - [mitochondria](word) nghĩa là gì
+
+      - [mixture](word) dịch ra là gì
+
+      - [mixture](word) là cái gì thế
+
+      - [mixture](word) nghĩa là sao
+
+      - [mojito](word) nghĩa là gì
+
+      - [mojito](word) 🍸 là gì?
+
+      - [molecule](word) co phai phan tu?
+
+      - [molecule](word) là gì
+
+      - [molecule](word) là gì thế
+
+      - [momentum](word) la gi
+
+      - [momentum](word) là gì?
+
+      - [momentum](word) nghĩa là gì
+
+      - [monday](word) co nghia la gi
+
+      - [monday](word) là gì?
+
+      - [money](word) co nghia la gi
+
+      - [money](word) là gì? 💰
+
+      - [money](word) là gì? 💵
+
+      - [monkey](word) là con gì?
+
+      - [monkey](word) 🐒 la gi
+
+      - [monstera deliciosa](word) là gì?
+
+      - [monstera deliciosa](word) nghĩa là gì
+
+      - [month](word) có nghĩa là gì?
+
+      - [month](word) la gi
+
+      - [month](word) là tháng?
+
+      - [monthly](word) là gì?
+
+      - [monthly](word) nghĩa là gì
+
+      - [monument](word) là gì
+
+      - [monument](word) nghĩa là gì?
+
+      - [mood](word) co nghia la gi
+
+      - [mood](word) là gì?
+
+      - [moon](word) la gi vay 🌙
+
+      - [moon](word) nghĩa là gì?
+
+      - [morning](word) là gì?
+
+      - [morning](word) 🌅 nghĩa là gì
+
+      - [mother](word) là gì
+
+      - [mother](word) nghĩa là gì?
+
+      - [motorcycle](word) co nghia la gi
+
+      - [motorcycle](word) là gì? 🛵
+
+      - [mountain](word) co nghia la gi ⛰️
+
+      - [mountain](word) là gì
+
+      - [mountain](word) là gì?
+
+      - [mountain](word) nghĩa là gì? ⛰️
+
+      - [mouse](word) la gi
+
+      - [mouse](word) là con chuột?
+
+      - [mouse](word) 🐭 có nghĩa là gì?
+
+      - [movie](word) co nghia la gi
+
+      - [movie](word) là gì? 🎬
+
+      - [mulberry](word) co nghia la gi
+
+      - [mulberry](word) là quả gì?
+
+      - [museum](word) co nghia la gi
+
+      - [museum](word) là gì
+
+      - [museum](word) là gì?
+
+      - [museum](word) nghĩa là gì?
+
+      - [mushroom](word) co nghia la gi
+
+      - [mushroom](word) là gì? 🍄
+
+      - [music](word) co nghia la gi
+
+      - [music](word) là gì? 🎵
+
+      - [musician](word) co nghia la gi
+
+      - [musician](word) là gì? 🎵
+
+      - [mustard](word) là gì?
+
+      - [mustard](word) nghĩa là gì
+
+      - [my name is...](word) co nghia la gi
+
+      - [my name is...](word) là gì?
+
+      - [my pleasure](word) là gì?
+
+      - [my pleasure](word) nghĩa là gì
+
+      - [nance](word) co nghia la gi
+
+      - [nance](word) là quả gì?
+
+      - [nation](word) là gì
+
+      - [nation](word) nghĩa là gì?
+
+      - [nature](word) là gì
+
+      - [nature](word) là gì?
+
+      - [nature](word) nghĩa là gì
+
+      - [nature](word) nghĩa là gì?
+
+      - [navy](word) là gì?
+
+      - [navy](word) nghĩa là gì
+
+      - [nebula](word) co phai tinh van?
+
+      - [nebula](word) là gì
+
+      - [nebula](word) là gì thế
+
+      - [nectarine](word) có nghĩa là gì?
+
+      - [nectarine](word) la gi
+
+      - [nectarine](word) là xuân đào?
+
+      - [neighbor](word) co nghia la gi
+
+      - [neighbor](word) là gì
+
+      - [neighbor](word) là gì?
+
+      - [neighbor](word) nghĩa là gì?
+
+      - [nephew](word) là gì
+
+      - [nephew](word) nghĩa là gì?
+
+      - [nervous](word) co nghia la gi
+
+      - [nervous](word) là gì?
+
+      - [network](word) la gi
+
+      - [network](word) nghĩa là gì vậy
+
+      - [neutron](word) là ai
+
+      - [neutron](word) là neutron à
+
+      - [neutron](word) nghĩa là gì
+
+      - [news](word) co nghia la gi
+
+      - [news](word) là gì
+
+      - [news](word) là gì? 📰
+
+      - [news](word) nghĩa là gì?
+
+      - [newspaper](word) co nghia la gi
+
+      - [newspaper](word) là gì?
+
+      - [nice to meet you too](word) là gì
+
+      - [nice to meet you too](word) nghĩa là gì?
+
+      - [nice to meet you](word) la gi
+
+      - [nice to meet you](word) là gì?
+
+      - [nice to meet you](word) 🤝 có nghĩa là gì?
+
+      - [nice](word) là gì
+
+      - [nice](word) nghĩa là gì?
+
+      - [niece](word) co nghia la gi
+
+      - [niece](word) là gì?
+
+      - [night](word) la gi
+
+      - [night](word) là ban đêm?
+
+      - [night](word) 🌃 có nghĩa là gì?
+
+      - [nine](word) 9️⃣ là gì
+
+      - [nine](word) nghĩa là gì?
+
+      - [nineteen](word) là gì
+
+      - [nineteen](word) nghĩa là gì?
+
+      - [ninety](word) là gì?
+
+      - [ninety](word) nghĩa là gì
+
+      - [no problem](word) co nghia la gi
+
+      - [no problem](word) là gì?
+
+      - [no, thank you](word) là gì?
+
+      - [no, thank you](word) nghĩa là gì
+
+      - [non-fiction](word) là gì
+
+      - [non-fiction](word) nghĩa là gì?
+
+      - [nonagon](word) là gì?
+
+      - [nonagon](word) tieng viet la gi
+
+      - [noni](word) là gì
+
+      - [noni](word) nghĩa là gì?
+
+      - [noodle](word) co nghia la gi
+
+      - [noodle](word) 🍜 là gì?
+
+      - [noon](word) co nghia la gi
+
+      - [noon](word) là gì?
+
+      - [north](word) co nghia la gi
+
+      - [north](word) là gì?
+
+      - [not bad](word) là gì?
+
+      - [not bad](word) nghĩa là gì
+
+      - [notebook](word) là gì
+
+      - [notebook](word) nghĩa là gì? 📔
+
+      - [novel](word) co nghia la gi
+
+      - [novel](word) là gì?
+
+      - [november](word) là gì?
+
+      - [november](word) nghĩa là gì
+
+      - [nucleus (bio)](word) là gì
+
+      - [nucleus (bio)](word) là nhân tế bào hả?
+
+      - [nucleus](word) la gi
+
+      - [nucleus](word) là gì
+
+      - [number](word) là gì?
+
+      - [number](word) 🔢 nghĩa là gì
+
+      - [nurse](word) co nghia la gi
+
+      - [nurse](word) là gì? 👩‍⚕️
+
+      - [occupation](word) co nghia la gi
+
+      - [occupation](word) là gì?
+
+      - [ocean](word) co nghia la gi
+
+      - [ocean](word) dịch ra tiếng Việt
+
+      - [ocean](word) là gì vậy?
+
+      - [ocean](word) là gì? 🌊
+
+      - [octagon](word) là gì?
+
+      - [octagon](word) tieng viet la gi
+
+      - [octahedron](word) là gì?
+
+      - [octahedron](word) tieng viet la gi
+
+      - [october](word) có nghĩa là gì?
+
+      - [october](word) la gi
+
+      - [october](word) là tháng 10?
+
+      - [octopus](word) là con gì?
+
+      - [octopus](word) 🐙 co nghia la gi
+
+      - [office](word) là gì
+
+      - [office](word) nghĩa là gì?
+
+      - [oil](word) co nghia la gi
+
+      - [oil](word) là gì?
+
+      - [olive](word) là gì
+
+      - [olive](word) là gì?
+
+      - [olive](word) nghĩa là gì
+
+      - [olive](word) nghĩa là gì?
+
+      - [omelette](word) co nghia la gi
+
+      - [omelette](word) là gì?
+
+      - [once](word) co nghia la gi
+
+      - [once](word) là gì?
+
+      - [one billion](word) có nghĩa là gì?
+
+      - [one billion](word) la gi
+
+      - [one billion](word) là một tỷ?
+
+      - [one hundred](word) co nghia la gi
+
+      - [one hundred](word) là số mấy?
+
+      - [one million](word) là gì?
+
+      - [one million](word) nghĩa là gì
+
+      - [one thousand](word) là gì
+
+      - [one thousand](word) nghĩa là gì?
+
+      - [one](word) 1️⃣ là gì
+
+      - [one](word) la gi trong tieng viet
+
+      - [one](word) nghĩa là gì?
+
+      - [onion](word) là củ gì?
+
+      - [onion](word) là gì?
+
+      - [opera](word) co nghia la gi
+
+      - [opera](word) là gì?
+
+      - [operating system](word) la gi
+
+      - [operating system](word) là gì
+
+      - [optimistic](word) co nghia la gi
+
+      - [optimistic](word) là gì?
+
+      - [orange juice](word) nghĩa là gì
+
+      - [orange juice](word) 🍊 là gì?
+
+      - [orange](word) có nghĩa là gì thế?
+
+      - [orange](word) la gi
+
+      - [orange](word) là gì trong tiếng Việt?
+
+      - [orange](word) là gì?
+
+      - [orange](word) là màu cam?
+
+      - [orange](word) 🍊 nghĩa là gì
+
+      - [orange](word) 🟠 có nghĩa là gì?
+
+      - [orbit](word) là ai
+
+      - [orbit](word) là quỹ đạo à
+
+      - [orbit](word) nghĩa là gì
+
+      - [organism](word) la gi trong tieng viet
+
+      - [organism](word) là gì
+
+      - [organization](word) co nghia la gi
+
+      - [organization](word) là gì?
+
+      - [oval](word) là gì?
+
+      - [oval](word) tieng viet la gi
+
+      - [overtime](word) là gì
+
+      - [overtime](word) nghĩa là gì?
+
+      - [owl](word) là con gì?
+
+      - [owl](word) 🦉 co nghia la gi
+
+      - [oxidation](word) (sự oxy hóa) là gì?
+
+      - [oxidation](word) là gì
+
+      - [oxidation](word) nghĩa là sao
+
+      - [oxygen](word) có nghĩa là gì
+
+      - [oxygen](word) là gì?
+
+      - [pH](word) là độ pH phải không?
+
+      - [pH](word) nghĩa là gì
+
+      - [pagoda](word) là gì
+
+      - [pagoda](word) nghĩa là gì?
+
+      - [painting](word) co nghia la gi
+
+      - [painting](word) là gì?
+
+      - [palace](word) co nghia la gi
+
+      - [palace](word) là gì?
+
+      - [paleontology](word) la gi 🦕
+
+      - [paleontology](word) là gì
+
+      - [paleontology](word) nghĩa là gì
+
+      - [pancake](word) co nghia la gi
+
+      - [pancake](word) là bánh gì?
+
+      - [panda](word) la gi
+
+      - [panda](word) là gấu trúc?
+
+      - [panda](word) 🐼 có nghĩa là gì?
+
+      - [papaya](word) co nghia la gi
+
+      - [papaya](word) dịch sang tiếng việt
+
+      - [papaya](word) là gì?
+
+      - [papaya](word) là quả gì?
+
+      - [parallelogram](word) là gì?
+
+      - [parallelogram](word) tieng viet la gi
+
+      - [pardon me](word) là gì?
+
+      - [pardon me](word) nghĩa là gì
+
+      - [parent](word) co nghia la gi
+
+      - [parent](word) là gì?
+
+      - [park](word) co nghia la gi
+
+      - [park](word) là gì?
+
+      - [part-time](word) là gì
+
+      - [part-time](word) nghĩa là gì?
+
+      - [pass](word) là gì
+
+      - [pass](word) nghĩa là gì?
+
+      - [passion fruit](word) có nghĩa là gì?
+
+      - [passion fruit](word) la gi
+
+      - [passion fruit](word) là chanh dây?
+
+      - [passport](word) là gì
+
+      - [passport](word) nghĩa là gì? 🛂
+
+      - [past](word) là gì
+
+      - [past](word) nghĩa là gì?
+
+      - [pasta](word) nghĩa là gì
+
+      - [pasta](word) 🍝 là gì?
+
+      - [patient](word) là gì
+
+      - [patient](word) nghĩa là gì?
+
+      - [pawpaw](word) là gì
+
+      - [pawpaw](word) nghĩa là gì?
+
+      - [paycheck](word) là gì
+
+      - [paycheck](word) nghĩa là gì?
+
+      - [peace](word) là gì
+
+      - [peace](word) nghĩa là gì? 🕊️
+
+      - [peach palm](word) là gì?
+
+      - [peach palm](word) nghĩa là gì
+
+      - [peach](word) la gi
+
+      - [peach](word) là gì?
+
+      - [peach](word) là màu gì?
+
+      - [peach](word) nghĩa là gì?
+
+      - [peach](word) 🍑 co nghia la gi
+
+      - [peach](word) 🍑 có nghĩa là gì?
+
+      - [peach](word) 🍑 là gì
+
+      - [pear](word) có nghĩa là gì?
+
+      - [pear](word) là gì?
+
+      - [pear](word) là quả gì?
+
+      - [pear](word) nghĩa là gì
+
+      - [pen](word) là gì
+
+      - [pen](word) nghĩa là gì? 🖊️
+
+      - [pencil](word) co nghia la gi
+
+      - [pencil](word) là gì? ✏️
+
+      - [penguin](word) là gì?
+
+      - [penguin](word) 🐧 nghĩa là gì
+
+      - [peninsula](word) có nghĩa là gì
+
+      - [peninsula](word) là gì?
+
+      - [pension](word) là gì
+
+      - [pension](word) nghĩa là gì?
+
+      - [pentagon](word) là gì?
+
+      - [pentagon](word) tieng viet la gi
+
+      - [people](word) co nghia la gi
+
+      - [people](word) là gì?
+
+      - [pepino melon](word) có nghĩa là gì?
+
+      - [pepino melon](word) la gi
+
+      - [pepino melon](word) là dưa pepino?
+
+      - [pepper](word) là gì
+
+      - [pepper](word) nghĩa là gì?
+
+      - [periodic table](word) là bảng tuần hoàn hả?
+
+      - [periodic table](word) là gì
+
+      - [persimmon](word) co nghia la gi
+
+      - [persimmon](word) là quả gì?
+
+      - [person](word) la gi
+
+      - [person](word) nghĩa là gì?
+
+      - [personality](word) là gì
+
+      - [personality](word) nghĩa là gì?
+
+      - [pessimistic](word) là gì
+
+      - [pessimistic](word) nghĩa là gì?
+
+      - [petal](word) la gi
+
+      - [petal](word) là gì?
+
+      - [pharmacist](word) là gì
+
+      - [pharmacist](word) nghĩa là gì?
+
+      - [photographer](word) co nghia la gi
+
+      - [photographer](word) là gì?
+
+      - [photographer](word) là gì? 📷
+
+      - [photography](word) là gì
+
+      - [photography](word) nghĩa là gì? 📷
+
+      - [photosynthesis](word) la gi vay
+
+      - [photosynthesis](word) là gì
+
+      - [photosynthesis](word) ☀️ dịch là gì
+
+      - [physics](word) co nghia la gi
+
+      - [physics](word) là gì?
+
+      - [piano](word) là gì
+
+      - [piano](word) nghĩa là gì? 🎹
+
+      - [pie](word) co nghia la gi
+
+      - [pie](word) là bánh gì?
+
+      - [pig](word) la gi
+
+      - [pig](word) là con lợn?
+
+      - [pig](word) 🐷 có nghĩa là gì?
+
+      - [pilot](word) co nghia la gi
+
+      - [pilot](word) là gì? ✈️
+
+      - [pineapple](word) dịch là gì?
+
+      - [pineapple](word) là gì?
+
+      - [pineapple](word) 🍍 là gì?
+
+      - [pineapple](word) 🍍 nghĩa là gì
+
+      - [pink](word) la gi
+
+      - [pink](word) là màu gì?
+
+      - [pizza](word) co nghia la gi
+
+      - [pizza](word) 🍕 là gì?
+
+      - [planet](word) có phải là hành tinh không?
+
+      - [planet](word) là gì?
+
+      - [planet](word) nghia la gi 🪐
+
+      - [planet](word) nghĩa là gì
+
+      - [plant](word) là gì?
+
+      - [plant](word) nghĩa là gì
+
+      - [plantain](word) là gì?
+
+      - [plantain](word) nghĩa là gì
+
+      - [play](word) co nghia la gi
+
+      - [play](word) là gì?
+
+      - [playground](word) là gì
+
+      - [playground](word) nghĩa là gì?
+
+      - [pleased to meet you](word) là gì?
+
+      - [pleased to meet you](word) nghĩa là gì
+
+      - [plot](word) co nghia la gi
+
+      - [plot](word) là gì?
+
+      - [plum](word) có nghĩa là gì?
+
+      - [plum](word) la gi
+
+      - [plum](word) là quả gì thế?
+
+      - [plum](word) là quả mận?
+
+      - [plum](word) nghĩa là gì?
+
+      - [plumber](word) là gì
+
+      - [plumber](word) nghĩa là gì?
+
+      - [plus](word) là gì?
+
+      - [plus](word) ➕ nghĩa là gì
+
+      - [podcast](word) co nghia la gi
+
+      - [podcast](word) là gì?
+
+      - [poem](word) co nghia la gi
+
+      - [poem](word) là gì?
+
+      - [poet](word) co nghia la gi
+
+      - [poet](word) là gì?
+
+      - [poetry](word) là gì
+
+      - [poetry](word) nghĩa là gì?
+
+      - [point](word) là gì?
+
+      - [point](word) tieng viet la gi
+
+      - [pole](word) là gì?
+
+      - [pole](word) nghĩa là gì
+
+      - [police officer](word) là gì
+
+      - [police officer](word) nghĩa là gì? 👮
+
+      - [police](word) là gì
+
+      - [police](word) nghĩa là gì? 👮
+
+      - [polite](word) là gì
+
+      - [polite](word) nghĩa là gì?
+
+      - [politics](word) là gì
+
+      - [politics](word) nghĩa là gì?
+
+      - [pollution](word) la gi 🏭
+
+      - [pollution](word) là gì
+
+      - [pollution](word) là gì?
+
+      - [pollution](word) nghĩa là gì?
+
+      - [polygon](word) là gì?
+
+      - [polygon](word) tieng viet la gi
+
+      - [polymer](word) co phai polymer?
+
+      - [polymer](word) là gì
+
+      - [polymer](word) là gì thế
+
+      - [pomegranate](word) có nghĩa là gì?
+
+      - [pomegranate](word) la gi
+
+      - [pomegranate](word) là quả lựu?
+
+      - [pomelo](word) có nghĩa là gì?
+
+      - [pomelo](word) la gi
+
+      - [pomelo](word) là quả bưởi?
+
+      - [pond](word) là gì?
+
+      - [pond](word) nghĩa là gì
+
+      - [poor](word) co nghia la gi
+
+      - [poor](word) là gì?
+
+      - [population](word) là gì
+
+      - [population](word) nghĩa là gì?
+
+      - [pork](word) là thịt gì
+
+      - [pork](word) nghĩa là gì?
+
+      - [port](word) là gì
+
+      - [port](word) nghĩa là gì?
+
+      - [potato](word) là củ gì
+
+      - [potato](word) 🥔 nghĩa là gì?
+
+      - [poverty](word) là gì
+
+      - [poverty](word) nghĩa là gì?
+
+      - [predator](word) là gì?
+
+      - [predator](word) nghĩa là gì 🦁
+
+      - [present](word) co nghia la gi
+
+      - [present](word) là gì?
+
+      - [presentation](word) co nghia la gi
+
+      - [presentation](word) là gì?
+
+      - [president](word) co nghia la gi
+
+      - [president](word) là gì?
+
+      - [pretty good](word) là gì
+
+      - [pretty good](word) nghĩa là gì?
+
+      - [prey](word) có nghĩa là gì 🐇
+
+      - [prey](word) là gì?
+
+      - [prickly pear](word) là gì?
+
+      - [prickly pear](word) nghĩa là gì
+
+      - [principal](word) co nghia la gi
+
+      - [principal](word) là gì?
+
+      - [prism](word) là gì?
+
+      - [prism](word) tieng viet la gi
+
+      - [prison](word) là gì
+
+      - [prison](word) nghĩa là gì?
+
+      - [problem](word) là gì
+
+      - [problem](word) nghĩa là gì?
+
+      - [profession](word) là gì
+
+      - [profession](word) nghĩa là gì?
+
+      - [professor](word) co nghia la gi
+
+      - [professor](word) là gì?
+
+      - [project](word) là gì
+
+      - [project](word) nghĩa là gì?
+
+      - [promotion](word) co nghia la gi
+
+      - [promotion](word) là gì?
+
+      - [protein](word) (chất đạm) là gì?
+
+      - [protein](word) là gì
+
+      - [protein](word) nghĩa là sao
+
+      - [proton](word) la gi
+
+      - [proton](word) là gì
+
+      - [proton](word) trong nguyên tử là gì
+
+      - [proud](word) co nghia la gi
+
+      - [proud](word) là gì?
+
+      - [pumpkin](word) nghĩa là gì?
+
+      - [pumpkin](word) 🎃 la qua gi
+
+      - [purple](word) là gì?
+
+      - [purple](word) 🟣 nghĩa là gì
+
+      - [pyramid](word) là gì?
+
+      - [pyramid](word) tieng viet la gi
+
+      - [quadrilateral](word) là gì?
+
+      - [quadrilateral](word) tieng viet la gi
+
+      - [qualification](word) là gì
+
+      - [qualification](word) nghĩa là gì?
+
+      - [quantum](word) (lượng tử) là gì?
+
+      - [quantum](word) là gì
+
+      - [quantum](word) nghĩa là sao
+
+      - [quarter](word) có nghĩa là gì?
+
+      - [quarter](word) la gi
+
+      - [quarter](word) là 1/4?
+
+      - [queen](word) co nghia la gi
+
+      - [queen](word) là gì? 👑
+
+      - [quiet](word) là gì
+
+      - [quiet](word) nghĩa là gì?
+
+      - [quince](word) là gì?
+
+      - [quince](word) nghĩa là gì
+
+      - [quit](word) co nghia la gi
+
+      - [quit](word) là gì?
+
+      - [quiz](word) là gì
+
+      - [quiz](word) nghĩa là gì?
+
+      - [rabbit](word) là gì?
+
+      - [rabbit](word) 🐰 nghĩa là gì
+
+      - [radio](word) là gì
+
+      - [radio](word) nghĩa là gì? 📻
+
+      - [rain](word) là gì?
+
+      - [rain](word) nghĩa là gì ☔
+
+      - [rainbow](word) có nghĩa là gì 🌈
+
+      - [rainbow](word) là gì?
+
+      - [rambutan](word) co nghia la gi
+
+      - [rambutan](word) là quả gì?
+
+      - [raspberry](word) có nghĩa là gì?
+
+      - [raspberry](word) la gi
+
+      - [raspberry](word) la qua gi
+
+      - [raspberry](word) là quả mâm xôi?
+
+      - [raspberry](word) nghĩa là gì?
+
+      - [reaction](word) là gì
+
+      - [reaction](word) là phản ứng đúng không
+
+      - [reaction](word) ❓
+
+      - [reader](word) co nghia la gi
+
+      - [reader](word) là gì?
+
+      - [real estate agent](word) là gì
+
+      - [real estate agent](word) nghĩa là gì?
+
+      - [reception](word) là gì
+
+      - [reception](word) nghĩa là gì?
+
+      - [receptionist](word) co nghia la gi
+
+      - [receptionist](word) là gì?
+
+      - [rectangle](word) là gì?
+
+      - [rectangle](word) tieng viet la gi
+
+      - [red wine](word) nghĩa là gì
+
+      - [red wine](word) 🍷 là gì?
+
+      - [red](word) là gì?
+
+      - [red](word) 🔴 co nghia la gi
+
+      - [reduction](word) có nghĩa là gì
+
+      - [reduction](word) la gi
+
+      - [reduction](word) là gì
+
+      - [relationship](word) là gì
+
+      - [relationship](word) nghĩa là gì?
+
+      - [relativity](word) (thuyết tương đối) nghĩa là gì
+
+      - [relativity](word) là gì
+
+      - [relaxed](word) co nghia la gi
+
+      - [relaxed](word) là gì?
+
+      - [religion](word) co nghia la gi
+
+      - [religion](word) là gì? 🙏
+
+      - [remote control](word) là gì
+
+      - [remote control](word) nghĩa là gì?
+
+      - [renewable energy](word) là gì?
+
+      - [renewable energy](word) nghĩa là gì 💡
+
+      - [report](word) co nghia la gi
+
+      - [report](word) là gì?
+
+      - [reptile](word) có nghĩa là gì 🐍
+
+      - [reptile](word) là gì?
+
+      - [research](word) co nghia la gi
+
+      - [research](word) là gì?
+
+      - [researcher](word) co nghia la gi
+
+      - [researcher](word) là gì?
+
+      - [resort](word) co nghia la gi
+
+      - [resort](word) là gì?
+
+      - [respiration](word) là hô hấp phải không?
+
+      - [respiration](word) nghĩa là gì
+
+      - [restaurant](word) co nghia la gi
+
+      - [restaurant](word) là gì? 🍽️
+
+      - [resume](word) co nghia la gi
+
+      - [resume](word) là gì?
+
+      - [retirement](word) co nghia la gi
+
+      - [retirement](word) là gì?
+
+      - [review](word) là gì
+
+      - [review](word) nghĩa là gì?
+
+      - [rhinoceros](word) nghĩa là gì?
+
+      - [rhinoceros](word) 🦏 là gì
+
+      - [rice](word) co nghia la gi
+
+      - [rice](word) 🍚 là gì?
+
+      - [rich](word) là gì
+
+      - [rich](word) nghĩa là gì?
+
+      - [right triangle](word) là gì?
+
+      - [right triangle](word) tieng viet la gi
+
+      - [rights](word) là gì
+
+      - [rights](word) nghĩa là gì?
+
+      - [river](word) co nghia la gi
+
+      - [river](word) la gi
+
+      - [river](word) là gì?
+
+      - [river](word) nghĩa là gì 🧐
+
+      - [rock](word) có phải là đá không?
+
+      - [rock](word) là gì?
+
+      - [rock](word) nghĩa là gì
+
+      - [room](word) co nghia la gi
+
+      - [room](word) là gì?
+
+      - [root](word) la gi
+
+      - [root](word) là gì?
+
+      - [rose apple](word) là gì?
+
+      - [rose apple](word) nghĩa là gì
+
+      - [ruby](word) là gì?
+
+      - [ruby](word) 💎 nghĩa là gì
+
+      - [rude](word) co nghia la gi
+
+      - [rude](word) là gì?
+
+      - [rule](word) co nghia la gi
+
+      - [rule](word) là gì?
+
+      - [ruler](word) co nghia la gi
+
+      - [ruler](word) là gì?
+
+      - [rum](word) co nghia la gi
+
+      - [rum](word) là gì?
+
+      - [sad](word) là gì
+
+      - [sad](word) nghĩa là gì? 😢
+
+      - [sake](word) là gì
+
+      - [sake](word) nghĩa là gì?
+
+      - [salad](word) là gì?
+
+      - [salad](word) nghĩa là gì
+
+      - [salak](word) là gì?
+
+      - [salak](word) nghĩa là gì
+
+      - [salary](word) co nghia la gi
+
+      - [salary](word) là gì
+
+      - [salary](word) là gì?
+
+      - [salary](word) nghĩa là gì? 💰
+
+      - [sales](word) co nghia la gi
+
+      - [sales](word) là gì?
+
+      - [salmon](word) co nghia la gi
+
+      - [salmon](word) là cá gì?
+
+      - [salmon](word) là gì?
+
+      - [salmon](word) nghĩa là gì
+
+      - [salt](word) dịch là gì
+
+      - [salt](word) la gi vay
+
+      - [salt](word) là gì
+
+      - [salt](word) là gì?
+
+      - [salt](word) nghĩa là gì
+
+      - [sand](word) là gì
+
+      - [sand](word) nghĩa là gì?
+
+      - [sandwich](word) co nghia la gi
+
+      - [sandwich](word) 🥪 là gì?
+
+      - [santol](word) co nghia la gi
+
+      - [santol](word) là quả gì?
+
+      - [sapodilla](word) có nghĩa là gì?
+
+      - [sapodilla](word) la gi
+
+      - [sapodilla](word) là hồng xiêm?
+
+      - [sapphire](word) là gì?
+
+      - [sapphire](word) nghĩa là gì
+
+      - [satellite](word) la gi 🛰️
+
+      - [satellite](word) là gì
+
+      - [satisfied](word) là gì
+
+      - [satisfied](word) nghĩa là gì?
+
+      - [saturday](word) là gì?
+
+      - [saturday](word) nghĩa là gì
+
+      - [sauce](word) là gì
+
+      - [sauce](word) nghĩa là gì?
+
+      - [sausage](word) co nghia la gi
+
+      - [sausage](word) 🌭 là gì?
+
+      - [savanna](word) là gì?
+
+      - [savanna](word) nghĩa là gì
+
+      - [scalene triangle](word) là gì?
+
+      - [scalene triangle](word) tieng viet la gi
+
+      - [scared](word) co nghia la gi
+
+      - [scared](word) là gì? 😨
+
+      - [scene](word) co nghia la gi
+
+      - [scene](word) là gì?
+
+      - [scenery](word) là gì
+
+      - [scenery](word) nghĩa là gì?
+
+      - [schedule](word) là gì
+
+      - [schedule](word) nghĩa là gì? 📅
+
+      - [scholarship](word) là gì
+
+      - [scholarship](word) nghĩa là gì?
+
+      - [school](word) co nghia la gi
+
+      - [school](word) la gi
+
+      - [school](word) là gì? 🏫
+
+      - [school](word) nghĩa là gì? 🏫
+
+      - [sci-fi](word) là gì
+
+      - [sci-fi](word) nghĩa là gì? 👽
+
+      - [science](word) là gì
+
+      - [science](word) nghĩa là gì? 🔬
+
+      - [scientist](word) là gì
+
+      - [scientist](word) nghĩa là gì? 👩‍🔬
+
+      - [score](word) co nghia la gi
+
+      - [score](word) là gì?
+
+      - [screenplay](word) co nghia la gi
+
+      - [screenplay](word) là gì?
+
+      - [script](word) là gì
+
+      - [script](word) nghĩa là gì?
+
+      - [sculpture](word) co nghia la gi
+
+      - [sculpture](word) là gì?
+
+      - [sea buckthorn](word) là gì
+
+      - [sea buckthorn](word) nghĩa là gì?
+
+      - [sea](word) co nghia gi
+
+      - [sea](word) là gì?
+
+      - [season](word) co nghia la gi
+
+      - [season](word) là gì?
+
+      - [second](word) la gi
+
+      - [second](word) là gì?
+
+      - [second](word) là thứ hai?
+
+      - [second](word) nghĩa là gì
+
+      - [second](word) 🥈 có nghĩa là gì?
+
+      - [secretary](word) là gì
+
+      - [secretary](word) nghĩa là gì?
+
+      - [sediment](word) co phai tram tich?
+
+      - [sediment](word) là gì
+
+      - [sediment](word) là gì thế
+
+      - [see you later](word) là gì
+
+      - [see you later](word) nghĩa là gì?
+
+      - [see you soon](word) là gì?
+
+      - [see you soon](word) nghĩa là gì
+
+      - [see you tomorrow](word) có nghĩa là gì?
+
+      - [see you tomorrow](word) la gi
+
+      - [see you tomorrow](word) là mai gặp?
+
+      - [seed](word) có nghĩa là gì 🌱
+
+      - [seed](word) là gì?
+
+      - [seismology](word) la gi trong tieng viet
+
+      - [seismology](word) là gì
+
+      - [semester](word) co nghia la gi
+
+      - [semester](word) là gì?
+
+      - [semicircle](word) là gì?
+
+      - [semicircle](word) tieng viet la gi
+
+      - [seminar](word) co nghia la gi
+
+      - [seminar](word) là gì?
+
+      - [september](word) là gì?
+
+      - [september](word) 🍁 nghĩa là gì
+
+      - [series](word) co nghia la gi
+
+      - [series](word) là gì?
+
+      - [serious](word) co nghia la gi
+
+      - [serious](word) là gì?
+
+      - [server](word) là gì
+
+      - [server](word) là máy chủ hả?
+
+      - [seven](word) 7️⃣ nghĩa là gì
+
+      - [seven](word) là gì?
+
+      - [seventeen](word) là gì?
+
+      - [seventeen](word) nghĩa là gì
+
+      - [seventy](word) là gì?
+
+      - [seventy](word) nghĩa là gì
+
+      - [shade](word) là gì
+
+      - [shade](word) nghĩa là gì?
+
+      - [shark](word) là gì?
+
+      - [shark](word) 🦈 nghĩa là gì
+
+      - [sheep](word) là gì?
+
+      - [sheep](word) 🐑 nghĩa là gì
+
+      - [shift](word) co nghia la gi
+
+      - [shift](word) là gì?
+
+      - [ship](word) co nghia la gi
+
+      - [ship](word) là gì? 🚢
+
+      - [shop assistant](word) co nghia la gi
+
+      - [shop assistant](word) là gì?
+
+      - [shrimp](word) là gì?
+
+      - [shrimp](word) là gì? 🦐
+
+      - [shrimp](word) nghĩa là gì
+
+      - [shrimp](word) 🦐 nghĩa là gì
+
+      - [shy](word) là gì
+
+      - [shy](word) nghĩa là gì?
+
+      - [sibling](word) là gì
+
+      - [sibling](word) nghĩa là gì?
+
+      - [sick](word) là gì
+
+      - [sick](word) nghĩa là gì? 🤒
+
+      - [sightseeing](word) co nghia la gi
+
+      - [sightseeing](word) là gì?
+
+      - [silver](word) là gì?
+
+      - [silver](word) 🥈 nghĩa là gì
+
+      - [singer](word) co nghia la gi
+
+      - [singer](word) là gì
+
+      - [singer](word) là gì? 🎤
+
+      - [singer](word) nghĩa là gì? 🎤
+
+      - [sister](word) co nghia la gi
+
+      - [sister](word) là gì?
+
+      - [six](word) 6️⃣ có nghĩa là gì?
+
+      - [six](word) la gi
+
+      - [six](word) là số sáu?
+
+      - [sixteen](word) có nghĩa là gì?
+
+      - [sixteen](word) la gi
+
+      - [sixteen](word) là số 16?
+
+      - [sixty](word) là gì
+
+      - [sixty](word) nghĩa là gì?
+
+      - [skiing](word) là gì
+
+      - [skiing](word) nghĩa là gì? ⛷️
+
+      - [skill](word) co nghia la gi
+
+      - [skill](word) là gì
+
+      - [skill](word) là gì?
+
+      - [skill](word) nghĩa là gì?
+
+      - [sky blue](word) có nghĩa là gì?
+
+      - [sky blue](word) la gi
+
+      - [sky blue](word) là màu gì?
+
+      - [sky](word) la gi
+
+      - [sky](word) nghĩa là gì?
+
+      - [sleepy](word) co nghia la gi
+
+      - [sleepy](word) là gì? 😴
+
+      - [smart](word) là gì
+
+      - [smart](word) nghĩa là gì?
+
+      - [smoothie](word) co nghia la gi
+
+      - [smoothie](word) là gì?
+
+      - [snake](word) nghĩa là gì?
+
+      - [snake](word) 🐍 là gì
+
+      - [snow](word) là gì?
+
+      - [snow](word) nghia la gi ❄️
+
+      - [so-so](word) là gì?
+
+      - [so-so](word) 😑 nghĩa là gì
+
+      - [social media](word) co nghia la gi
+
+      - [social media](word) là gì?
+
+      - [society](word) co nghia la gi
+
+      - [society](word) là gì?
+
+      - [soda](word) co nghia la gi
+
+      - [soda](word) là gì?
+
+      - [soda](word) nghĩa là gì
+
+      - [soda](word) 🥤 là gì?
+
+      - [software](word) là gì trong tiếng Việt?
+
+      - [software](word) 💻 la gi trong tieng viet
+
+      - [soil](word) la gi
+
+      - [soil](word) là gì?
+
+      - [solar system](word) có nghĩa là gì
+
+      - [solar system](word) là gì
+
+      - [solution](word) co nghia la gi
+
+      - [solution](word) la gi
+
+      - [solution](word) là gì
+
+      - [solution](word) là gì?
+
+      - [solution](word) nghĩa là gì
+
+      - [solvent](word) là gì
+
+      - [solvent](word) 🧪 la gi trong tieng viet
+
+      - [son](word) là gì
+
+      - [son](word) nghĩa là gì?
+
+      - [song](word) là gì
+
+      - [song](word) nghĩa là gì? 🎶
+
+      - [soundtrack](word) là gì
+
+      - [soundtrack](word) nghĩa là gì?
+
+      - [soup](word) co nghia la gi
+
+      - [soup](word) 🍲 là gì?
+
+      - [soursop](word) có nghĩa là gì?
+
+      - [soursop](word) la gi
+
+      - [soursop](word) là mãng cầu xiêm?
+
+      - [south](word) là gì
+
+      - [south](word) nghĩa là gì?
+
+      - [souvenir](word) là gì
+
+      - [souvenir](word) nghĩa là gì?
+
+      - [soy milk](word) co nghia la gi
+
+      - [soy milk](word) là gì?
+
+      - [sparkling water](word) là gì
+
+      - [sparkling water](word) nghĩa là gì?
+
+      - [species](word) là gì
+
+      - [species](word) là gì?
+
+      - [species](word) nghia la gi
+
+      - [species](word) nghĩa là gì
+
+      - [sphere](word) là gì?
+
+      - [sphere](word) tieng viet la gi
+
+      - [spider](word) là gì?
+
+      - [spider](word) 🕷️ nghĩa là gì
+
+      - [spinach](word) là rau gì?
+
+      - [spinach](word) nghĩa là gì?
+
+      - [spiral](word) là gì?
+
+      - [spiral](word) tieng viet la gi
+
+      - [spirits](word) co nghia la gi
+
+      - [spirits](word) là gì?
+
+      - [sports drink](word) co nghia la gi
+
+      - [sports drink](word) là gì?
+
+      - [spouse](word) là gì
+
+      - [spouse](word) nghĩa là gì?
+
+      - [spring](word) là mùa gì
+
+      - [spring](word) nghĩa là gì?
+
+      - [square pyramid](word) là gì?
+
+      - [square pyramid](word) tieng viet la gi
+
+      - [square](word) là gì?
+
+      - [square](word) tieng viet la gi
+
+      - [squid](word) là con gì?
+
+      - [squid](word) nghĩa là gì?
+
+      - [squirrel](word) la gi
+
+      - [squirrel](word) là con sóc?
+
+      - [squirrel](word) 🐿️ có nghĩa là gì?
+
+      - [staff](word) co nghia la gi
+
+      - [staff](word) là gì?
+
+      - [stage](word) là gì
+
+      - [stage](word) nghĩa là gì?
+
+      - [star fruit](word) là gì?
+
+      - [star fruit](word) nghĩa là gì
+
+      - [star](word) là cái gì thế
+
+      - [star](word) là gì 🌟
+
+      - [star](word) là gì?
+
+      - [star](word) nghĩa là gì
+
+      - [star](word) nghĩa là sao
+
+      - [star](word) tieng viet la gi
+
+      - [star](word) ⭐ dịch ra là gì
+
+      - [state](word) co nghia la gi
+
+      - [state](word) là gì?
+
+      - [station](word) co nghia la gi
+
+      - [station](word) là gì?
+
+      - [statue](word) co nghia la gi
+
+      - [statue](word) là gì?
+
+      - [steak](word) nghĩa là gì
+
+      - [steak](word) 🥩 là gì?
+
+      - [stem](word) là gì
+
+      - [stem](word) nghĩa là gì?
+
+      - [stew](word) là món gì?
+
+      - [stew](word) nghĩa là gì
+
+      - [stone](word) có nghĩa là gì
+
+      - [stone](word) là gì?
+
+      - [storm](word) là gì ⛈️
+
+      - [storm](word) nghĩa là gì?
+
+      - [stranger](word) co nghia la gi
+
+      - [stranger](word) là gì?
+
+      - [strawberry](word) có nghĩa là gì? 🍓
+
+      - [strawberry](word) là quả gì vậy?
+
+      - [strawberry](word) nghĩa là gì?
+
+      - [strawberry](word) 🍓 là gì
+
+      - [stream](word) la gi
+
+      - [stream](word) là gì?
+
+      - [streaming](word) là gì
+
+      - [streaming](word) nghĩa là gì?
+
+      - [student](word) co nghia la gi
+
+      - [student](word) là gì?
+
+      - [student](word) là gì? 🎓
+
+      - [studio](word) là gì
+
+      - [studio](word) nghĩa là gì?
+
+      - [study](word) co nghia la gi
+
+      - [study](word) là gì?
+
+      - [stupid](word) co nghia la gi
+
+      - [stupid](word) là gì?
+
+      - [subject](word) là gì
+
+      - [subject](word) nghĩa là gì?
+
+      - [subway](word) là gì
+
+      - [subway](word) nghĩa là gì? 🚇
+
+      - [sugar apple](word) là gì?
+
+      - [sugar apple](word) nghĩa là gì
+
+      - [sugar](word) là gì
+
+      - [sugar](word) nghĩa là gì?
+
+      - [suitcase](word) co nghia la gi
+
+      - [suitcase](word) là gì?
+
+      - [summer](word) là gì?
+
+      - [summer](word) 🏖️ nghĩa là gì
+
+      - [sun](word) có nghĩa là gì ☀️
+
+      - [sun](word) là gì?
+
+      - [sunday](word) la gi
+
+      - [sunday](word) là chủ nhật?
+
+      - [sunday](word) ☀️ có nghĩa là gì?
+
+      - [supernova](word) (siêu tân tinh) nghĩa là gì
+
+      - [supernova](word) là gì
+
+      - [surfing](word) co nghia la gi
+
+      - [surfing](word) là gì? 🏄
+
+      - [surinam cherry](word) là gì?
+
+      - [surinam cherry](word) nghĩa là gì
+
+      - [surprised](word) là gì
+
+      - [surprised](word) nghĩa là gì? 😮
+
+      - [sushi](word) co nghia la gi
+
+      - [sushi](word) 🍣 là gì?
+
+      - [swamp](word) có nghĩa là gì
+
+      - [swamp](word) là gì?
+
+      - [swimming](word) là gì
+
+      - [swimming](word) nghĩa là gì? 🏊
+
+      - [syllabus](word) là gì
+
+      - [syllabus](word) nghĩa là gì?
+
+      - [syrup](word) là gì
+
+      - [syrup](word) nghĩa là gì?
+
+      - [system](word) là gì
+
+      - [system](word) nghĩa là gì?
+
+      - [take care](word) là gì
+
+      - [take care](word) nghĩa là gì?
+
+      - [talk to you later](word) là gì?
+
+      - [talk to you later](word) 📞 nghĩa là gì
+
+      - [talkative](word) co nghia la gi
+
+      - [talkative](word) là gì?
+
+      - [tamarind](word) là gì?
+
+      - [tamarind](word) nghĩa là gì
+
+      - [tangerine](word) là gì
+
+      - [tangerine](word) nghĩa là gì?
+
+      - [task](word) co nghia la gi
+
+      - [task](word) là gì?
+
+      - [tax](word) là gì
+
+      - [tax](word) nghĩa là gì?
+
+      - [taxi](word) co nghia la gi
+
+      - [taxi](word) là gì? 🚕
+
+      - [tea](word) là gì?
+
+      - [tea](word) nghĩa là gì
+
+      - [tea](word) 🍵 co nghia la gi
+
+      - [tea](word) 🍵 là gì?
+
+      - [teach](word) co nghia la gi
+
+      - [teach](word) là gì?
+
+      - [teacher](word) co nghia la gi
+
+      - [teacher](word) là gì
+
+      - [teacher](word) là gì?
+
+      - [teacher](word) nghĩa là gì?
+
+      - [teal](word) co nghia la gi
+
+      - [teal](word) là màu gì?
+
+      - [team](word) là gì
+
+      - [team](word) nghĩa là gì?
+
+      - [technology](word) co nghia la gi
+
+      - [technology](word) là gì? 💻
+
+      - [tectonic plate](word) la gi
+
+      - [tectonic plate](word) là gì?
+
+      - [tectonic plate](word) nghĩa là gì
+
+      - [teenager](word) là gì
+
+      - [teenager](word) nghĩa là gì?
+
+      - [telescope](word) la gi
+
+      - [telescope](word) là gì
+
+      - [telescope](word) trong thiên văn là gì
+
+      - [television](word) co nghia la gi
+
+      - [television](word) là gì? 📺
+
+      - [temperature](word) có nghĩa là gì 🌡️
+
+      - [temperature](word) là gì?
+
+      - [temple](word) là gì
+
+      - [temple](word) nghĩa là gì?
+
+      - [ten](word) là gì?
+
+      - [ten](word) 🔟 nghĩa là gì
+
+      - [tequila](word) co nghia la gi
+
+      - [tequila](word) là gì?
+
+      - [term](word) là gì
+
+      - [term](word) nghĩa là gì?
+
+      - [test](word) co nghia la gi
+
+      - [test](word) là gì?
+
+      - [tetrahedron](word) là gì?
+
+      - [tetrahedron](word) tieng viet la gi
+
+      - [textbook](word) co nghia la gi
+
+      - [textbook](word) là gì? 📖
+
+      - [thank you](word) là gì
+
+      - [thank you](word) nghĩa là gì?
+
+      - [thanks a lot](word) có nghĩa là gì?
+
+      - [thanks a lot](word) la gi
+
+      - [thanks a lot](word) là cảm ơn?
+
+      - [thanks](word) là gì?
+
+      - [thanks](word) 🙏 nghĩa là gì
+
+      - [the pleasure is all mine](word) có nghĩa là gì?
+
+      - [the pleasure is all mine](word) la gi
+
+      - [the pleasure is all mine](word) là gì?
+
+      - [theater](word) là gì
+
+      - [theater](word) nghĩa là gì? 🎭
+
+      - [thermodynamics](word) có nghĩa là gì
+
+      - [thermodynamics](word) la gi
+
+      - [thermodynamics](word) là gì
+
+      - [thesis](word) là gì
+
+      - [thesis](word) nghĩa là gì?
+
+      - [third](word) là gì?
+
+      - [third](word) 🥉 nghĩa là gì
+
+      - [thirsty](word) co nghia la gi
+
+      - [thirsty](word) là gì?
+
+      - [thirteen](word) co nghia la gi
+
+      - [thirteen](word) là số mấy?
+
+      - [thirty](word) có nghĩa là gì?
+
+      - [thirty](word) la gi
+
+      - [thirty](word) là ba mươi?
+
+      - [this is...](word) là gì?
+
+      - [this is...](word) nghĩa là gì
+
+      - [thorn](word) là gì?
+
+      - [thorn](word) nghia la gi
+
+      - [three](word) 3️⃣ co nghia la gi
+
+      - [three](word) là số mấy?
+
+      - [thriller](word) là gì
+
+      - [thriller](word) nghĩa là gì?
+
+      - [thunder](word) là gì?
+
+      - [thunder](word) nghĩa là gì
+
+      - [thursday](word) co nghia la gi
+
+      - [thursday](word) là ngày gì?
+
+      - [ticket](word) co nghia la gi
+
+      - [ticket](word) là gì
+
+      - [ticket](word) là gì? 🎟️
+
+      - [ticket](word) nghĩa là gì? 🎟️
+
+      - [tide](word) la gi 🌊
+
+      - [tide](word) là gì?
+
+      - [tiger](word) là gì?
+
+      - [tiger](word) 🐯 nghĩa là gì
+
+      - [times](word) là gì?
+
+      - [times](word) ✖️ nghĩa là gì
+
+      - [tired](word) là gì
+
+      - [tired](word) nghĩa là gì? 😫
+
+      - [today](word) là hôm nay?
+
+      - [today](word) nghĩa là gì?
+
+      - [tomato](word) là gì?
+
+      - [tomato](word) 🍅 co nghia la gi
+
+      - [tomorrow](word) là gì?
+
+      - [tomorrow](word) nghĩa là gì
+
+      - [torus](word) là gì?
+
+      - [torus](word) tieng viet la gi
+
+      - [total](word) là gì
+
+      - [total](word) nghĩa là gì?
+
+      - [tour](word) co nghia la gi
+
+      - [tour](word) là gì?
+
+      - [tourist](word) co nghia la gi
+
+      - [tourist](word) là gì?
+
+      - [town](word) co nghia la gi
+
+      - [town](word) là gì?
+
+      - [tradition](word) co nghia la gi
+
+      - [tradition](word) là gì
+
+      - [tradition](word) là gì?
+
+      - [tradition](word) nghĩa là gì?
+
+      - [train](word) là gì
+
+      - [train](word) nghĩa là gì? 🚆
+
+      - [training](word) co nghia la gi
+
+      - [training](word) là gì?
+
+      - [transparent](word) là gì?
+
+      - [transparent](word) nghĩa là gì
+
+      - [transportation](word) là gì
+
+      - [transportation](word) nghĩa là gì?
+
+      - [trapezoid](word) là gì?
+
+      - [trapezoid](word) tieng viet la gi
+
+      - [travel](word) là gì
+
+      - [travel](word) nghĩa là gì? ✈️
+
+      - [traveler](word) là gì
+
+      - [traveler](word) nghĩa là gì?
+
+      - [tree](word) là gì 🌳
+
+      - [tree](word) nghĩa là gì?
+
+      - [triangle](word) là gì?
+
+      - [triangle](word) tieng viet la gi
+
+      - [triangular prism](word) là gì?
+
+      - [triangular prism](word) tieng viet la gi
+
+      - [trip](word) co nghia la gi
+
+      - [trip](word) là gì?
+
+      - [trunk](word) là gì?
+
+      - [trunk](word) nghia la gi
+
+      - [tuesday](word) la gi trong tieng viet
+
+      - [tuesday](word) là thứ ba?
+
+      - [tuesday](word) nghĩa là gì?
+
+      - [tuition fee](word) co nghia la gi
+
+      - [tuition fee](word) là gì?
+
+      - [tundra](word) có nghĩa là gì
+
+      - [tundra](word) là gì?
+
+      - [turquoise](word) là gì
+
+      - [turquoise](word) nghĩa là gì?
+
+      - [turtle](word) la gi
+
+      - [turtle](word) là con rùa?
+
+      - [turtle](word) 🐢 có nghĩa là gì?
+
+      - [tutorial](word) co nghia la gi
+
+      - [tutorial](word) là gì?
+
+      - [twelve](word) là gì?
+
+      - [twelve](word) nghĩa là gì
+
+      - [twenty](word) là gì?
+
+      - [twenty](word) nghĩa là gì
+
+      - [twice](word) là gì
+
+      - [twice](word) nghĩa là gì?
+
+      - [two](word) 2️⃣ nghĩa là gì
+
+      - [two](word) là gì?
+
+      - [uncle](word) co nghia la gi
+
+      - [uncle](word) là gì?
+
+      - [unemployed](word) co nghia la gi
+
+      - [unemployed](word) là gì?
+
+      - [unemployment](word) co nghia la gi
+
+      - [unemployment](word) là gì?
+
+      - [uniform](word) là gì
+
+      - [uniform](word) nghĩa là gì?
+
+      - [universe](word) la gi
+
+      - [universe](word) nghĩa là gì vậy
+
+      - [university](word) co nghia la gi
+
+      - [university](word) là gì
+
+      - [university](word) là gì?
+
+      - [university](word) nghĩa là gì? 🎓
+
+      - [upset](word) co nghia la gi
+
+      - [upset](word) là gì?
+
+      - [user experience](word) (UX) la gi
+
+      - [user experience](word) có nghĩa là gì
+
+      - [user experience](word) là gì
+
+      - [user interface](word) (UI) nghĩa là gì
+
+      - [user interface](word) là gì
+
+      - [vacation](word) co nghia la gi
+
+      - [vacation](word) là gì
+
+      - [vacation](word) là gì?
+
+      - [vacation](word) nghĩa là gì?
+
+      - [valley](word) có nghĩa là gì
+
+      - [valley](word) là gì?
+
+      - [vehicle](word) co nghia la gi
+
+      - [vehicle](word) là gì?
+
+      - [velocity](word) là gì
+
+      - [velocity](word) là vận tốc đúng không
+
+      - [velocity](word) ❓
+
+      - [veterinarian](word) là gì
+
+      - [veterinarian](word) nghĩa là gì? 👨‍⚕️
+
+      - [victim](word) co nghia la gi
+
+      - [victim](word) là gì?
+
+      - [video game](word) co nghia la gi
+
+      - [video game](word) là gì?
+
+      - [village](word) là gì
+
+      - [village](word) nghĩa là gì? 🏞️
+
+      - [vinegar](word) là gì?
+
+      - [vinegar](word) nghĩa là gì
+
+      - [violet](word) có nghĩa là gì?
+
+      - [violet](word) la gi
+
+      - [violet](word) là màu gì?
+
+      - [violin](word) co nghia la gi
+
+      - [violin](word) là gì? 🎻
+
+      - [virus](word) la gi
+
+      - [virus](word) là gì
+
+      - [virus](word) 🦠 trong sinh học là gì
+
+      - [visa](word) co nghia la gi
+
+      - [visa](word) là gì?
+
+      - [visit](word) co nghia la gi
+
+      - [visit](word) là gì?
+
+      - [vodka](word) là gì
+
+      - [vodka](word) nghĩa là gì?
+
+      - [volcano](word) dịch là gì
+
+      - [volcano](word) la gi vay
+
+      - [volcano](word) la gi 🌋
+
+      - [volcano](word) là gì
+
+      - [volcano](word) là gì?
+
+      - [volunteer](word) co nghia la gi
+
+      - [volunteer](word) là gì
+
+      - [volunteer](word) là gì?
+
+      - [volunteer](word) nghĩa là gì?
+
+      - [vote](word) co nghia la gi
+
+      - [vote](word) là gì?
+
+      - [waffle](word) là gì?
+
+      - [waffle](word) nghĩa là gì
+
+      - [wage](word) co nghia la gi
+
+      - [wage](word) là gì
+
+      - [wage](word) là gì?
+
+      - [wage](word) nghĩa là gì?
+
+      - [waiter](word) là gì
+
+      - [waiter](word) nghĩa là gì?
+
+      - [waitress](word) co nghia la gi
+
+      - [waitress](word) là gì?
+
+      - [war](word) co nghia la gi
+
+      - [war](word) là gì?
+
+      - [water](word) co nghia la gi
+
+      - [water](word) la gi 💧
+
+      - [water](word) là gì?
+
+      - [water](word) nghĩa là gì
+
+      - [waterfall](word) là gì
+
+      - [waterfall](word) nghĩa là gì?
+
+      - [watermelon](word) là gì?
+
+      - [watermelon](word) là quả gì?
+
+      - [watermelon](word) nghia tieng viet la gi 🍉
+
+      - [watermelon](word) 🍉 la gi
+
+      - [wave](word) là gì
+
+      - [wave](word) nghĩa là gì?
+
+      - [wealth](word) co nghia la gi
+
+      - [wealth](word) là gì?
+
+      - [weather](word) là ai
+
+      - [weather](word) là gì?
+
+      - [weather](word) nghia la gi
+
+      - [weather](word) nghĩa là gì
+
+      - [weather](word) 🌦️ là thời tiết à
+
+      - [webinar](word) là gì
+
+      - [webinar](word) nghĩa là gì?
+
+      - [website](word) là gì
+
+      - [website](word) nghĩa là gì?
+
+      - [wednesday](word) là gì?
+
+      - [wednesday](word) nghĩa là gì
+
+      - [weed](word) có nghĩa là gì
+
+      - [weed](word) là gì?
+
+      - [week](word) là gì?
+
+      - [week](word) nghĩa là gì
+
+      - [weekday](word) nghĩa là gì?
+
+      - [weekday](word) 💼 là gì
+
+      - [weekend](word) co nghia la gi
+
+      - [weekend](word) là gì?
+
+      - [weekly](word) có nghĩa là gì?
+
+      - [weekly](word) la gi
+
+      - [weekly](word) là hàng tuần?
+
+      - [weight](word) dịch là gì
+
+      - [weight](word) la gi vay
+
+      - [weight](word) là gì
+
+      - [welcome to...](word) có nghĩa là gì?
+
+      - [welcome to...](word) la gi
+
+      - [welcome to...](word) là gì?
+
+      - [welcome](word) là gì?
+
+      - [welcome](word) 🎉 nghĩa là gì
+
+      - [west](word) là gì
+
+      - [west](word) nghĩa là gì?
+
+      - [whale](word) là gì?
+
+      - [whale](word) 🐋 nghĩa là gì
+
+      - [what about you?](word) là gì?
+
+      - [what about you?](word) nghĩa là gì
+
+      - [what are you up to?](word) có nghĩa là gì?
+
+      - [what are you up to?](word) la gi
+
+      - [what are you up to?](word) là gì?
+
+      - [what did you say?](word) là gì?
+
+      - [what did you say?](word) nghĩa là gì
+
+      - [what do you do?](word) la gi
+
+      - [what do you do?](word) là hỏi nghề nghiệp?
+
+      - [what do you do?](word) 💼 có nghĩa là gì?
+
+      - [what's new?](word) co nghia la gi
+
+      - [what's new?](word) là gì?
+
+      - [what's up?](word) là gì?
+
+      - [what's up?](word) 🤙 nghĩa là gì
+
+      - [what's your job?](word) là gì?
+
+      - [what's your job?](word) nghĩa là gì
+
+      - [what's your name?](word) là gì?
+
+      - [what's your name?](word) nghĩa là gì
+
+      - [where are you from?](word) là gì?
+
+      - [where are you from?](word) 🌏 co nghia la gi
+
+      - [where do you come from?](word) là gì
+
+      - [where do you come from?](word) nghĩa là gì?
+
+      - [where do you live?](word) là gì?
+
+      - [where do you live?](word) 🏠 nghĩa là gì
+
+      - [where do you work?](word) là gì
+
+      - [where do you work?](word) nghĩa là gì?
+
+      - [whiskey](word) co nghia la gi
+
+      - [whiskey](word) 🥃 là gì?
+
+      - [white wine](word) co nghia la gi
+
+      - [white wine](word) 🥂 là gì?
+
+      - [white](word) là gì?
+
+      - [white](word) ⚪️ nghĩa là gì
+
+      - [who are you?](word) là gì
+
+      - [who are you?](word) nghĩa là gì?
+
+      - [wife](word) co nghia la gi
+
+      - [wife](word) là gì?
+
+      - [wildlife](word) có nghĩa là gì 🐻
+
+      - [wildlife](word) là gì?
+
+      - [wind](word) là gì
+
+      - [wind](word) nghĩa là gì 💨
+
+      - [wine](word) là gì
+
+      - [wine](word) nghĩa là gì
+
+      - [wine](word) nghĩa là gì? 🍷
+
+      - [wine](word) 🍷 là gì?
+
+      - [winter](word) là mùa gì?
+
+      - [winter](word) ☃️ co nghia la gi
+
+      - [wolf](word) nghĩa là gì?
+
+      - [wolf](word) 🐺 là gì
+
+      - [woman](word) là gì
+
+      - [woman](word) nghĩa là gì? 👩
+
+      - [wonderful](word) co nghia la gi
+
+      - [wonderful](word) là gì?
+
+      - [wood apple](word) là gì?
+
+      - [wood apple](word) nghĩa là gì
+
+      - [work](word) la gi
+
+      - [work](word) là gì
+
+      - [work](word) nghĩa là gì?
+
+      - [workplace](word) co nghia la gi
+
+      - [workplace](word) là gì?
+
+      - [workshop](word) là gì
+
+      - [workshop](word) nghĩa là gì?
+
+      - [worried](word) co nghia la gi
+
+      - [worried](word) là gì?
+
+      - [writer](word) co nghia la gi
+
+      - [writer](word) là gì? ✍️
+
+      - [year](word) là gì?
+
+      - [year](word) 🎉 nghĩa là gì
+
+      - [yearly](word) co nghia la gi
+
+      - [yearly](word) là gì?
+
+      - [yellow](word) là màu gì?
+
+      - [yellow](word) 🟡 co nghia la gi
+
+      - [yes, please](word) có nghĩa là gì?
+
+      - [yes, please](word) la gi
+
+      - [yes, please](word) là gì?
+
+      - [yesterday](word) có nghĩa là gì?
+
+      - [yesterday](word) la gi
+
+      - [yesterday](word) là hôm qua?
+
+      - [yogurt drink](word) là gì
+
+      - [yogurt drink](word) nghĩa là gì?
+
+      - [yogurt](word) co nghia la gi
+
+      - [yogurt](word) là gì?
+
+      - [you too](word) là gì?
+
+      - [you too](word) nghĩa là gì
+
+      - [you're welcome](word) là gì?
+
+      - [you're welcome](word) nghĩa là gì
+
+      - [youth](word) co nghia la gi
+
+      - [youth](word) là gì?
+
+      - [yuzu](word) là gì
+
+      - [yuzu](word) nghĩa là gì?
+
+      - [zebra](word) là con gì?
+
+      - [zebra](word) 🦓 co nghia la gi
+
+      - [zero](word) 0️⃣ co nghia la gi
+
+      - [zero](word) là gì?
+
+      - [zoo](word) là gì
+
+      - [zoo](word) nghĩa là gì? 🦓
+
+      - cho hỏi [acai berry](word)
+
+      - cho hỏi [afternoon](word)
+
+      - cho hỏi [august](word)
+
+      - cho hỏi [black](word)
+
+      - cho hỏi [brown](word)
+
+      - cho hỏi [calendar](word)
+
+      - cho hỏi [cantaloupe](word)
+
+      - cho hỏi [chicken](word)
+
+      - cho hỏi [cloudberry](word)
+
+      - cho hỏi [colorful](word)
+
+      - cho hỏi [coral](word)
+
+      - cho hỏi [crab](word)
+
+      - cho hỏi [cranberry](word)
+
+      - cho hỏi [crimson](word)
+
+      - cho hỏi [date](word)
+
+      - cho hỏi [day](word)
+
+      - cho hỏi [don't mention it](word)
+
+      - cho hỏi [eagle](word)
+
+      - cho hỏi [equals](word)
+
+      - cho hỏi [fantastic](word)
+
+      - cho hỏi [farewell](word)
+
+      - cho hỏi [fifth](word)
+
+      - cho hỏi [fig](word)
+
+      - cho hỏi [finger lime](word)
+
+      - cho hỏi [four](word)
+
+      - cho hỏi [fourteen](word)
+
+      - cho hỏi [friday](word)
+
+      - cho hỏi [gold](word)
+
+      - cho hỏi [good afternoon](word)
+
+      - cho hỏi [horse](word)
+
+      - cho hỏi [how are you doing?](word)
+
+      - cho hỏi [how can i help you?](word)
+
+      - cho hỏi [how do you do?](word)
+
+      - cho hỏi [how was your weekend?](word)
+
+      - cho hỏi [how's everything?](word)
+
+      - cho hỏi [i apologize](word)
+
+      - cho hỏi [i'm...](word)
+
+      - cho hỏi [i've been busy](word)
+
+      - cho hỏi [ilama](word)
+
+      - cho hỏi [ivory](word)
+
+      - cho hỏi [kangaroo](word)
+
+      - cho hỏi [kiwano](word)
+
+      - cho hỏi [lime](word)
+
+      - cho hỏi [lion](word)
+
+      - cho hỏi [lizard](word)
+
+      - cho hỏi [lychee](word)
+
+      - cho hỏi [mangosteen](word)
+
+      - cho hỏi [march](word)
+
+      - cho hỏi [maroon](word)
+
+      - cho hỏi [nice to meet you too](word)
+
+      - cho hỏi [nine](word)
+
+      - cho hỏi [nineteen](word)
+
+      - cho hỏi [noni](word)
+
+      - cho hỏi [olive](word)
+
+      - cho hỏi [one thousand](word)
+
+      - cho hỏi [pawpaw](word)
+
+      - cho hỏi [peach](word)
+
+      - cho hỏi [pretty good](word)
+
+      - cho hỏi [rhinoceros](word)
+
+      - cho hỏi [sea buckthorn](word)
+
+      - cho hỏi [see you later](word)
+
+      - cho hỏi [shade](word)
+
+      - cho hỏi [sixty](word)
+
+      - cho hỏi [snake](word)
+
+      - cho hỏi [spring](word)
+
+      - cho hỏi [strawberry](word)
+
+      - cho hỏi [take care](word)
+
+      - cho hỏi [tangerine](word)
+
+      - cho hỏi [thank you](word)
+
+      - cho hỏi [today](word)
+
+      - cho hỏi [total](word)
+
+      - cho hỏi [turquoise](word)
+
+      - cho hỏi [twice](word)
+
+      - cho hỏi [weekday](word)
+
+      - cho hỏi [where do you come from?](word)
+
+      - cho hỏi [where do you work?](word)
+
+      - cho hỏi [who are you?](word)
+
+      - cho hỏi [wolf](word)
+
+      - cho hỏi [yuzu](word)
+
+      - dịch [pear](word)
+
+      - dịch từ [strawberry](word) sang tiếng Việt
+
+      - giai thich [and you?](word)
+
+      - giai thich [apricot](word)
+
+      - giai thich [april](word)
+
+      - giai thich [atom](word)
+
+      - giai thich [bat](word)
+
+      - giai thich [black hole](word)
+
+      - giai thich [blueberry](word)
+
+      - giai thich [calamansi](word)
+
+      - giai thich [clementine](word)
+
+      - giai thich [cow](word)
+
+      - giai thich [cryptocurrency](word)
+
+      - giai thich [currant](word)
+
+      - giai thich [daily](word)
+
+      - giai thich [date](word)
+
+      - giai thich [dragon fruit](word)
+
+      - giai thich [duck](word)
+
+      - giai thich [ecosystem](word)
+
+      - giai thich [enzyme](word)
+
+      - giai thich [erosion](word)
+
+      - giai thich [evening](word)
+
+      - giai thich [fifteen](word)
+
+      - giai thich [first](word)
+
+      - giai thich [five](word)
+
+      - giai thich [fox](word)
+
+      - giai thich [goji berry](word)
+
+      - giai thich [good evening](word)
+
+      - giai thich [grapefruit](word)
+
+      - giai thich [gray](word)
+
+      - giai thich [half](word)
+
+      - giai thich [have a good day](word)
+
+      - giai thich [honeydew](word)
+
+      - giai thich [hour](word)
+
+      - giai thich [how was your day?](word)
+
+      - giai thich [how's it going?](word)
+
+      - giai thich [how's life?](word)
+
+      - giai thich [i'm from...](word)
+
+      - giai thich [indigo](word)
+
+      - giai thich [jabuticaba](word)
+
+      - giai thich [koala](word)
+
+      - giai thich [langsat](word)
+
+      - giai thich [lavender](word)
+
+      - giai thich [loganberry](word)
+
+      - giai thich [magenta](word)
+
+      - giai thich [may i help you?](word)
+
+      - giai thich [my pleasure](word)
+
+      - giai thich [not bad](word)
+
+      - giai thich [one million](word)
+
+      - giai thich [peach palm](word)
+
+      - giai thich [pear](word)
+
+      - giai thich [pleased to meet you](word)
+
+      - giai thich [plus](word)
+
+      - giai thich [rose apple](word)
+
+      - giai thich [ruby](word)
+
+      - giai thich [salak](word)
+
+      - giai thich [salmon](word)
+
+      - giai thich [saturday](word)
+
+      - giai thich [see you soon](word)
+
+      - giai thich [september](word)
+
+      - giai thich [seventy](word)
+
+      - giai thich [shark](word)
+
+      - giai thich [shrimp](word)
+
+      - giai thich [silver](word)
+
+      - giai thich [so-so](word)
+
+      - giai thich [spider](word)
+
+      - giai thich [summer](word)
+
+      - giai thich [tamarind](word)
+
+      - giai thich [ten](word)
+
+      - giai thich [thanks](word)
+
+      - giai thich [this is...](word)
+
+      - giai thich [tiger](word)
+
+      - giai thich [tomorrow](word)
+
+      - giai thich [transparent](word)
+
+      - giai thich [twenty](word)
+
+      - giai thich [week](word)
+
+      - giai thich [welcome](word)
+
+      - giai thich [what did you say?](word)
+
+      - giai thich [where do you live?](word)
+
+      - giai thich [white](word)
+
+      - giai thich [wood apple](word)
+
+      - giai thich [you too](word)
+
+      - giai thich gium [cell](word) 🔬
+
+      - giai thich gium [compound](word)
+
+      - giai thich gium [gravity](word) 🍎
+
+      - giai thich gium [hardware](word)
+
+      - giai thich gium [planet](word) 🪐
+
+      - giai thich gium [rock](word) 🪨
+
+      - giải thích [CEO](word)
+
+      - giải thích [CV](word)
+
+      - giải thích [Earth](word)
+
+      - giải thích [P.E.](word)
+
+      - giải thích [TV show](word)
+
+      - giải thích [ability](word)
+
+      - giải thích [acceleration](word)
+
+      - giải thích [acid](word)
+
+      - giải thích [actress](word)
+
+      - giải thích [advertisement](word)
+
+      - giải thích [air](word)
+
+      - giải thích [airplane](word)
+
+      - giải thích [airport](word)
+
+      - giải thích [alumni](word)
+
+      - giải thích [americano](word)
+
+      - giải thích [amphibian](word)
+
+      - giải thích [animal](word)
+
+      - giải thích [anxious](word)
+
+      - giải thích [apple juice](word)
+
+      - giải thích [application](word)
+
+      - giải thích [architect](word)
+
+      - giải thích [arrival](word)
+
+      - giải thích [art](word)
+
+      - giải thích [artist](word)
+
+      - giải thích [ashamed](word)
+
+      - giải thích [asparagus](word)
+
+      - giải thích [astronomy](word)
+
+      - giải thích [atmosphere](word)
+
+      - giải thích [aunt](word)
+
+      - giải thích [author](word)
+
+      - giải thích [bacon](word)
+
+      - giải thích [ballet](word)
+
+      - giải thích [band](word)
+
+      - giải thích [bark](word)
+
+      - giải thích [base](word) với
+
+      - giải thích [beach](word)
+
+      - giải thích [bean](word)
+
+      - giải thích [beer](word)
+
+      - giải thích [bird](word)
+
+      - giải thích [blue](word)
+
+      - giải thích [blueberry](word)
+
+      - giải thích [board](word)
+
+      - giải thích [boat](word)
+
+      - giải thích [book](word)
+
+      - giải thích [booking](word)
+
+      - giải thích [branch](word)
+
+      - giải thích [brave](word)
+
+      - giải thích [bread](word)
+
+      - giải thích [brother](word)
+
+      - giải thích [bubble tea](word)
+
+      - giải thích [bus](word)
+
+      - giải thích [bush](word)
+
+      - giải thích [business](word)
+
+      - giải thích [butter](word)
+
+      - giải thích [cabbage](word)
+
+      - giải thích [cafe](word)
+
+      - giải thích [cake](word)
+
+      - giải thích [calm](word)
+
+      - giải thích [camping](word)
+
+      - giải thích [canyon](word)
+
+      - giải thích [capital](word)
+
+      - giải thích [cappuccino](word)
+
+      - giải thích [car](word)
+
+      - giải thích [carbohydrate](word)
+
+      - giải thích [carbon dioxide](word)
+
+      - giải thích [carrot](word)
+
+      - giải thích [cartoon](word)
+
+      - giải thích [cashier](word)
+
+      - giải thích [castle](word)
+
+      - giải thích [cave](word)
+
+      - giải thích [celebration](word)
+
+      - giải thích [celery](word)
+
+      - giải thích [cereal](word)
+
+      - giải thích [certificate](word)
+
+      - giải thích [chapter](word)
+
+      - giải thích [character](word)
+
+      - giải thích [check-out](word)
+
+      - giải thích [chef](word)
+
+      - giải thích [chemistry](word)
+
+      - giải thích [chicken](word)
+
+      - giải thích [children](word)
+
+      - giải thích [chips](word)
+
+      - giải thích [chocolate](word)
+
+      - giải thích [chromosome](word)
+
+      - giải thích [cider](word)
+
+      - giải thích [cinema](word)
+
+      - giải thích [citizen](word)
+
+      - giải thích [city](word)
+
+      - giải thích [classroom](word)
+
+      - giải thích [climate change](word)
+
+      - giải thích [climate](word)
+
+      - giải thích [cloud computing](word) với
+
+      - giải thích [cloud](word) ☁️
+
+      - giải thích [cocktail](word)
+
+      - giải thích [coconut](word)
+
+      - giải thích [coffee](word)
+
+      - giải thích [cola](word)
+
+      - giải thích [cold](word)
+
+      - giải thích [colleague](word)
+
+      - giải thích [college](word)
+
+      - giải thích [comedy](word)
+
+      - giải thích [comet](word)
+
+      - giải thích [community](word)
+
+      - giải thích [company](word)
+
+      - giải thích [concert](word)
+
+      - giải thích [confused](word)
+
+      - giải thích [conservation](word)
+
+      - giải thích [constellation](word) ✨
+
+      - giải thích [continent](word)
+
+      - giải thích [cookie](word)
+
+      - giải thích [core](word)
+
+      - giải thích [country](word)
+
+      - giải thích [course](word)
+
+      - giải thích [creative](word)
+
+      - giải thích [creature](word)
+
+      - giải thích [crust](word)
+
+      - giải thích [cucumber](word)
+
+      - giải thích [culture](word)
+
+      - giải thích [currency](word)
+
+      - giải thích [current](word)
+
+      - giải thích [curry](word)
+
+      - giải thích [custom](word)
+
+      - giải thích [degree](word)
+
+      - giải thích [democracy](word)
+
+      - giải thích [department](word)
+
+      - giải thích [desert](word)
+
+      - giải thích [designer](word)
+
+      - giải thích [desk](word)
+
+      - giải thích [direction](word)
+
+      - giải thích [discipline](word)
+
+      - giải thích [disease](word)
+
+      - giải thích [dislike](word)
+
+      - giải thích [doctor](word)
+
+      - giải thích [domestic](word)
+
+      - giải thích [dormitory](word)
+
+      - giải thích [driver](word)
+
+      - giải thích [drums](word)
+
+      - giải thích [duck](word)
+
+      - giải thích [earthquake](word)
+
+      - giải thích [ecosystem](word)
+
+      - giải thích [editor](word)
+
+      - giải thích [education](word)
+
+      - giải thích [egg](word)
+
+      - giải thích [elderly](word)
+
+      - giải thích [election](word)
+
+      - giải thích [electron](word)
+
+      - giải thích [employee](word)
+
+      - giải thích [employer](word)
+
+      - giải thích [engineer](word)
+
+      - giải thích [environment](word)
+
+      - giải thích [episode](word)
+
+      - giải thích [equator](word)
+
+      - giải thích [eraser](word)
+
+      - giải thích [essay](word)
+
+      - giải thích [evolution](word) với 🐒
+
+      - giải thích [exam](word)
+
+      - giải thích [excited](word)
+
+      - giải thích [exhibition](word)
+
+      - giải thích [explore](word)
+
+      - giải thích [extracurricular](word)
+
+      - giải thích [factory](word)
+
+      - giải thích [family](word)
+
+      - giải thích [famous](word)
+
+      - giải thích [fan](word)
+
+      - giải thích [feeling](word)
+
+      - giải thích [film](word)
+
+      - giải thích [finance](word)
+
+      - giải thích [fire](word)
+
+      - giải thích [firewall](word) 🛡️
+
+      - giải thích [fish](word)
+
+      - giải thích [flight attendant](word)
+
+      - giải thích [flour](word)
+
+      - giải thích [flower](word) 🌸
+
+      - giải thích [fog](word)
+
+      - giải thích [forest](word)
+
+      - giải thích [fossil fuel](word)
+
+      - giải thích [freelancer](word)
+
+      - giải thích [french fries](word)
+
+      - giải thích [friction](word)
+
+      - giải thích [funeral](word)
+
+      - giải thích [fungus](word)
+
+      - giải thích [funny](word)
+
+      - giải thích [gallery](word)
+
+      - giải thích [game](word)
+
+      - giải thích [garlic](word)
+
+      - giải thích [generation](word)
+
+      - giải thích [generous](word)
+
+      - giải thích [geology](word)
+
+      - giải thích [ginger](word)
+
+      - giải thích [girl](word)
+
+      - giải thích [glacier](word)
+
+      - giải thích [god](word)
+
+      - giải thích [gossip](word)
+
+      - giải thích [graduate](word)
+
+      - giải thích [grandchild](word)
+
+      - giải thích [grandmother](word)
+
+      - giải thích [grape](word)
+
+      - giải thích [grass](word)
+
+      - giải thích [green tea](word)
+
+      - giải thích [grumpy](word)
+
+      - giải thích [guesthouse](word)
+
+      - giải thích [guidebook](word)
+
+      - giải thích [habitat](word)
+
+      - giải thích [hamburger](word)
+
+      - giải thích [hate](word)
+
+      - giải thích [health](word)
+
+      - giải thích [herbal tea](word)
+
+      - giải thích [hey](word)
+
+      - giải thích [hill](word)
+
+      - giải thích [history](word)
+
+      - giải thích [homework](word)
+
+      - giải thích [honest](word)
+
+      - giải thích [honey](word)
+
+      - giải thích [hostel](word)
+
+      - giải thích [hot chocolate](word)
+
+      - giải thích [humidity](word)
+
+      - giải thích [hungry](word)
+
+      - giải thích [husband](word)
+
+      - giải thích [ice cream](word)
+
+      - giải thích [ice](word)
+
+      - giải thích [income](word)
+
+      - giải thích [industry](word)
+
+      - giải thích [insect](word)
+
+      - giải thích [instrument](word)
+
+      - giải thích [insurance](word)
+
+      - giải thích [interested](word)
+
+      - giải thích [internet](word)
+
+      - giải thích [internship](word)
+
+      - giải thích [ionic bond](word)
+
+      - giải thích [island](word)
+
+      - giải thích [isotope](word)
+
+      - giải thích [job](word)
+
+      - giải thích [journalist](word)
+
+      - giải thích [journey](word)
+
+      - giải thích [judge](word)
+
+      - giải thích [juice](word)
+
+      - giải thích [jungle](word)
+
+      - giải thích [justice](word)
+
+      - giải thích [king](word)
+
+      - giải thích [kiwi](word)
+
+      - giải thích [knowledge](word)
+
+      - giải thích [kombucha](word)
+
+      - giải thích [lake](word)
+
+      - giải thích [lamb](word)
+
+      - giải thích [landscape](word)
+
+      - giải thích [laptop](word)
+
+      - giải thích [lava](word) với 🌋
+
+      - giải thích [law](word)
+
+      - giải thích [lawyer](word)
+
+      - giải thích [lazy](word)
+
+      - giải thích [leaf](word) 🍂
+
+      - giải thích [learn](word)
+
+      - giải thích [lecture](word)
+
+      - giải thích [lecturer](word)
+
+      - giải thích [leisure](word)
+
+      - giải thích [lemon](word)
+
+      - giải thích [lemonade](word)
+
+      - giải thích [library](word)
+
+      - giải thích [life](word)
+
+      - giải thích [lightning](word)
+
+      - giải thích [literature](word)
+
+      - giải thích [lobby](word)
+
+      - giải thích [lobster](word)
+
+      - giải thích [local](word)
+
+      - giải thích [lonely](word)
+
+      - giải thích [love](word)
+
+      - giải thích [luggage](word)
+
+      - giải thích [machine learning](word)
+
+      - giải thích [magazine](word)
+
+      - giải thích [magic](word)
+
+      - giải thích [magma](word)
+
+      - giải thích [magnetism](word) 🧲
+
+      - giải thích [mammal](word)
+
+      - giải thích [manager](word)
+
+      - giải thích [map](word)
+
+      - giải thích [margarita](word)
+
+      - giải thích [mark](word)
+
+      - giải thích [marker](word)
+
+      - giải thích [marketing](word)
+
+      - giải thích [marriage](word)
+
+      - giải thích [mass](word) với
+
+      - giải thích [meadow](word)
+
+      - giải thích [mechanic](word)
+
+      - giải thích [meeting](word)
+
+      - giải thích [milk](word)
+
+      - giải thích [mineral water](word)
+
+      - giải thích [mineral](word)
+
+      - giải thích [miserable](word)
+
+      - giải thích [monument](word)
+
+      - giải thích [mother](word)
+
+      - giải thích [mountain](word)
+
+      - giải thích [museum](word)
+
+      - giải thích [mushroom](word)
+
+      - giải thích [nation](word)
+
+      - giải thích [nature](word)
+
+      - giải thích [neighbor](word)
+
+      - giải thích [nephew](word)
+
+      - giải thích [network](word)
+
+      - giải thích [news](word)
+
+      - giải thích [nice](word)
+
+      - giải thích [non-fiction](word)
+
+      - giải thích [noodle](word)
+
+      - giải thích [notebook](word)
+
+      - giải thích [nucleus (bio)](word)
+
+      - giải thích [nucleus](word)
+
+      - giải thích [ocean](word)
+
+      - giải thích [office](word)
+
+      - giải thích [oil](word)
+
+      - giải thích [omelette](word)
+
+      - giải thích [operating system](word)
+
+      - giải thích [orange](word)
+
+      - giải thích [overtime](word)
+
+      - giải thích [oxygen](word)
+
+      - giải thích [pH](word)
+
+      - giải thích [pagoda](word)
+
+      - giải thích [pancake](word)
+
+      - giải thích [part-time](word)
+
+      - giải thích [pass](word)
+
+      - giải thích [passport](word)
+
+      - giải thích [past](word)
+
+      - giải thích [pasta](word)
+
+      - giải thích [patient](word)
+
+      - giải thích [paycheck](word)
+
+      - giải thích [peace](word)
+
+      - giải thích [pen](word)
+
+      - giải thích [peninsula](word)
+
+      - giải thích [pension](word)
+
+      - giải thích [pepper](word)
+
+      - giải thích [periodic table](word)
+
+      - giải thích [person](word)
+
+      - giải thích [personality](word)
+
+      - giải thích [pessimistic](word)
+
+      - giải thích [petal](word)
+
+      - giải thích [pharmacist](word)
+
+      - giải thích [photography](word)
+
+      - giải thích [piano](word)
+
+      - giải thích [pie](word)
+
+      - giải thích [pizza](word)
+
+      - giải thích [planet](word)
+
+      - giải thích [plant](word)
+
+      - giải thích [playground](word)
+
+      - giải thích [plumber](word)
+
+      - giải thích [poetry](word)
+
+      - giải thích [pole](word)
+
+      - giải thích [police officer](word)
+
+      - giải thích [police](word)
+
+      - giải thích [polite](word)
+
+      - giải thích [politics](word)
+
+      - giải thích [pollution](word)
+
+      - giải thích [pond](word)
+
+      - giải thích [population](word)
+
+      - giải thích [pork](word)
+
+      - giải thích [port](word)
+
+      - giải thích [potato](word)
+
+      - giải thích [poverty](word)
+
+      - giải thích [predator](word)
+
+      - giải thích [prey](word)
+
+      - giải thích [prison](word)
+
+      - giải thích [problem](word)
+
+      - giải thích [profession](word)
+
+      - giải thích [project](word)
+
+      - giải thích [pumpkin](word)
+
+      - giải thích [qualification](word)
+
+      - giải thích [quiet](word)
+
+      - giải thích [quiz](word)
+
+      - giải thích [radio](word)
+
+      - giải thích [rain](word)
+
+      - giải thích [rainbow](word)
+
+      - giải thích [real estate agent](word)
+
+      - giải thích [reception](word)
+
+      - giải thích [relationship](word)
+
+      - giải thích [relativity](word)
+
+      - giải thích [remote control](word)
+
+      - giải thích [renewable energy](word)
+
+      - giải thích [reptile](word)
+
+      - giải thích [respiration](word)
+
+      - giải thích [review](word)
+
+      - giải thích [rich](word)
+
+      - giải thích [rights](word)
+
+      - giải thích [rock](word)
+
+      - giải thích [root](word)
+
+      - giải thích [rum](word)
+
+      - giải thích [sad](word)
+
+      - giải thích [salad](word)
+
+      - giải thích [salary](word)
+
+      - giải thích [salmon](word)
+
+      - giải thích [salt](word)
+
+      - giải thích [sand](word) giúp mình
+
+      - giải thích [sandwich](word)
+
+      - giải thích [satellite](word)
+
+      - giải thích [satisfied](word)
+
+      - giải thích [sauce](word)
+
+      - giải thích [savanna](word)
+
+      - giải thích [scenery](word)
+
+      - giải thích [schedule](word)
+
+      - giải thích [scholarship](word)
+
+      - giải thích [school](word)
+
+      - giải thích [sci-fi](word)
+
+      - giải thích [science](word)
+
+      - giải thích [scientist](word)
+
+      - giải thích [script](word)
+
+      - giải thích [sea](word)
+
+      - giải thích [secretary](word)
+
+      - giải thích [seed](word)
+
+      - giải thích [server](word)
+
+      - giải thích [shrimp](word)
+
+      - giải thích [shy](word)
+
+      - giải thích [sibling](word)
+
+      - giải thích [sick](word)
+
+      - giải thích [singer](word)
+
+      - giải thích [skiing](word)
+
+      - giải thích [skill](word)
+
+      - giải thích [sky](word) giùm
+
+      - giải thích [smart](word)
+
+      - giải thích [smoothie](word)
+
+      - giải thích [snow](word)
+
+      - giải thích [soda](word)
+
+      - giải thích [soil](word)
+
+      - giải thích [solar system](word) với
+
+      - giải thích [son](word)
+
+      - giải thích [song](word)
+
+      - giải thích [soundtrack](word)
+
+      - giải thích [soup](word)
+
+      - giải thích [south](word)
+
+      - giải thích [souvenir](word)
+
+      - giải thích [soy milk](word)
+
+      - giải thích [species](word)
+
+      - giải thích [spirits](word)
+
+      - giải thích [sports drink](word)
+
+      - giải thích [spouse](word)
+
+      - giải thích [squid](word)
+
+      - giải thích [stage](word)
+
+      - giải thích [star](word)
+
+      - giải thích [steak](word)
+
+      - giải thích [stem](word)
+
+      - giải thích [stew](word)
+
+      - giải thích [stone](word)
+
+      - giải thích [storm](word)
+
+      - giải thích [stream](word)
+
+      - giải thích [streaming](word)
+
+      - giải thích [studio](word)
+
+      - giải thích [subject](word)
+
+      - giải thích [subway](word)
+
+      - giải thích [sugar](word)
+
+      - giải thích [sun](word)
+
+      - giải thích [supernova](word) 💥
+
+      - giải thích [surprised](word)
+
+      - giải thích [sushi](word)
+
+      - giải thích [swamp](word)
+
+      - giải thích [swimming](word)
+
+      - giải thích [syllabus](word)
+
+      - giải thích [system](word)
+
+      - giải thích [tax](word)
+
+      - giải thích [tea](word)
+
+      - giải thích [teacher](word)
+
+      - giải thích [team](word)
+
+      - giải thích [teenager](word)
+
+      - giải thích [temperature](word)
+
+      - giải thích [temple](word)
+
+      - giải thích [tequila](word)
+
+      - giải thích [term](word)
+
+      - giải thích [theater](word)
+
+      - giải thích [thesis](word)
+
+      - giải thích [thorn](word)
+
+      - giải thích [thriller](word)
+
+      - giải thích [thunder](word)
+
+      - giải thích [ticket](word)
+
+      - giải thích [tide](word)
+
+      - giải thích [tired](word)
+
+      - giải thích [tradition](word)
+
+      - giải thích [train](word)
+
+      - giải thích [transportation](word)
+
+      - giải thích [travel](word)
+
+      - giải thích [traveler](word)
+
+      - giải thích [trunk](word)
+
+      - giải thích [tundra](word)
+
+      - giải thích [two](word)
+
+      - giải thích [uniform](word)
+
+      - giải thích [universe](word)
+
+      - giải thích [university](word)
+
+      - giải thích [user interface](word)
+
+      - giải thích [vacation](word)
+
+      - giải thích [valley](word)
+
+      - giải thích [veterinarian](word)
+
+      - giải thích [village](word)
+
+      - giải thích [vinegar](word)
+
+      - giải thích [volcano](word)
+
+      - giải thích [volunteer](word)
+
+      - giải thích [waffle](word)
+
+      - giải thích [wage](word)
+
+      - giải thích [waiter](word)
+
+      - giải thích [water](word)
+
+      - giải thích [waterfall](word)
+
+      - giải thích [watermelon](word) với
+
+      - giải thích [wave](word)
+
+      - giải thích [weather](word)
+
+      - giải thích [webinar](word)
+
+      - giải thích [website](word)
+
+      - giải thích [wednesday](word)
+
+      - giải thích [weed](word)
+
+      - giải thích [west](word)
+
+      - giải thích [whiskey](word)
+
+      - giải thích [white wine](word)
+
+      - giải thích [wildlife](word)
+
+      - giải thích [wind](word)
+
+      - giải thích [wine](word)
+
+      - giải thích [woman](word)
+
+      - giải thích [work](word)
+
+      - giải thích [workshop](word)
+
+      - giải thích [yogurt](word)
+
+      - giải thích [zoo](word)
+
+      - giải thích nghĩa của [pineapple](word)
+
+      - giải thích nghĩa của [tomato](word)
+
+      - giải thích từ [HR](word)
+
+      - giải thích từ [a bit tired](word)
+
+      - giải thích từ [abroad](word)
+
+      - giải thích từ [accountant](word)
+
+      - giải thích từ [actor](word)
+
+      - giải thích từ [adult](word)
+
+      - giải thích từ [album](word)
+
+      - giải thích từ [almond milk](word)
+
+      - giải thích từ [angle](word)
+
+      - giải thích từ [angry](word)
+
+      - giải thích từ [animation](word)
+
+      - giải thích từ [any plans for the weekend?](word)
+
+      - giải thích từ [apartment](word)
+
+      - giải thích từ [apple](word)
+
+      - giải thích từ [aquarium](word)
+
+      - giải thích từ [arc](word)
+
+      - giải thích từ [arrow](word) ➡️
+
+      - giải thích từ [art](word)
+
+      - giải thích từ [assignment](word)
+
+      - giải thích từ [assistant](word)
+
+      - giải thích từ [audience](word)
+
+      - giải thích từ [avocado](word)
+
+      - giải thích từ [baby](word)
+
+      - giải thích từ [backpack](word)
+
+      - giải thích từ [bank](word)
+
+      - giải thích từ [beach](word)
+
+      - giải thích từ [bee](word)
+
+      - giải thích từ [beef](word)
+
+      - giải thích từ [beige](word)
+
+      - giải thích từ [biography](word)
+
+      - giải thích từ [biology](word)
+
+      - giải thích từ [birth](word)
+
+      - giải thích từ [black tea](word)
+
+      - giải thích từ [blackberry](word)
+
+      - giải thích từ [boarding pass](word)
+
+      - giải thích từ [bonus](word)
+
+      - giải thích từ [bored](word)
+
+      - giải thích từ [boss](word)
+
+      - giải thích từ [boy](word)
+
+      - giải thích từ [broadcast](word)
+
+      - giải thích từ [broccoli](word)
+
+      - giải thích từ [buddha's hand](word)
+
+      - giải thích từ [builder](word)
+
+      - giải thích từ [bully](word)
+
+      - giải thích từ [bus stop](word)
+
+      - giải thích từ [bye](word)
+
+      - giải thích từ [camera](word)
+
+      - giải thích từ [campus](word)
+
+      - giải thích từ [canteen](word)
+
+      - giải thích từ [capital](word)
+
+      - giải thích từ [career](word)
+
+      - giải thích từ [carpenter](word)
+
+      - giải thích từ [celebrity](word)
+
+      - giải thích từ [chair](word)
+
+      - giải thích từ [chalk](word)
+
+      - giải thích từ [champagne](word)
+
+      - giải thích từ [channel](word)
+
+      - giải thích từ [charity](word)
+
+      - giải thích từ [check-in](word)
+
+      - giải thích từ [cheerful](word)
+
+      - giải thích từ [cheese](word)
+
+      - giải thích từ [cherimoya](word)
+
+      - giải thích từ [cherry](word)
+
+      - giải thích từ [child](word)
+
+      - giải thích từ [chili](word)
+
+      - giải thích từ [chokeberry](word)
+
+      - giải thích từ [church](word)
+
+      - giải thích từ [circle](word)
+
+      - giải thích từ [circus](word)
+
+      - giải thích từ [city](word)
+
+      - giải thích từ [climate change](word)
+
+      - giải thích từ [club](word)
+
+      - giải thích từ [coach](word)
+
+      - giải thích từ [cocktail](word)
+
+      - giải thích từ [coconut water](word)
+
+      - giải thích từ [coffee](word)
+
+      - giải thích từ [comedian](word)
+
+      - giải thích từ [company](word)
+
+      - giải thích từ [compass](word)
+
+      - giải thích từ [computer](word)
+
+      - giải thích từ [cone](word) 🍦
+
+      - giải thích từ [confident](word)
+
+      - giải thích từ [continent](word)
+
+      - giải thích từ [contract](word)
+
+      - giải thích từ [cook](word)
+
+      - giải thích từ [corn](word)
+
+      - giải thích từ [cosmology](word)
+
+      - giải thích từ [country](word)
+
+      - giải thích từ [court](word)
+
+      - giải thích từ [cousin](word)
+
+      - giải thích từ [coward](word)
+
+      - giải thích từ [crab](word)
+
+      - giải thích từ [crescent](word) 🌙
+
+      - giải thích từ [crime](word)
+
+      - giải thích từ [crocodile](word)
+
+      - giải thích từ [cross](word) ✝️
+
+      - giải thích từ [cruise](word)
+
+      - giải thích từ [cube](word) 🎲
+
+      - giải thích từ [cuboid](word)
+
+      - giải thích từ [culture](word)
+
+      - giải thích từ [curious](word)
+
+      - giải thích từ [curriculum](word)
+
+      - giải thích từ [curve](word)
+
+      - giải thích từ [custom](word)
+
+      - giải thích từ [cylinder](word)
+
+      - giải thích từ [dance](word)
+
+      - giải thích từ [dark green](word)
+
+      - giải thích từ [dark](word)
+
+      - giải thích từ [daughter](word)
+
+      - giải thích từ [deadline](word)
+
+      - giải thích từ [death](word)
+
+      - giải thích từ [decagon](word)
+
+      - giải thích từ [dentist](word)
+
+      - giải thích từ [departure](word)
+
+      - giải thích từ [developer](word)
+
+      - giải thích từ [diamond](word)
+
+      - giải thích từ [diploma](word)
+
+      - giải thích từ [director](word)
+
+      - giải thích từ [disappointed](word)
+
+      - giải thích từ [dissertation](word)
+
+      - giải thích từ [documentary](word)
+
+      - giải thích từ [dodecahedron](word)
+
+      - giải thích từ [dog](word)
+
+      - giải thích từ [double](word)
+
+      - giải thích từ [drama](word)
+
+      - giải thích từ [duty](word)
+
+      - giải thích từ [e-learning](word)
+
+      - giải thích từ [east](word)
+
+      - giải thích từ [economy](word)
+
+      - giải thích từ [education](word)
+
+      - giải thích từ [eggplant](word)
+
+      - giải thích từ [elderberry](word)
+
+      - giải thích từ [electrician](word)
+
+      - giải thích từ [element](word)
+
+      - giải thích từ [elephant](word)
+
+      - giải thích từ [embarrassed](word)
+
+      - giải thích từ [emotion](word)
+
+      - giải thích từ [employee](word)
+
+      - giải thích từ [employer](word)
+
+      - giải thích từ [energy drink](word)
+
+      - giải thích từ [environment](word)
+
+      - giải thích từ [equality](word)
+
+      - giải thích từ [equilateral triangle](word)
+
+      - giải thích từ [espresso](word)
+
+      - giải thích từ [experience](word)
+
+      - giải thích từ [fail](word)
+
+      - giải thích từ [fall](word)
+
+      - giải thích từ [farmer](word)
+
+      - giải thích từ [father](word)
+
+      - giải thích từ [festival](word)
+
+      - giải thích từ [fiction](word)
+
+      - giải thích từ [firefighter](word)
+
+      - giải thích từ [flight](word)
+
+      - giải thích từ [force](word)
+
+      - giải thích từ [forest](word)
+
+      - giải thích từ [forty](word)
+
+      - giải thích từ [freedom](word)
+
+      - giải thích từ [friend](word)
+
+      - giải thích từ [friendly](word)
+
+      - giải thích từ [friendship](word)
+
+      - giải thích từ [full-time](word)
+
+      - giải thích từ [future](word)
+
+      - giải thích từ [gallery](word)
+
+      - giải thích từ [gate](word)
+
+      - giải thích từ [geography](word)
+
+      - giải thích từ [gin](word)
+
+      - giải thích từ [giraffe](word)
+
+      - giải thích từ [good to see you](word)
+
+      - giải thích từ [government](word)
+
+      - giải thích từ [grade](word)
+
+      - giải thích từ [graduation](word)
+
+      - giải thích từ [grandfather](word)
+
+      - giải thích từ [grandparent](word)
+
+      - giải thích từ [great](word)
+
+      - giải thích từ [greetings](word)
+
+      - giải thích từ [guava](word)
+
+      - giải thích từ [guide](word)
+
+      - giải thích từ [guitar](word)
+
+      - giải thích từ [gymnasium](word)
+
+      - giải thích từ [hamster](word)
+
+      - giải thích từ [happy](word)
+
+      - giải thích từ [hard-working](word)
+
+      - giải thích từ [have a great weekend](word)
+
+      - giải thích từ [have you met...](word)
+
+      - giải thích từ [heart](word) ❤️
+
+      - giải thích từ [helix](word)
+
+      - giải thích từ [hello](word)
+
+      - giải thích từ [hemisphere](word)
+
+      - giải thích từ [heptagon](word)
+
+      - giải thích từ [hexagon](word)
+
+      - giải thích từ [hiking](word)
+
+      - giải thích từ [hire](word)
+
+      - giải thích từ [hobby](word)
+
+      - giải thích từ [holiday](word)
+
+      - giải thích từ [homeless](word)
+
+      - giải thích từ [horror](word)
+
+      - giải thích từ [hospital](word)
+
+      - giải thích từ [hot](word)
+
+      - giải thích từ [hotel](word)
+
+      - giải thích từ [human](word)
+
+      - giải thích từ [i'm good](word)
+
+      - giải thích từ [iced tea](word)
+
+      - giải thích từ [icosahedron](word)
+
+      - giải thích từ [impatient](word)
+
+      - giải thích từ [intelligence](word)
+
+      - giải thích từ [international](word)
+
+      - giải thích từ [internet](word)
+
+      - giải thích từ [interview](word)
+
+      - giải thích từ [isosceles triangle](word)
+
+      - giải thích từ [it's a pleasure to meet you](word)
+
+      - giải thích từ [jackfruit](word)
+
+      - giải thích từ [january](word)
+
+      - giải thích từ [jealous](word)
+
+      - giải thích từ [job](word)
+
+      - giải thích từ [journalist](word)
+
+      - giải thích từ [judge](word)
+
+      - giải thích từ [juice](word)
+
+      - giải thích từ [june](word)
+
+      - giải thích từ [key](word)
+
+      - giải thích từ [kind](word)
+
+      - giải thích từ [kite](word) 🪁
+
+      - giải thích từ [laboratory](word)
+
+      - giải thích từ [language](word)
+
+      - giải thích từ [latte](word)
+
+      - giải thích từ [lawyer](word)
+
+      - giải thích từ [lesson](word)
+
+      - giải thích từ [librarian](word)
+
+      - giải thích từ [like](word)
+
+      - giải thích từ [lime](word)
+
+      - giải thích từ [line](word)
+
+      - giải thích từ [long time no see](word)
+
+      - giải thích từ [loop](word)
+
+      - giải thích từ [loquat](word)
+
+      - giải thích từ [love](word)
+
+      - giải thích từ [loyal](word)
+
+      - giải thích từ [lyrics](word)
+
+      - giải thích từ [major](word)
+
+      - giải thích từ [man](word)
+
+      - giải thích từ [market](word)
+
+      - giải thích từ [matcha](word)
+
+      - giải thích từ [mathematics](word)
+
+      - giải thích từ [mean](word)
+
+      - giải thích từ [media](word)
+
+      - giải thích từ [medicine](word)
+
+      - giải thích từ [midnight](word)
+
+      - giải thích từ [milk](word)
+
+      - giải thích từ [milkshake](word)
+
+      - giải thích từ [mojito](word)
+
+      - giải thích từ [monday](word)
+
+      - giải thích từ [money](word)
+
+      - giải thích từ [monstera deliciosa](word)
+
+      - giải thích từ [monthly](word)
+
+      - giải thích từ [mood](word)
+
+      - giải thích từ [moon](word)
+
+      - giải thích từ [morning](word)
+
+      - giải thích từ [motorcycle](word)
+
+      - giải thích từ [movie](word)
+
+      - giải thích từ [museum](word)
+
+      - giải thích từ [music](word)
+
+      - giải thích từ [musician](word)
+
+      - giải thích từ [mustard](word)
+
+      - giải thích từ [navy](word)
+
+      - giải thích từ [neighbor](word)
+
+      - giải thích từ [nervous](word)
+
+      - giải thích từ [news](word)
+
+      - giải thích từ [newspaper](word)
+
+      - giải thích từ [niece](word)
+
+      - giải thích từ [ninety](word)
+
+      - giải thích từ [no, thank you](word)
+
+      - giải thích từ [nonagon](word)
+
+      - giải thích từ [north](word)
+
+      - giải thích từ [novel](word)
+
+      - giải thích từ [november](word)
+
+      - giải thích từ [number](word)
+
+      - giải thích từ [nurse](word)
+
+      - giải thích từ [occupation](word)
+
+      - giải thích từ [ocean](word)
+
+      - giải thích từ [octagon](word) 🛑
+
+      - giải thích từ [octahedron](word)
+
+      - giải thích từ [olive](word)
+
+      - giải thích từ [onion](word)
+
+      - giải thích từ [opera](word)
+
+      - giải thích từ [optimistic](word)
+
+      - giải thích từ [orange juice](word)
+
+      - giải thích từ [organism](word)
+
+      - giải thích từ [organization](word)
+
+      - giải thích từ [oval](word)
+
+      - giải thích từ [painting](word)
+
+      - giải thích từ [palace](word)
+
+      - giải thích từ [parallelogram](word)
+
+      - giải thích từ [pardon me](word)
+
+      - giải thích từ [parent](word)
+
+      - giải thích từ [park](word)
+
+      - giải thích từ [pencil](word)
+
+      - giải thích từ [penguin](word)
+
+      - giải thích từ [pentagon](word)
+
+      - giải thích từ [people](word)
+
+      - giải thích từ [photographer](word)
+
+      - giải thích từ [physics](word)
+
+      - giải thích từ [pilot](word)
+
+      - giải thích từ [pineapple](word)
+
+      - giải thích từ [plantain](word)
+
+      - giải thích từ [play](word)
+
+      - giải thích từ [plot](word)
+
+      - giải thích từ [plum](word)
+
+      - giải thích từ [podcast](word)
+
+      - giải thích từ [poem](word)
+
+      - giải thích từ [poet](word)
+
+      - giải thích từ [point](word)
+
+      - giải thích từ [polygon](word)
+
+      - giải thích từ [poor](word)
+
+      - giải thích từ [present](word)
+
+      - giải thích từ [presentation](word)
+
+      - giải thích từ [president](word)
+
+      - giải thích từ [prickly pear](word)
+
+      - giải thích từ [principal](word)
+
+      - giải thích từ [prism](word)
+
+      - giải thích từ [professor](word)
+
+      - giải thích từ [promotion](word)
+
+      - giải thích từ [proud](word)
+
+      - giải thích từ [purple](word)
+
+      - giải thích từ [pyramid](word)
+
+      - giải thích từ [quadrilateral](word)
+
+      - giải thích từ [queen](word)
+
+      - giải thích từ [quince](word)
+
+      - giải thích từ [quit](word)
+
+      - giải thích từ [rabbit](word)
+
+      - giải thích từ [raspberry](word)
+
+      - giải thích từ [reader](word)
+
+      - giải thích từ [receptionist](word)
+
+      - giải thích từ [rectangle](word)
+
+      - giải thích từ [red wine](word)
+
+      - giải thích từ [red](word)
+
+      - giải thích từ [relaxed](word)
+
+      - giải thích từ [religion](word)
+
+      - giải thích từ [report](word)
+
+      - giải thích từ [research](word)
+
+      - giải thích từ [researcher](word)
+
+      - giải thích từ [resort](word)
+
+      - giải thích từ [restaurant](word)
+
+      - giải thích từ [resume](word)
+
+      - giải thích từ [retirement](word)
+
+      - giải thích từ [rice](word)
+
+      - giải thích từ [right triangle](word)
+
+      - giải thích từ [river](word)
+
+      - giải thích từ [river](word) giúp với
+
+      - giải thích từ [room](word)
+
+      - giải thích từ [rude](word)
+
+      - giải thích từ [rule](word)
+
+      - giải thích từ [ruler](word)
+
+      - giải thích từ [sake](word)
+
+      - giải thích từ [salary](word)
+
+      - giải thích từ [sales](word)
+
+      - giải thích từ [sapphire](word)
+
+      - giải thích từ [sausage](word)
+
+      - giải thích từ [scalene triangle](word)
+
+      - giải thích từ [scared](word)
+
+      - giải thích từ [scene](word)
+
+      - giải thích từ [school](word)
+
+      - giải thích từ [score](word)
+
+      - giải thích từ [screenplay](word)
+
+      - giải thích từ [sculpture](word)
+
+      - giải thích từ [second](word)
+
+      - giải thích từ [seismology](word)
+
+      - giải thích từ [semester](word)
+
+      - giải thích từ [semicircle](word)
+
+      - giải thích từ [seminar](word)
+
+      - giải thích từ [series](word)
+
+      - giải thích từ [serious](word)
+
+      - giải thích từ [seven](word)
+
+      - giải thích từ [seventeen](word)
+
+      - giải thích từ [sheep](word)
+
+      - giải thích từ [shift](word)
+
+      - giải thích từ [ship](word)
+
+      - giải thích từ [shop assistant](word)
+
+      - giải thích từ [sightseeing](word)
+
+      - giải thích từ [singer](word)
+
+      - giải thích từ [sister](word)
+
+      - giải thích từ [skill](word)
+
+      - giải thích từ [sleepy](word)
+
+      - giải thích từ [social media](word)
+
+      - giải thích từ [society](word)
+
+      - giải thích từ [software](word)
+
+      - giải thích từ [solution](word)
+
+      - giải thích từ [solvent](word)
+
+      - giải thích từ [sparkling water](word)
+
+      - giải thích từ [sphere](word) 🏀
+
+      - giải thích từ [spinach](word)
+
+      - giải thích từ [spiral](word) 🌀
+
+      - giải thích từ [square pyramid](word)
+
+      - giải thích từ [square](word)
+
+      - giải thích từ [staff](word)
+
+      - giải thích từ [star fruit](word)
+
+      - giải thích từ [star](word) 🌟
+
+      - giải thích từ [state](word)
+
+      - giải thích từ [station](word)
+
+      - giải thích từ [statue](word)
+
+      - giải thích từ [stranger](word)
+
+      - giải thích từ [student](word)
+
+      - giải thích từ [study](word)
+
+      - giải thích từ [stupid](word)
+
+      - giải thích từ [sugar apple](word)
+
+      - giải thích từ [suitcase](word)
+
+      - giải thích từ [surfing](word)
+
+      - giải thích từ [surinam cherry](word)
+
+      - giải thích từ [syrup](word)
+
+      - giải thích từ [talk to you later](word)
+
+      - giải thích từ [talkative](word)
+
+      - giải thích từ [task](word)
+
+      - giải thích từ [taxi](word)
+
+      - giải thích từ [teach](word)
+
+      - giải thích từ [teacher](word)
+
+      - giải thích từ [technology](word)
+
+      - giải thích từ [television](word)
+
+      - giải thích từ [test](word)
+
+      - giải thích từ [tetrahedron](word)
+
+      - giải thích từ [textbook](word)
+
+      - giải thích từ [third](word)
+
+      - giải thích từ [thirsty](word)
+
+      - giải thích từ [ticket](word)
+
+      - giải thích từ [times](word)
+
+      - giải thích từ [torus](word) 🍩
+
+      - giải thích từ [tour](word)
+
+      - giải thích từ [tourist](word)
+
+      - giải thích từ [town](word)
+
+      - giải thích từ [tradition](word)
+
+      - giải thích từ [training](word)
+
+      - giải thích từ [trapezoid](word)
+
+      - giải thích từ [tree](word)
+
+      - giải thích từ [triangle](word) 🔺
+
+      - giải thích từ [triangular prism](word)
+
+      - giải thích từ [trip](word)
+
+      - giải thích từ [tuition fee](word)
+
+      - giải thích từ [tutorial](word)
+
+      - giải thích từ [twelve](word)
+
+      - giải thích từ [uncle](word)
+
+      - giải thích từ [unemployed](word)
+
+      - giải thích từ [unemployment](word)
+
+      - giải thích từ [university](word)
+
+      - giải thích từ [upset](word)
+
+      - giải thích từ [vacation](word)
+
+      - giải thích từ [vehicle](word)
+
+      - giải thích từ [victim](word)
+
+      - giải thích từ [video game](word)
+
+      - giải thích từ [violin](word)
+
+      - giải thích từ [visa](word)
+
+      - giải thích từ [visit](word)
+
+      - giải thích từ [vodka](word)
+
+      - giải thích từ [volunteer](word)
+
+      - giải thích từ [vote](word)
+
+      - giải thích từ [wage](word)
+
+      - giải thích từ [waitress](word)
+
+      - giải thích từ [war](word)
+
+      - giải thích từ [wealth](word)
+
+      - giải thích từ [whale](word)
+
+      - giải thích từ [what about you?](word)
+
+      - giải thích từ [what's up?](word)
+
+      - giải thích từ [what's your job?](word)
+
+      - giải thích từ [what's your name?](word)
+
+      - giải thích từ [wife](word)
+
+      - giải thích từ [wine](word)
+
+      - giải thích từ [workplace](word)
+
+      - giải thích từ [worried](word)
+
+      - giải thích từ [writer](word)
+
+      - giải thích từ [year](word)
+
+      - giải thích từ [yogurt drink](word)
+
+      - giải thích từ [you're welcome](word)
+
+      - giải thích từ [youth](word)
+
+      - giải thích từ [zero](word)
+
+      - giảiích [adventure](word)
+
+      - mo ta giup minh tu [mango](word)
+
+      - mo ta tu [orange](word)
+
+      - mô tả [lettuce](word)
+
+      - mô tả quả [avocado](word)
+
+      - mô tả từ [peach](word)
+
+      - từ [banana](word) 🍌 dịch ra tiếng Việt
+
+      - định nghĩa từ [alligator](word)
+
+      - định nghĩa từ [boysenberry](word)
+
+      - định nghĩa từ [bright red](word)
+
+      - định nghĩa từ [butterfly](word)
+
+      - định nghĩa từ [bye-bye](word)
+
+      - định nghĩa từ [camel](word)
+
+      - định nghĩa từ [catch you later](word)
+
+      - định nghĩa từ [charcoal](word)
+
+      - định nghĩa từ [cheers](word)
+
+      - định nghĩa từ [citron](word)
+
+      - định nghĩa từ [clock](word)
+
+      - định nghĩa từ [coconut](word)
+
+      - định nghĩa từ [color](word)
+
+      - định nghĩa từ [could be better](word)
+
+      - định nghĩa từ [count](word)
+
+      - định nghĩa từ [cream](word)
+
+      - định nghĩa từ [cupuacu](word)
+
+      - định nghĩa từ [december](word)
+
+      - định nghĩa từ [divided by](word)
+
+      - định nghĩa từ [eight](word)
+
+      - định nghĩa từ [eighteen](word)
+
+      - định nghĩa từ [february](word)
+
+      - định nghĩa từ [feijoa](word)
+
+      - định nghĩa từ [fifty](word)
+
+      - định nghĩa từ [fish](word)
+
+      - định nghĩa từ [fourth](word)
+
+      - định nghĩa từ [frog](word)
+
+      - định nghĩa từ [fuchsia](word)
+
+      - định nghĩa từ [glad to meet you](word)
+
+      - định nghĩa từ [goat](word)
+
+      - định nghĩa từ [good luck](word)
+
+      - định nghĩa từ [good morning](word)
+
+      - định nghĩa từ [good to see you again](word)
+
+      - định nghĩa từ [grape](word)
+
+      - định nghĩa từ [how are you?](word)
+
+      - định nghĩa từ [i'm a/an...](word)
+
+      - định nghĩa từ [i'm doing well](word)
+
+      - định nghĩa từ [i'm just looking](word)
+
+      - định nghĩa từ [i'm sorry](word)
+
+      - định nghĩa từ [it's been a while](word)
+
+      - định nghĩa từ [july](word)
+
+      - định nghĩa từ [kiwi](word)
+
+      - định nghĩa từ [kumquat](word)
+
+      - định nghĩa từ [lemon](word)
+
+      - định nghĩa từ [light](word)
+
+      - định nghĩa từ [longan](word)
+
+      - định nghĩa từ [marionberry](word)
+
+      - định nghĩa từ [may i have your name?](word)
+
+      - định nghĩa từ [mint](word)
+
+      - định nghĩa từ [miracle fruit](word)
+
+      - định nghĩa từ [monkey](word)
+
+      - định nghĩa từ [mulberry](word)
+
+      - định nghĩa từ [my name is...](word)
+
+      - định nghĩa từ [nance](word)
+
+      - định nghĩa từ [no problem](word)
+
+      - định nghĩa từ [noon](word)
+
+      - định nghĩa từ [octopus](word)
+
+      - định nghĩa từ [once](word)
+
+      - định nghĩa từ [one hundred](word)
+
+      - định nghĩa từ [owl](word)
+
+      - định nghĩa từ [papaya](word)
+
+      - định nghĩa từ [persimmon](word)
+
+      - định nghĩa từ [pink](word)
+
+      - định nghĩa từ [rambutan](word)
+
+      - định nghĩa từ [santol](word)
+
+      - định nghĩa từ [season](word)
+
+      - định nghĩa từ [teal](word)
+
+      - định nghĩa từ [thirteen](word)
+
+      - định nghĩa từ [three](word)
+
+      - định nghĩa từ [thursday](word)
+
+      - định nghĩa từ [watermelon](word)
+
+      - định nghĩa từ [weekend](word)
+
+      - định nghĩa từ [what's new?](word)
+
+      - định nghĩa từ [where are you from?](word)
+
+      - định nghĩa từ [winter](word)
+
+      - định nghĩa từ [wonderful](word)
+
+      - định nghĩa từ [yearly](word)
+
+      - định nghĩa từ [yellow](word)
+
+      - định nghĩa từ [zebra](word)
+  - intent: hoi_nghia_don_gian
+    examples: |
+      - [CEO](word)
+
+      - [CV](word)
+
+      - [DNA](word)
+
+      - [Earth](word)
+
+      - [HR](word)
+
+      - [P.E.](word)
+
+      - [TV show](word)
+
+      - [a bit tired](word)
+
+      - [ability](word)
+
+      - [abroad](word)
+
+      - [acai berry](word)
+
+      - [acceleration](word)
+
+      - [accountant](word)
+
+      - [acid](word)
+
+      - [actor](word)
+
+      - [actress](word)
+
+      - [adult](word)
+
+      - [adventure](word)
+
+      - [advertisement](word)
+
+      - [afternoon](word)
+
+      - [air](word)
+
+      - [airplane](word)
+
+      - [airport](word)
+
+      - [album](word)
+
+      - [algorithm](word)
+
+      - [alligator](word)
+
+      - [almond milk](word)
+
+      - [alumni](word)
+
+      - [americano](word)
+
+      - [amphibian](word)
+
+      - [and you?](word)
+
+      - [angle](word)
+
+      - [angry](word)
+
+      - [animal](word)
+
+      - [animation](word)
+
+      - [ant](word)
+
+      - [anxious](word)
+
+      - [any plans for the weekend?](word)
+
+      - [apartment](word)
+
+      - [apple juice](word)
+
+      - [apple](word)
+
+      - [application](word)
+
+      - [apricot](word)
+
+      - [april](word)
+
+      - [aquarium](word)
+
+      - [arc](word)
+
+      - [architect](word)
+
+      - [arrival](word)
+
+      - [arrow](word)
+
+      - [art](word)
+
+      - [artificial intelligence](word)
+
+      - [artist](word)
+
+      - [ashamed](word)
+
+      - [asparagus](word)
+
+      - [assignment](word)
+
+      - [assistant](word)
+
+      - [asteroid](word)
+
+      - [astronaut](word)
+
+      - [astronomy](word)
+
+      - [atmosphere](word)
+
+      - [atom](word)
+
+      - [audience](word)
+
+      - [august](word)
+
+      - [aunt](word)
+
+      - [author](word)
+
+      - [autumn](word)
+
+      - [avocado](word)
+
+      - [baby](word)
+
+      - [backpack](word)
+
+      - [bacon](word)
+
+      - [bacteria](word)
+
+      - [ballet](word)
+
+      - [banana](word)
+
+      - [band](word)
+
+      - [bandwidth](word)
+
+      - [bank](word)
+
+      - [bark](word)
+
+      - [base](word)
+
+      - [bat](word)
+
+      - [beach](word)
+
+      - [bean](word)
+
+      - [bear](word)
+
+      - [bee](word)
+
+      - [beef](word)
+
+      - [beer](word)
+
+      - [beige](word)
+
+      - [biography](word)
+
+      - [biology](word)
+
+      - [bird](word)
+
+      - [birth](word)
+
+      - [black hole](word)
+
+      - [black tea](word)
+
+      - [black](word)
+
+      - [blackberry](word)
+
+      - [blockchain](word)
+
+      - [blood orange](word)
+
+      - [blue](word)
+
+      - [blueberry](word)
+
+      - [board](word)
+
+      - [boarding pass](word)
+
+      - [boat](word)
+
+      - [bonus](word)
+
+      - [book](word)
+
+      - [booking](word)
+
+      - [bored](word)
+
+      - [boss](word)
+
+      - [boy](word)
+
+      - [boysenberry](word)
+
+      - [branch](word)
+
+      - [brave](word)
+
+      - [bread](word)
+
+      - [breadfruit](word)
+
+      - [bright red](word)
+
+      - [bright](word)
+
+      - [broadcast](word)
+
+      - [broccoli](word)
+
+      - [bronze](word)
+
+      - [brother](word)
+
+      - [brown](word)
+
+      - [bubble tea](word)
+
+      - [buddha's hand](word)
+
+      - [bug](word)
+
+      - [builder](word)
+
+      - [bully](word)
+
+      - [bus stop](word)
+
+      - [bus](word)
+
+      - [bush](word)
+
+      - [business](word)
+
+      - [butter](word)
+
+      - [butterfly](word)
+
+      - [bye-bye](word)
+
+      - [bye](word)
+
+      - [cabbage](word)
+
+      - [cafe](word)
+
+      - [cake](word)
+
+      - [calamansi](word)
+
+      - [calendar](word)
+
+      - [calm](word)
+
+      - [camel](word)
+
+      - [camera](word)
+
+      - [camping](word)
+
+      - [campus](word)
+
+      - [can't complain](word)
+
+      - [cantaloupe](word)
+
+      - [canteen](word)
+
+      - [canyon](word)
+
+      - [capital](word)
+
+      - [cappuccino](word)
+
+      - [car](word)
+
+      - [carbohydrate](word)
+
+      - [carbon dioxide](word)
+
+      - [career](word)
+
+      - [carpenter](word)
+
+      - [carrot](word)
+
+      - [cartoon](word)
+
+      - [cashier](word)
+
+      - [castle](word)
+
+      - [cat](word)
+
+      - [catalyst](word)
+
+      - [catch you later](word)
+
+      - [cave](word)
+
+      - [celebration](word)
+
+      - [celebrity](word)
+
+      - [celery](word)
+
+      - [cell](word)
+
+      - [cereal](word)
+
+      - [certificate](word)
+
+      - [chair](word)
+
+      - [chalk](word)
+
+      - [champagne](word)
+
+      - [channel](word)
+
+      - [chapter](word)
+
+      - [character](word)
+
+      - [charcoal](word)
+
+      - [charity](word)
+
+      - [check-in](word)
+
+      - [check-out](word)
+
+      - [cheerful](word)
+
+      - [cheers](word)
+
+      - [cheese](word)
+
+      - [chef](word)
+
+      - [chemistry](word)
+
+      - [cherimoya](word)
+
+      - [cherry](word)
+
+      - [chicken](word)
+
+      - [child](word)
+
+      - [children](word)
+
+      - [chili](word)
+
+      - [chips](word)
+
+      - [chocolate](word)
+
+      - [chokeberry](word)
+
+      - [chromosome](word)
+
+      - [church](word)
+
+      - [cider](word)
+
+      - [cinema](word)
+
+      - [circle](word)
+
+      - [circus](word)
+
+      - [citizen](word)
+
+      - [citron](word)
+
+      - [city](word)
+
+      - [classroom](word)
+
+      - [clementine](word)
+
+      - [climate change](word)
+
+      - [climate](word)
+
+      - [clock](word)
+
+      - [cloud computing](word)
+
+      - [cloud](word)
+
+      - [cloudberry](word)
+
+      - [club](word)
+
+      - [coach](word)
+
+      - [cocktail](word)
+
+      - [coconut](word)
+
+      - [coffee](word)
+
+      - [cola](word)
+
+      - [cold](word)
+
+      - [colleague](word)
+
+      - [college](word)
+
+      - [color](word)
+
+      - [colorful](word)
+
+      - [comedian](word)
+
+      - [comedy](word)
+
+      - [comet](word)
+
+      - [community](word)
+
+      - [company](word)
+
+      - [compass](word)
+
+      - [compound](word)
+
+      - [computer](word)
+
+      - [concert](word)
+
+      - [cone](word)
+
+      - [confident](word)
+
+      - [confused](word)
+
+      - [conservation](word)
+
+      - [constellation](word)
+
+      - [continent](word)
+
+      - [contract](word)
+
+      - [cook](word)
+
+      - [cookie](word)
+
+      - [coral](word)
+
+      - [core](word)
+
+      - [corn](word)
+
+      - [cosmology](word)
+
+      - [could be better](word)
+
+      - [could you repeat that?](word)
+
+      - [count](word)
+
+      - [country](word)
+
+      - [course](word)
+
+      - [court](word)
+
+      - [cousin](word)
+
+      - [covalent bond](word)
+
+      - [cow](word)
+
+      - [coward](word)
+
+      - [crab](word)
+
+      - [cranberry](word)
+
+      - [cream](word)
+
+      - [creative](word)
+
+      - [creature](word)
+
+      - [crescent](word)
+
+      - [crime](word)
+
+      - [crimson](word)
+
+      - [crocodile](word)
+
+      - [cross](word)
+
+      - [cruise](word)
+
+      - [crust](word)
+
+      - [cryptocurrency](word)
+
+      - [cube](word)
+
+      - [cuboid](word)
+
+      - [cucumber](word)
+
+      - [culture](word)
+
+      - [cupuacu](word)
+
+      - [curious](word)
+
+      - [currant](word)
+
+      - [currency](word)
+
+      - [current](word)
+
+      - [curriculum](word)
+
+      - [curry](word)
+
+      - [curve](word)
+
+      - [custom](word)
+
+      - [cyan](word)
+
+      - [cybersecurity](word)
+
+      - [cylinder](word)
+
+      - [daily](word)
+
+      - [dance](word)
+
+      - [dark green](word)
+
+      - [dark](word)
+
+      - [database](word)
+
+      - [date](word)
+
+      - [daughter](word)
+
+      - [day](word)
+
+      - [deadline](word)
+
+      - [death](word)
+
+      - [decagon](word)
+
+      - [december](word)
+
+      - [deer](word)
+
+      - [degree](word)
+
+      - [democracy](word)
+
+      - [dentist](word)
+
+      - [department](word)
+
+      - [departure](word)
+
+      - [desert](word)
+
+      - [designer](word)
+
+      - [desk](word)
+
+      - [developer](word)
+
+      - [diamond](word)
+
+      - [diploma](word)
+
+      - [direction](word)
+
+      - [director](word)
+
+      - [disappointed](word)
+
+      - [discipline](word)
+
+      - [disease](word)
+
+      - [dislike](word)
+
+      - [dissertation](word)
+
+      - [divided by](word)
+
+      - [doctor](word)
+
+      - [documentary](word)
+
+      - [dodecahedron](word)
+
+      - [dog](word)
+
+      - [dolphin](word)
+
+      - [domestic](word)
+
+      - [don't mention it](word)
+
+      - [dormitory](word)
+
+      - [double](word)
+
+      - [dragon fruit](word)
+
+      - [drama](word)
+
+      - [driver](word)
+
+      - [drums](word)
+
+      - [duck](word)
+
+      - [durian](word)
+
+      - [duty](word)
+
+      - [e-learning](word)
+
+      - [eagle](word)
+
+      - [earthquake](word)
+
+      - [east](word)
+
+      - [eclipse](word)
+
+      - [economy](word)
+
+      - [ecosystem](word)
+
+      - [editor](word)
+
+      - [education](word)
+
+      - [egg](word)
+
+      - [eggplant](word)
+
+      - [eight](word)
+
+      - [eighteen](word)
+
+      - [eighty](word)
+
+      - [elderberry](word)
+
+      - [elderly](word)
+
+      - [election](word)
+
+      - [electrician](word)
+
+      - [electricity](word)
+
+      - [electron](word)
+
+      - [element](word)
+
+      - [elephant](word)
+
+      - [eleven](word)
+
+      - [embarrassed](word)
+
+      - [emerald](word)
+
+      - [emotion](word)
+
+      - [employee](word)
+
+      - [employer](word)
+
+      - [energy drink](word)
+
+      - [energy](word)
+
+      - [engineer](word)
+
+      - [environment](word)
+
+      - [enzyme](word)
+
+      - [episode](word)
+
+      - [equality](word)
+
+      - [equals](word)
+
+      - [equator](word)
+
+      - [equilateral triangle](word)
+
+      - [eraser](word)
+
+      - [erosion](word)
+
+      - [espresso](word)
+
+      - [essay](word)
+
+      - [evening](word)
+
+      - [evolution](word)
+
+      - [exam](word)
+
+      - [excited](word)
+
+      - [excuse me](word)
+
+      - [exhibition](word)
+
+      - [experience](word)
+
+      - [explore](word)
+
+      - [extracurricular](word)
+
+      - [factory](word)
+
+      - [fail](word)
+
+      - [fall](word)
+
+      - [family](word)
+
+      - [famous](word)
+
+      - [fan](word)
+
+      - [fantastic](word)
+
+      - [farewell](word)
+
+      - [farmer](word)
+
+      - [father](word)
+
+      - [february](word)
+
+      - [feeling](word)
+
+      - [feijoa](word)
+
+      - [festival](word)
+
+      - [fiction](word)
+
+      - [fifteen](word)
+
+      - [fifth](word)
+
+      - [fifty](word)
+
+      - [fig](word)
+
+      - [film](word)
+
+      - [finance](word)
+
+      - [finger lime](word)
+
+      - [fire](word)
+
+      - [firefighter](word)
+
+      - [firewall](word)
+
+      - [first](word)
+
+      - [fish](word)
+
+      - [five](word)
+
+      - [flight attendant](word)
+
+      - [flight](word)
+
+      - [flour](word)
+
+      - [flower](word)
+
+      - [fog](word)
+
+      - [force](word)
+
+      - [forest](word)
+
+      - [forty](word)
+
+      - [fossil fuel](word)
+
+      - [fossil](word)
+
+      - [four](word)
+
+      - [fourteen](word)
+
+      - [fourth](word)
+
+      - [fox](word)
+
+      - [freedom](word)
+
+      - [freelancer](word)
+
+      - [french fries](word)
+
+      - [friction](word)
+
+      - [friday](word)
+
+      - [friend](word)
+
+      - [friendly](word)
+
+      - [friendship](word)
+
+      - [frog](word)
+
+      - [fuchsia](word)
+
+      - [full-time](word)
+
+      - [funeral](word)
+
+      - [fungus](word)
+
+      - [funny](word)
+
+      - [future](word)
+
+      - [galaxy](word)
+
+      - [gallery](word)
+
+      - [game](word)
+
+      - [garlic](word)
+
+      - [gate](word)
+
+      - [gene](word)
+
+      - [generation](word)
+
+      - [generous](word)
+
+      - [geography](word)
+
+      - [geology](word)
+
+      - [gin](word)
+
+      - [ginger](word)
+
+      - [giraffe](word)
+
+      - [girl](word)
+
+      - [glacier](word)
+
+      - [glad to meet you](word)
+
+      - [goat](word)
+
+      - [god](word)
+
+      - [goji berry](word)
+
+      - [gold](word)
+
+      - [good afternoon](word)
+
+      - [good evening](word)
+
+      - [good luck](word)
+
+      - [good morning](word)
+
+      - [good night](word)
+
+      - [good to see you again](word)
+
+      - [good to see you](word)
+
+      - [goodbye](word)
+
+      - [gooseberry](word)
+
+      - [gossip](word)
+
+      - [government](word)
+
+      - [grade](word)
+
+      - [graduate](word)
+
+      - [graduation](word)
+
+      - [grandchild](word)
+
+      - [grandfather](word)
+
+      - [grandmother](word)
+
+      - [grandparent](word)
+
+      - [grape](word)
+
+      - [grapefruit](word)
+
+      - [grass](word)
+
+      - [gravity](word)
+
+      - [gray](word)
+
+      - [great](word)
+
+      - [green tea](word)
+
+      - [green](word)
+
+      - [greetings](word)
+
+      - [grumpy](word)
+
+      - [guava](word)
+
+      - [guesthouse](word)
+
+      - [guide](word)
+
+      - [guidebook](word)
+
+      - [guitar](word)
+
+      - [gymnasium](word)
+
+      - [habitat](word)
+
+      - [half](word)
+
+      - [hamburger](word)
+
+      - [hamster](word)
+
+      - [happy](word)
+
+      - [hard-working](word)
+
+      - [hardware](word)
+
+      - [hate](word)
+
+      - [have a good day](word)
+
+      - [have a great weekend](word)
+
+      - [have a nice day](word)
+
+      - [have you met...](word)
+
+      - [health](word)
+
+      - [heart](word)
+
+      - [helix](word)
+
+      - [hello](word)
+
+      - [hemisphere](word)
+
+      - [heptagon](word)
+
+      - [herbal tea](word)
+
+      - [hexagon](word)
+
+      - [hey](word)
+
+      - [hi](word)
+
+      - [hiking](word)
+
+      - [hill](word)
+
+      - [hire](word)
+
+      - [history](word)
+
+      - [hobby](word)
+
+      - [holiday](word)
+
+      - [homeless](word)
+
+      - [homework](word)
+
+      - [honest](word)
+
+      - [honey](word)
+
+      - [honeydew](word)
+
+      - [horror](word)
+
+      - [horse](word)
+
+      - [hospital](word)
+
+      - [hostel](word)
+
+      - [hot chocolate](word)
+
+      - [hot](word)
+
+      - [hotel](word)
+
+      - [hour](word)
+
+      - [how about you?](word)
+
+      - [how are you doing?](word)
+
+      - [how are you?](word)
+
+      - [how can i help you?](word)
+
+      - [how do you do?](word)
+
+      - [how have you been?](word)
+
+      - [how was your day?](word)
+
+      - [how was your weekend?](word)
+
+      - [how's everything?](word)
+
+      - [how's it going?](word)
+
+      - [how's life?](word)
+
+      - [huckleberry](word)
+
+      - [human](word)
+
+      - [humidity](word)
+
+      - [hungry](word)
+
+      - [husband](word)
+
+      - [i apologize](word)
+
+      - [i'd like you to meet...](word)
+
+      - [i'm a/an...](word)
+
+      - [i'm doing well](word)
+
+      - [i'm fine, thank you](word)
+
+      - [i'm from...](word)
+
+      - [i'm good](word)
+
+      - [i'm just looking](word)
+
+      - [i'm okay](word)
+
+      - [i'm sorry](word)
+
+      - [i'm...](word)
+
+      - [i've been busy](word)
+
+      - [ice cream](word)
+
+      - [ice](word)
+
+      - [iced tea](word)
+
+      - [icosahedron](word)
+
+      - [ilama](word)
+
+      - [impatient](word)
+
+      - [income](word)
+
+      - [indigo](word)
+
+      - [industry](word)
+
+      - [insect](word)
+
+      - [instrument](word)
+
+      - [insurance](word)
+
+      - [intelligence](word)
+
+      - [interested](word)
+
+      - [international](word)
+
+      - [internet](word)
+
+      - [internship](word)
+
+      - [interview](word)
+
+      - [ion](word)
+
+      - [ionic bond](word)
+
+      - [island](word)
+
+      - [isosceles triangle](word)
+
+      - [isotope](word)
+
+      - [it's a pleasure to meet you](word)
+
+      - [it's been a while](word)
+
+      - [ivory](word)
+
+      - [jabuticaba](word)
+
+      - [jackfruit](word)
+
+      - [january](word)
+
+      - [jealous](word)
+
+      - [job](word)
+
+      - [journalist](word)
+
+      - [journey](word)
+
+      - [judge](word)
+
+      - [juice](word)
+
+      - [jujube](word)
+
+      - [july](word)
+
+      - [june](word)
+
+      - [jungle](word)
+
+      - [justice](word)
+
+      - [kangaroo](word)
+
+      - [key](word)
+
+      - [kind](word)
+
+      - [king](word)
+
+      - [kite](word)
+
+      - [kiwano](word)
+
+      - [kiwi](word)
+
+      - [knowledge](word)
+
+      - [koala](word)
+
+      - [kombucha](word)
+
+      - [kumquat](word)
+
+      - [laboratory](word)
+
+      - [lake](word)
+
+      - [lamb](word)
+
+      - [landscape](word)
+
+      - [langsat](word)
+
+      - [language](word)
+
+      - [laptop](word)
+
+      - [latte](word)
+
+      - [lava](word)
+
+      - [lavender](word)
+
+      - [law](word)
+
+      - [lawyer](word)
+
+      - [lazy](word)
+
+      - [leaf](word)
+
+      - [learn](word)
+
+      - [lecture](word)
+
+      - [lecturer](word)
+
+      - [leisure](word)
+
+      - [lemon](word)
+
+      - [lemonade](word)
+
+      - [lesson](word)
+
+      - [lettuce](word)
+
+      - [librarian](word)
+
+      - [library](word)
+
+      - [life](word)
+
+      - [light blue](word)
+
+      - [light-year](word)
+
+      - [light](word)
+
+      - [lightning](word)
+
+      - [like](word)
+
+      - [lime](word)
+
+      - [line](word)
+
+      - [lion](word)
+
+      - [lipid](word)
+
+      - [literature](word)
+
+      - [lizard](word)
+
+      - [lobby](word)
+
+      - [lobster](word)
+
+      - [local](word)
+
+      - [loganberry](word)
+
+      - [lonely](word)
+
+      - [long time no see](word)
+
+      - [longan](word)
+
+      - [loop](word)
+
+      - [loquat](word)
+
+      - [love](word)
+
+      - [loyal](word)
+
+      - [lucuma](word)
+
+      - [luggage](word)
+
+      - [lychee](word)
+
+      - [lyrics](word)
+
+      - [machine learning](word)
+
+      - [magazine](word)
+
+      - [magenta](word)
+
+      - [magic](word)
+
+      - [magma](word)
+
+      - [magnetism](word)
+
+      - [major](word)
+
+      - [mamey sapote](word)
+
+      - [mammal](word)
+
+      - [man](word)
+
+      - [manager](word)
+
+      - [mango](word)
+
+      - [mangosteen](word)
+
+      - [mantle](word)
+
+      - [map](word)
+
+      - [march](word)
+
+      - [margarita](word)
+
+      - [marionberry](word)
+
+      - [mark](word)
+
+      - [marker](word)
+
+      - [market](word)
+
+      - [marketing](word)
+
+      - [maroon](word)
+
+      - [marriage](word)
+
+      - [mass](word)
+
+      - [matcha](word)
+
+      - [mathematics](word)
+
+      - [may i have your name?](word)
+
+      - [may i help you?](word)
+
+      - [may](word)
+
+      - [meadow](word)
+
+      - [mean](word)
+
+      - [mechanic](word)
+
+      - [media](word)
+
+      - [medicine](word)
+
+      - [meeting](word)
+
+      - [metabolism](word)
+
+      - [meteor](word)
+
+      - [midnight](word)
+
+      - [milk](word)
+
+      - [milkshake](word)
+
+      - [mineral water](word)
+
+      - [mineral](word)
+
+      - [mint](word)
+
+      - [minus](word)
+
+      - [minute](word)
+
+      - [miracle fruit](word)
+
+      - [miserable](word)
+
+      - [mitochondria](word)
+
+      - [mixture](word)
+
+      - [mojito](word)
+
+      - [molecule](word)
+
+      - [momentum](word)
+
+      - [monday](word)
+
+      - [money](word)
+
+      - [monkey](word)
+
+      - [monstera deliciosa](word)
+
+      - [month](word)
+
+      - [monthly](word)
+
+      - [monument](word)
+
+      - [mood](word)
+
+      - [moon](word)
+
+      - [morning](word)
+
+      - [mother](word)
+
+      - [motorcycle](word)
+
+      - [mountain](word)
+
+      - [mouse](word)
+
+      - [movie](word)
+
+      - [mulberry](word)
+
+      - [museum](word)
+
+      - [mushroom](word)
+
+      - [music](word)
+
+      - [musician](word)
+
+      - [mustard](word)
+
+      - [my name is...](word)
+
+      - [my pleasure](word)
+
+      - [nance](word)
+
+      - [nation](word)
+
+      - [nature](word)
+
+      - [navy](word)
+
+      - [nebula](word)
+
+      - [nectarine](word)
+
+      - [neighbor](word)
+
+      - [nephew](word)
+
+      - [nervous](word)
+
+      - [network](word)
+
+      - [neutron](word)
+
+      - [news](word)
+
+      - [newspaper](word)
+
+      - [nice to meet you too](word)
+
+      - [nice to meet you](word)
+
+      - [nice](word)
+
+      - [niece](word)
+
+      - [night](word)
+
+      - [nine](word)
+
+      - [nineteen](word)
+
+      - [ninety](word)
+
+      - [no problem](word)
+
+      - [no, thank you](word)
+
+      - [non-fiction](word)
+
+      - [nonagon](word)
+
+      - [noni](word)
+
+      - [noodle](word)
+
+      - [noon](word)
+
+      - [north](word)
+
+      - [not bad](word)
+
+      - [notebook](word)
+
+      - [novel](word)
+
+      - [november](word)
+
+      - [nucleus (bio)](word)
+
+      - [nucleus](word)
+
+      - [number](word)
+
+      - [nurse](word)
+
+      - [occupation](word)
+
+      - [ocean](word)
+
+      - [octagon](word)
+
+      - [octahedron](word)
+
+      - [october](word)
+
+      - [octopus](word)
+
+      - [office](word)
+
+      - [oil](word)
+
+      - [olive](word)
+
+      - [omelette](word)
+
+      - [once](word)
+
+      - [one billion](word)
+
+      - [one hundred](word)
+
+      - [one million](word)
+
+      - [one thousand](word)
+
+      - [one](word)
+
+      - [onion](word)
+
+      - [opera](word)
+
+      - [operating system](word)
+
+      - [optimistic](word)
+
+      - [orange juice](word)
+
+      - [orange](word)
+
+      - [orbit](word)
+
+      - [organism](word)
+
+      - [organization](word)
+
+      - [oval](word)
+
+      - [overtime](word)
+
+      - [owl](word)
+
+      - [oxidation](word)
+
+      - [oxygen](word)
+
+      - [pH](word)
+
+      - [pagoda](word)
+
+      - [painting](word)
+
+      - [palace](word)
+
+      - [paleontology](word)
+
+      - [pancake](word)
+
+      - [panda](word)
+
+      - [papaya](word)
+
+      - [parallelogram](word)
+
+      - [pardon me](word)
+
+      - [parent](word)
+
+      - [park](word)
+
+      - [part-time](word)
+
+      - [pass](word)
+
+      - [passion fruit](word)
+
+      - [passport](word)
+
+      - [past](word)
+
+      - [pasta](word)
+
+      - [patient](word)
+
+      - [pawpaw](word)
+
+      - [paycheck](word)
+
+      - [peace](word)
+
+      - [peach palm](word)
+
+      - [peach](word)
+
+      - [pear](word)
+
+      - [pen](word)
+
+      - [pencil](word)
+
+      - [penguin](word)
+
+      - [peninsula](word)
+
+      - [pension](word)
+
+      - [pentagon](word)
+
+      - [people](word)
+
+      - [pepino melon](word)
+
+      - [pepper](word)
+
+      - [periodic table](word)
+
+      - [persimmon](word)
+
+      - [person](word)
+
+      - [personality](word)
+
+      - [pessimistic](word)
+
+      - [petal](word)
+
+      - [pharmacist](word)
+
+      - [photographer](word)
+
+      - [photography](word)
+
+      - [photosynthesis](word)
+
+      - [physics](word)
+
+      - [piano](word)
+
+      - [pie](word)
+
+      - [pig](word)
+
+      - [pilot](word)
+
+      - [pineapple](word)
+
+      - [pizza](word)
+
+      - [planet](word)
+
+      - [plant](word)
+
+      - [plantain](word)
+
+      - [play](word)
+
+      - [playground](word)
+
+      - [pleased to meet you](word)
+
+      - [plot](word)
+
+      - [plum](word)
+
+      - [plumber](word)
+
+      - [plus](word)
+
+      - [podcast](word)
+
+      - [poem](word)
+
+      - [poet](word)
+
+      - [poetry](word)
+
+      - [point](word)
+
+      - [pole](word)
+
+      - [police officer](word)
+
+      - [police](word)
+
+      - [polite](word)
+
+      - [politics](word)
+
+      - [pollution](word)
+
+      - [polygon](word)
+
+      - [polymer](word)
+
+      - [pomegranate](word)
+
+      - [pomelo](word)
+
+      - [pond](word)
+
+      - [poor](word)
+
+      - [population](word)
+
+      - [pork](word)
+
+      - [port](word)
+
+      - [potato](word)
+
+      - [poverty](word)
+
+      - [predator](word)
+
+      - [present](word)
+
+      - [presentation](word)
+
+      - [president](word)
+
+      - [pretty good](word)
+
+      - [prey](word)
+
+      - [prickly pear](word)
+
+      - [principal](word)
+
+      - [prism](word)
+
+      - [prison](word)
+
+      - [problem](word)
+
+      - [profession](word)
+
+      - [professor](word)
+
+      - [project](word)
+
+      - [promotion](word)
+
+      - [protein](word)
+
+      - [proton](word)
+
+      - [proud](word)
+
+      - [pumpkin](word)
+
+      - [purple](word)
+
+      - [pyramid](word)
+
+      - [quadrilateral](word)
+
+      - [qualification](word)
+
+      - [quantum](word)
+
+      - [quarter](word)
+
+      - [queen](word)
+
+      - [quiet](word)
+
+      - [quince](word)
+
+      - [quit](word)
+
+      - [quiz](word)
+
+      - [rabbit](word)
+
+      - [radio](word)
+
+      - [rain](word)
+
+      - [rainbow](word)
+
+      - [rambutan](word)
+
+      - [raspberry](word)
+
+      - [reaction](word)
+
+      - [reader](word)
+
+      - [real estate agent](word)
+
+      - [reception](word)
+
+      - [receptionist](word)
+
+      - [rectangle](word)
+
+      - [red wine](word)
+
+      - [red](word)
+
+      - [reduction](word)
+
+      - [relationship](word)
+
+      - [relativity](word)
+
+      - [relaxed](word)
+
+      - [religion](word)
+
+      - [remote control](word)
+
+      - [renewable energy](word)
+
+      - [report](word)
+
+      - [reptile](word)
+
+      - [research](word)
+
+      - [researcher](word)
+
+      - [resort](word)
+
+      - [respiration](word)
+
+      - [restaurant](word)
+
+      - [resume](word)
+
+      - [retirement](word)
+
+      - [review](word)
+
+      - [rhinoceros](word)
+
+      - [rice](word)
+
+      - [rich](word)
+
+      - [right triangle](word)
+
+      - [rights](word)
+
+      - [river](word)
+
+      - [rock](word)
+
+      - [room](word)
+
+      - [root](word)
+
+      - [rose apple](word)
+
+      - [ruby](word)
+
+      - [rude](word)
+
+      - [rule](word)
+
+      - [ruler](word)
+
+      - [rum](word)
+
+      - [sad](word)
+
+      - [sake](word)
+
+      - [salad](word)
+
+      - [salak](word)
+
+      - [salary](word)
+
+      - [sales](word)
+
+      - [salmon](word)
+
+      - [salt](word)
+
+      - [sand](word)
+
+      - [sandwich](word)
+
+      - [santol](word)
+
+      - [sapodilla](word)
+
+      - [sapphire](word)
+
+      - [satellite](word)
+
+      - [satisfied](word)
+
+      - [saturday](word)
+
+      - [sauce](word)
+
+      - [sausage](word)
+
+      - [savanna](word)
+
+      - [scalene triangle](word)
+
+      - [scared](word)
+
+      - [scene](word)
+
+      - [scenery](word)
+
+      - [schedule](word)
+
+      - [scholarship](word)
+
+      - [school](word)
+
+      - [sci-fi](word)
+
+      - [science](word)
+
+      - [scientist](word)
+
+      - [score](word)
+
+      - [screenplay](word)
+
+      - [script](word)
+
+      - [sculpture](word)
+
+      - [sea buckthorn](word)
+
+      - [sea](word)
+
+      - [season](word)
+
+      - [second](word)
+
+      - [secretary](word)
+
+      - [sediment](word)
+
+      - [see you later](word)
+
+      - [see you soon](word)
+
+      - [see you tomorrow](word)
+
+      - [seed](word)
+
+      - [seismology](word)
+
+      - [semester](word)
+
+      - [semicircle](word)
+
+      - [seminar](word)
+
+      - [september](word)
+
+      - [series](word)
+
+      - [serious](word)
+
+      - [server](word)
+
+      - [seven](word)
+
+      - [seventeen](word)
+
+      - [seventy](word)
+
+      - [shade](word)
+
+      - [shark](word)
+
+      - [sheep](word)
+
+      - [shift](word)
+
+      - [ship](word)
+
+      - [shop assistant](word)
+
+      - [shrimp](word)
+
+      - [shy](word)
+
+      - [sibling](word)
+
+      - [sick](word)
+
+      - [sightseeing](word)
+
+      - [silver](word)
+
+      - [singer](word)
+
+      - [sister](word)
+
+      - [six](word)
+
+      - [sixteen](word)
+
+      - [sixty](word)
+
+      - [skiing](word)
+
+      - [skill](word)
+
+      - [sky blue](word)
+
+      - [sky](word)
+
+      - [sleepy](word)
+
+      - [smart](word)
+
+      - [smoothie](word)
+
+      - [snake](word)
+
+      - [snow](word)
+
+      - [so-so](word)
+
+      - [social media](word)
+
+      - [society](word)
+
+      - [soda](word)
+
+      - [software](word)
+
+      - [soil](word)
+
+      - [solar system](word)
+
+      - [solution](word)
+
+      - [solvent](word)
+
+      - [son](word)
+
+      - [song](word)
+
+      - [soundtrack](word)
+
+      - [soup](word)
+
+      - [soursop](word)
+
+      - [south](word)
+
+      - [souvenir](word)
+
+      - [soy milk](word)
+
+      - [sparkling water](word)
+
+      - [species](word)
+
+      - [sphere](word)
+
+      - [spider](word)
+
+      - [spinach](word)
+
+      - [spiral](word)
+
+      - [spirits](word)
+
+      - [sports drink](word)
+
+      - [spouse](word)
+
+      - [spring](word)
+
+      - [square pyramid](word)
+
+      - [square](word)
+
+      - [squid](word)
+
+      - [squirrel](word)
+
+      - [staff](word)
+
+      - [stage](word)
+
+      - [star fruit](word)
+
+      - [star](word)
+
+      - [state](word)
+
+      - [station](word)
+
+      - [statue](word)
+
+      - [steak](word)
+
+      - [stem](word)
+
+      - [stew](word)
+
+      - [stone](word)
+
+      - [storm](word)
+
+      - [stranger](word)
+
+      - [strawberry](word)
+
+      - [stream](word)
+
+      - [streaming](word)
+
+      - [student](word)
+
+      - [studio](word)
+
+      - [study](word)
+
+      - [stupid](word)
+
+      - [subject](word)
+
+      - [subway](word)
+
+      - [sugar apple](word)
+
+      - [sugar](word)
+
+      - [suitcase](word)
+
+      - [summer](word)
+
+      - [sun](word)
+
+      - [sunday](word)
+
+      - [supernova](word)
+
+      - [surfing](word)
+
+      - [surinam cherry](word)
+
+      - [surprised](word)
+
+      - [sushi](word)
+
+      - [swamp](word)
+
+      - [swimming](word)
+
+      - [syllabus](word)
+
+      - [syrup](word)
+
+      - [system](word)
+
+      - [take care](word)
+
+      - [talk to you later](word)
+
+      - [talkative](word)
+
+      - [tamarind](word)
+
+      - [tangerine](word)
+
+      - [task](word)
+
+      - [tax](word)
+
+      - [taxi](word)
+
+      - [tea](word)
+
+      - [teach](word)
+
+      - [teacher](word)
+
+      - [teal](word)
+
+      - [team](word)
+
+      - [technology](word)
+
+      - [tectonic plate](word)
+
+      - [teenager](word)
+
+      - [telescope](word)
+
+      - [television](word)
+
+      - [temperature](word)
+
+      - [temple](word)
+
+      - [ten](word)
+
+      - [tequila](word)
+
+      - [term](word)
+
+      - [test](word)
+
+      - [tetrahedron](word)
+
+      - [textbook](word)
+
+      - [thank you](word)
+
+      - [thanks a lot](word)
+
+      - [thanks](word)
+
+      - [the pleasure is all mine](word)
+
+      - [theater](word)
+
+      - [thermodynamics](word)
+
+      - [thesis](word)
+
+      - [third](word)
+
+      - [thirsty](word)
+
+      - [thirteen](word)
+
+      - [thirty](word)
+
+      - [this is...](word)
+
+      - [thorn](word)
+
+      - [three](word)
+
+      - [thriller](word)
+
+      - [thunder](word)
+
+      - [thursday](word)
+
+      - [ticket](word)
+
+      - [tide](word)
+
+      - [tiger](word)
+
+      - [times](word)
+
+      - [tired](word)
+
+      - [today](word)
+
+      - [tomato](word)
+
+      - [tomorrow](word)
+
+      - [torus](word)
+
+      - [total](word)
+
+      - [tour](word)
+
+      - [tourist](word)
+
+      - [town](word)
+
+      - [tradition](word)
+
+      - [train](word)
+
+      - [training](word)
+
+      - [transparent](word)
+
+      - [transportation](word)
+
+      - [trapezoid](word)
+
+      - [travel](word)
+
+      - [traveler](word)
+
+      - [tree](word)
+
+      - [triangle](word)
+
+      - [triangular prism](word)
+
+      - [trip](word)
+
+      - [trunk](word)
+
+      - [tuesday](word)
+
+      - [tuition fee](word)
+
+      - [tundra](word)
+
+      - [turquoise](word)
+
+      - [turtle](word)
+
+      - [tutorial](word)
+
+      - [twelve](word)
+
+      - [twenty](word)
+
+      - [twice](word)
+
+      - [two](word)
+
+      - [uncle](word)
+
+      - [unemployed](word)
+
+      - [unemployment](word)
+
+      - [uniform](word)
+
+      - [universe](word)
+
+      - [university](word)
+
+      - [upset](word)
+
+      - [user experience](word)
+
+      - [user interface](word)
+
+      - [vacation](word)
+
+      - [valley](word)
+
+      - [vehicle](word)
+
+      - [velocity](word)
+
+      - [veterinarian](word)
+
+      - [victim](word)
+
+      - [video game](word)
+
+      - [village](word)
+
+      - [vinegar](word)
+
+      - [violet](word)
+
+      - [violin](word)
+
+      - [virus](word)
+
+      - [visa](word)
+
+      - [visit](word)
+
+      - [vodka](word)
+
+      - [volcano](word)
+
+      - [volunteer](word)
+
+      - [vote](word)
+
+      - [waffle](word)
+
+      - [wage](word)
+
+      - [waiter](word)
+
+      - [waitress](word)
+
+      - [war](word)
+
+      - [water](word)
+
+      - [waterfall](word)
+
+      - [watermelon](word)
+
+      - [wave](word)
+
+      - [wealth](word)
+
+      - [weather](word)
+
+      - [webinar](word)
+
+      - [website](word)
+
+      - [wednesday](word)
+
+      - [weed](word)
+
+      - [week](word)
+
+      - [weekday](word)
+
+      - [weekend](word)
+
+      - [weekly](word)
+
+      - [weight](word)
+
+      - [welcome to...](word)
+
+      - [welcome](word)
+
+      - [west](word)
+
+      - [whale](word)
+
+      - [what about you?](word)
+
+      - [what are you up to?](word)
+
+      - [what did you say?](word)
+
+      - [what do you do?](word)
+
+      - [what's new?](word)
+
+      - [what's up?](word)
+
+      - [what's your job?](word)
+
+      - [what's your name?](word)
+
+      - [where are you from?](word)
+
+      - [where do you come from?](word)
+
+      - [where do you live?](word)
+
+      - [where do you work?](word)
+
+      - [whiskey](word)
+
+      - [white wine](word)
+
+      - [white](word)
+
+      - [who are you?](word)
+
+      - [wife](word)
+
+      - [wildlife](word)
+
+      - [wind](word)
+
+      - [wine](word)
+
+      - [winter](word)
+
+      - [wolf](word)
+
+      - [woman](word)
+
+      - [wonderful](word)
+
+      - [wood apple](word)
+
+      - [work](word)
+
+      - [workplace](word)
+
+      - [workshop](word)
+
+      - [worried](word)
+
+      - [writer](word)
+
+      - [year](word)
+
+      - [yearly](word)
+
+      - [yellow](word)
+
+      - [yes, please](word)
+
+      - [yesterday](word)
+
+      - [yogurt drink](word)
+
+      - [yogurt](word)
+
+      - [you too](word)
+
+      - [you're welcome](word)
+
+      - [youth](word)
+
+      - [yuzu](word)
+
+      - [zebra](word)
+
+      - [zero](word)
+
+      - [zoo](word)

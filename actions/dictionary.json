@@ -1,0 +1,5154 @@
+{
+  "dog": {
+    "vi": "con chó",
+    "exp": "Dog là loài động vật nuôi trong nhà phổ biến, được biết đến là 'bạn thân của con người'."
+  },
+  "cat": {
+    "vi": "con mèo",
+    "exp": "Cat là động vật có vú nhỏ, thường được nuôi làm thú cưng, nổi tiếng với sự độc lập."
+  },
+  "bird": {
+    "vi": "con chim",
+    "exp": "Chim là động vật có lông vũ, có cánh và mỏ, hầu hết có thể bay."
+  },
+  "fish": {
+    "vi": "con cá",
+    "exp": "Cá là động vật sống dưới nước, thở bằng mang và bơi bằng vây."
+  },
+  "lion": {
+    "vi": "con sư tử",
+    "exp": "Lion là một loài mèo lớn sống ở châu Phi, con đực có bờm lớn, được mệnh danh là 'vua của muôn loài'."
+  },
+  "tiger": {
+    "vi": "con hổ",
+    "exp": "Tiger là loài mèo lớn nhất, nổi bật với bộ lông màu cam có vằn đen."
+  },
+  "bear": {
+    "vi": "con gấu",
+    "exp": "Bear là động vật có vú lớn, lông dày, có thể đi bằng hai chân, thường sống ở rừng và núi."
+  },
+  "elephant": {
+    "vi": "con voi",
+    "exp": "Elephant là động vật trên cạn lớn nhất, đặc trưng bởi cái vòi dài và đôi ngà lớn."
+  },
+  "monkey": {
+    "vi": "con khỉ",
+    "exp": "Monkey là loài linh trưởng nhanh nhẹn, có đuôi, rất thông minh và sống theo bầy đàn."
+  },
+  "horse": {
+    "vi": "con ngựa",
+    "exp": "Horse là động vật có vú lớn, được thuần hóa để cưỡi, kéo xe hoặc làm việc."
+  },
+  "cow": {
+    "vi": "con bò",
+    "exp": "Cow là động vật gia súc lớn, được nuôi để lấy sữa, thịt và sức kéo."
+  },
+  "pig": {
+    "vi": "con lợn (heo)",
+    "exp": "Pig là động vật được nuôi để lấy thịt, có mõm dài và rất thông minh."
+  },
+  "sheep": {
+    "vi": "con cừu",
+    "exp": "Sheep là động vật hiền lành, được nuôi để lấy lông (len) và thịt."
+  },
+  "goat": {
+    "vi": "con dê",
+    "exp": "Goat là động vật nhai lại, leo trèo giỏi, được nuôi để lấy sữa, thịt và da."
+  },
+  "chicken": {
+    "vi": "thịt gà",
+    "exp": "Chicken là loại thịt gia cầm phổ biến nhất, thịt trắng, mềm, có thể chế biến thành nhiều món như luộc, chiên, nướng."
+  },
+  "duck": {
+    "vi": "thịt vịt",
+    "exp": "Duck là thịt gia cầm, mỡ hơn thịt gà, da dày, thường dùng làm món vịt quay hoặc vịt luộc chấm mắm gừng."
+  },
+  "mouse": {
+    "vi": "con chuột",
+    "exp": "Mouse là loài gặm nhấm nhỏ, thường sống gần con người, di chuyển nhanh nhẹn."
+  },
+  "rabbit": {
+    "vi": "con thỏ",
+    "exp": "Rabbit là động vật có vú nhỏ, tai dài, nổi tiếng với khả năng nhảy và chạy nhanh."
+  },
+  "frog": {
+    "vi": "con ếch",
+    "exp": "Frog là động vật lưỡng cư, sống được cả trên cạn và dưới nước, da trơn và nhảy giỏi."
+  },
+  "snake": {
+    "vi": "con rắn",
+    "exp": "Snake là loài bò sát không có chân, di chuyển bằng cách trườn, một số loài có nọc độc."
+  },
+  "spider": {
+    "vi": "con nhện",
+    "exp": "Spider là động vật 8 chân, có khả năng tạo ra tơ để giăng mạng bắt mồi."
+  },
+  "ant": {
+    "vi": "con kiến",
+    "exp": "Ant là loài côn trùng nhỏ bé, sống thành đàn lớn có tổ chức xã hội cao."
+  },
+  "bee": {
+    "vi": "con ong",
+    "exp": "Bee là loài côn trùng biết bay, sống theo bầy đàn, tạo ra mật hoa và giúp thụ phấn."
+  },
+  "butterfly": {
+    "vi": "con bướm",
+    "exp": "Butterfly là côn trùng có cánh lớn, nhiều màu sắc sặc sỡ, hút mật hoa."
+  },
+  "wolf": {
+    "vi": "con sói",
+    "exp": "Wolf là động vật ăn thịt hoang dã, thuộc họ chó, sống và săn mồi theo bầy đàn."
+  },
+  "fox": {
+    "vi": "con cáo",
+    "exp": "Fox là động vật họ chó, kích thước trung bình, nổi tiếng với sự tinh ranh."
+  },
+  "deer": {
+    "vi": "con hươu",
+    "exp": "Deer là động vật có vú, ăn cỏ, con đực thường có gạc lớn trên đầu."
+  },
+  "giraffe": {
+    "vi": "con hươu cao cổ",
+    "exp": "Giraffe là động vật cao nhất thế giới, có cổ rất dài và đốm trên da."
+  },
+  "zebra": {
+    "vi": "con ngựa vằn",
+    "exp": "Zebra là động vật châu Phi, thuộc họ ngựa, nổi bật với bộ lông sọc đen trắng."
+  },
+  "kangaroo": {
+    "vi": "con chuột túi (canguru)",
+    "exp": "Kangaroo là động vật có túi ở Úc, di chuyển bằng cách nhảy bằng hai chân sau khỏe mạnh."
+  },
+  "koala": {
+    "vi": "con gấu koala",
+    "exp": "Koala là động vật có túi ở Úc, chủ yếu ăn lá bạch đàn và ngủ rất nhiều."
+  },
+  "panda": {
+    "vi": "con gấu trúc",
+    "exp": "Panda là loài gấu có bộ lông đen trắng đặc trưng, chủ yếu ăn tre, sống ở Trung Quốc."
+  },
+  "penguin": {
+    "vi": "con chim cánh cụt",
+    "exp": "Penguin là loài chim không biết bay, sống ở vùng lạnh Nam bán cầu, bơi lội rất giỏi."
+  },
+  "owl": {
+    "vi": "con cú",
+    "exp": "Owl là loài chim săn mồi ban đêm, có đôi mắt to, đầu có thể xoay 270 độ."
+  },
+  "eagle": {
+    "vi": "con đại bàng",
+    "exp": "Eagle là loài chim săn mồi cỡ lớn, có mỏ cong và tầm nhìn cực kỳ sắc bén."
+  },
+  "shark": {
+    "vi": "con cá mập",
+    "exp": "Shark là loài cá săn mồi lớn ở đại dương, có bộ xương bằng sụn."
+  },
+  "dolphin": {
+    "vi": "con cá heo",
+    "exp": "Dolphin là động vật có vú sống ở biển, rất thông minh và thân thiện."
+  },
+  "whale": {
+    "vi": "con cá voi",
+    "exp": "Whale là động vật có vú lớn nhất trên thế giới, sống hoàn toàn dưới đại dương."
+  },
+  "octopus": {
+    "vi": "con bạch tuộc",
+    "exp": "Octopus là động vật thân mềm sống ở biển, có 8 xúc tu và khả năng thay đổi màu sắc."
+  },
+  "crab": {
+    "vi": "con cua",
+    "exp": "Crab là loại hải sản có mai cứng và nhiều càng, thịt cua rất ngọt và thơm, đặc biệt là ở càng và gạch cua."
+  },
+  "shrimp": {
+    "vi": "con tôm",
+    "exp": "Shrimp là loại hải sản có vỏ, thân cong, thịt giòn và ngọt, thường dùng hấp, nướng hoặc xào."
+  },
+  "turtle": {
+    "vi": "con rùa",
+    "exp": "Turtle là loài bò sát có mai cứng để bảo vệ cơ thể, di chuyển chậm chạp trên cạn."
+  },
+  "crocodile": {
+    "vi": "con cá sấu",
+    "exp": "Crocodile là loài bò sát lớn, sống ở vùng nhiệt đới, có bộ hàm cực khỏe."
+  },
+  "alligator": {
+    "vi": "con cá sấu Mỹ",
+    "exp": "Alligator là loài bò sát giống cá sấu, nhưng mõm ngắn và rộng hơn, chủ yếu sống ở Mỹ và Trung Quốc."
+  },
+  "lizard": {
+    "vi": "con thằn lằn",
+    "exp": "Lizard là loài bò sát, da có vảy, 4 chân, nhiều loài có khả năng tự rụng đuôi."
+  },
+  "bat": {
+    "vi": "con dơi",
+    "exp": "Bat là động vật có vú duy nhất có thể bay lượn, hoạt động về đêm và dùng sóng siêu âm."
+  },
+  "squirrel": {
+    "vi": "con sóc",
+    "exp": "Squirrel là loài gặm nhấm nhỏ, đuôi xù, leo trèo cây rất giỏi, thường ăn các loại hạt."
+  },
+  "hamster": {
+    "vi": "con chuột hamster",
+    "exp": "Hamster là loài gặm nhấm nhỏ, má có túi để dự trữ thức ăn, thường được nuôi làm cảnh."
+  },
+  "camel": {
+    "vi": "con lạc đà",
+    "exp": "Camel là động vật sống ở sa mạc, có bướu trên lưng để dự trữ mỡ, chịu khát rất giỏi."
+  },
+  "rhinoceros": {
+    "vi": "con tê giác",
+    "exp": "Rhinoceros là động vật có vú lớn ở Châu Phi và Châu Á, đặc trưng bởi một hoặc hai sừng trên mũi."
+  },
+  "red": {
+    "vi": "màu đỏ",
+    "exp": "Red là màu của máu, dâu tây hoặc xe cứu hỏa. Đây là một màu cơ bản."
+  },
+  "green": {
+    "vi": "màu xanh lá",
+    "exp": "Green là màu của lá cây, cỏ hoặc ngọc lục bảo. Đây là một màu cơ bản."
+  },
+  "blue": {
+    "vi": "màu xanh dương (xanh da trời)",
+    "exp": "Blue là màu của bầu trời trong xanh hoặc đại dương. Đây là một màu cơ bản."
+  },
+  "yellow": {
+    "vi": "màu vàng",
+    "exp": "Yellow là màu của mặt trời, hoa hướng dương hoặc quả chanh chín."
+  },
+  "black": {
+    "vi": "màu đen",
+    "exp": "Black là màu tối nhất, màu của ban đêm, than đá hoặc mèo đen."
+  },
+  "white": {
+    "vi": "màu trắng",
+    "exp": "White là màu sáng nhất, màu của tuyết, sữa hoặc giấy trắng."
+  },
+  "orange": {
+    "vi": "quả cam",
+    "exp": "Orange là loại trái cây có múi, màu cam, giàu vitamin C."
+  },
+  "purple": {
+    "vi": "màu tím",
+    "exp": "Purple là màu của quả nho, hoa oải hương, được pha từ màu đỏ và xanh dương."
+  },
+  "pink": {
+    "vi": "màu hồng",
+    "exp": "Pink là màu của hoa anh đào, kẹo bông, thường là màu đỏ pha trắng."
+  },
+  "brown": {
+    "vi": "màu nâu",
+    "exp": "Brown là màu của gỗ, đất hoặc sô cô la."
+  },
+  "gray": {
+    "vi": "màu xám",
+    "exp": "Gray (hoặc Grey) là màu của mây mưa hoặc bê tông, được pha từ màu đen và trắng."
+  },
+  "light blue": {
+    "vi": "màu xanh dương nhạt",
+    "exp": "Light blue là một sắc thái nhạt hơn của màu xanh dương, giống màu trời ban ngày."
+  },
+  "dark green": {
+    "vi": "màu xanh lá đậm",
+    "exp": "Dark green là một sắc thái đậm của màu xanh lá, giống màu rừng rậm."
+  },
+  "bright red": {
+    "vi": "màu đỏ tươi (đỏ sáng)",
+    "exp": "Bright red là một sắc thái đỏ rất rực rỡ và chói lọi, thu hút sự chú ý."
+  },
+  "gold": {
+    "vi": "màu vàng đồng (vàng kim)",
+    "exp": "Gold là màu vàng kim loại lấp lánh, giống như màu của vàng thật."
+  },
+  "silver": {
+    "vi": "màu bạc",
+    "exp": "Silver là màu xám kim loại lấp lánh, giống như màu của bạc hoặc kim loại đánh bóng."
+  },
+  "bronze": {
+    "vi": "màu đồng",
+    "exp": "Bronze là màu nâu kim loại, giống màu của huy chương đồng."
+  },
+  "navy": {
+    "vi": "màu xanh navy (xanh nước biển đậm)",
+    "exp": "Navy là một màu xanh dương rất đậm, gần giống màu đen."
+  },
+  "teal": {
+    "vi": "màu xanh mòng két",
+    "exp": "Teal là một màu xanh lục lam (pha giữa xanh lá và xanh dương) khá đậm."
+  },
+  "turquoise": {
+    "vi": "màu ngọc lam",
+    "exp": "Turquoise là một màu xanh sáng, pha giữa xanh dương và xanh lá, giống màu của đá ngọc lam."
+  },
+  "magenta": {
+    "vi": "màu hồng cánh sen",
+    "exp": "Magenta là một màu hồng tím rực rỡ, nằm giữa màu đỏ và tím."
+  },
+  "cyan": {
+    "vi": "màu lục lam (xanh lơ)",
+    "exp": "Cyan là một màu xanh sáng, nằm giữa xanh lá và xanh dương, là một trong 3 màu cơ bản của hệ màu CMYK."
+  },
+  "beige": {
+    "vi": "màu be",
+    "exp": "Beige là một màu vàng nâu rất nhạt, giống màu cát hoặc kem nhạt."
+  },
+  "cream": {
+    "vi": "màu kem",
+    "exp": "Cream là màu trắng ngà, có pha chút vàng nhạt, giống màu của kem sữa."
+  },
+  "maroon": {
+    "vi": "màu hạt dẻ (nâu đỏ)",
+    "exp": "Maroon là một màu đỏ nâu đậm, tối hơn màu đỏ tía."
+  },
+  "indigo": {
+    "vi": "màu chàm",
+    "exp": "Indigo là một màu xanh tím đậm, giống màu của thuốc nhuộm chàm, là một màu trong cầu vồng."
+  },
+  "violet": {
+    "vi": "màu violet (tím)",
+    "exp": "Violet là một màu tím, giống màu của hoa violet, là màu cuối cùng trong cầu vồng."
+  },
+  "olive": {
+    "vi": "quả ô liu",
+    "exp": "Olive là loại quả nhỏ, có hạch, thường được ngâm muối hoặc ép lấy dầu."
+  },
+  "mint": {
+    "vi": "màu xanh bạc hà",
+    "exp": "Mint là một màu xanh lá cây nhạt và tươi mát, giống màu của lá bạc hà."
+  },
+  "coral": {
+    "vi": "màu san hô",
+    "exp": "Coral là một màu hồng cam, giống màu của rạn san hô dưới biển."
+  },
+  "lavender": {
+    "vi": "màu hoa oải hương",
+    "exp": "Lavender là một màu tím nhạt, giống màu của hoa oải hương."
+  },
+  "peach": {
+    "vi": "quả đào",
+    "exp": "Peach là loại quả có vỏ mỏng, lông tơ, ruột màu vàng hoặc trắng, có hạch cứng."
+  },
+  "mustard": {
+    "vi": "màu vàng mù tạt",
+    "exp": "Mustard là một màu vàng sẫm, hơi ngả nâu, giống màu của mù tạt."
+  },
+  "fuchsia": {
+    "vi": "màu hồng fuchsia (hồng vân anh)",
+    "exp": "Fuchsia là một màu hồng tím rất rực rỡ, giống màu của hoa vân anh."
+  },
+  "crimson": {
+    "vi": "màu đỏ thẫm",
+    "exp": "Crimson là một màu đỏ đậm, mạnh mẽ, hơi ngả sang tím."
+  },
+  "salmon": {
+    "vi": "cá hồi",
+    "exp": "Salmon là loại cá có thịt màu cam hoặc hồng, giàu chất béo omega-3, thường được ăn sống (sashimi) hoặc áp chảo."
+  },
+  "sky blue": {
+    "vi": "màu xanh da trời",
+    "exp": "Sky blue là màu xanh dương nhạt và sáng, giống màu của bầu trời vào ngày đẹp trời."
+  },
+  "lime": {
+    "vi": "quả chanh xanh",
+    "exp": "Lime là loại quả có múi, màu xanh, nhỏ hơn chanh vàng, vị chua."
+  },
+  "charcoal": {
+    "vi": "màu than chì",
+    "exp": "Charcoal là một màu xám rất đậm, gần như đen, giống màu của than củi."
+  },
+  "ivory": {
+    "vi": "màu trắng ngà",
+    "exp": "Ivory là một màu trắng nhưng hơi ngả vàng, giống màu của ngà voi."
+  },
+  "ruby": {
+    "vi": "màu đỏ ruby",
+    "exp": "Ruby là một màu đỏ đậm, lấp lánh, giống màu của đá ruby (hồng ngọc)."
+  },
+  "emerald": {
+    "vi": "màu xanh ngọc lục bảo",
+    "exp": "Emerald là một màu xanh lá cây đậm và rực rỡ, giống màu của đá emerald (ngọc lục bảo)."
+  },
+  "sapphire": {
+    "vi": "màu xanh sapphire",
+    "exp": "Sapphire là một màu xanh dương đậm, lấp lánh, giống màu của đá sapphire."
+  },
+  "color": {
+    "vi": "màu sắc",
+    "exp": "Color là thuộc tính của vật thể khi phản chiếu ánh sáng, ví dụ như đỏ, xanh, vàng."
+  },
+  "colorful": {
+    "vi": "sặc sỡ, nhiều màu sắc",
+    "exp": "Colorful dùng để mô tả thứ gì đó có rất nhiều màu sắc khác nhau, trông rực rỡ."
+  },
+  "transparent": {
+    "vi": "trong suốt",
+    "exp": "Transparent mô tả vật gì đó bạn có thể nhìn xuyên qua hoàn toàn, như kính cửa sổ."
+  },
+  "bright": {
+    "vi": "sáng, rực rỡ",
+    "exp": "Bright mô tả màu sắc mạnh, chói lọi và dễ thấy, ngược lại với 'dark' (tối)."
+  },
+  "dark": {
+    "vi": "tối, sẫm",
+    "exp": "Dark mô tả màu sắc gần với màu đen, có ít ánh sáng, ngược lại với 'bright' (sáng)."
+  },
+  "light": {
+    "vi": "nhạt, sáng",
+    "exp": "Light mô tả màu sắc gần với màu trắng, có nhiều ánh sáng, ngược lại với 'dark' (sẫm)."
+  },
+  "shade": {
+    "vi": "sắc thái",
+    "exp": "Shade là một phiên bản đậm hơn của một màu, được tạo ra bằng cách thêm màu đen vào màu đó."
+  },
+  "water": {
+    "vi": "nước",
+    "exp": "Nước là một chất lỏng trong suốt, không màu, không mùi, cần thiết cho sự sống."
+  },
+  "coffee": {
+    "vi": "cà phê",
+    "exp": "Coffee là đồ uống được pha từ hạt cà phê rang, có màu đen, vị đắng và chứa caffeine giúp tỉnh táo."
+  },
+  "tea": {
+    "vi": "trà (chè)",
+    "exp": "Tea là đồ uống được pha từ lá trà sấy khô, có thể uống nóng hoặc lạnh, có nhiều loại như trà xanh, trà đen."
+  },
+  "juice": {
+    "vi": "nước ép (trái cây)",
+    "exp": "Juice là nước được ép từ trái cây hoặc rau củ, ví dụ như nước cam ép, nước táo ép."
+  },
+  "soda": {
+    "vi": "nước ngọt có ga",
+    "exp": "Soda (hoặc soft drink) là đồ uống ngọt, có ga (sủi bọt), ví dụ như Coca-Cola, Pepsi."
+  },
+  "milk": {
+    "vi": "sữa",
+    "exp": "Milk là chất lỏng màu trắng, bổ dưỡng, thường là sữa bò, dùng để uống trực tiếp hoặc pha chế đồ uống."
+  },
+  "beer": {
+    "vi": "bia",
+    "exp": "Beer là đồ uống có cồn, được lên men từ lúa mạch, có vị đắng nhẹ và sủi bọt."
+  },
+  "wine": {
+    "vi": "rượu vang",
+    "exp": "Wine là đồ uống có cồn, được lên men từ nho (vang đỏ hoặc vang trắng), thường dùng trong bữa ăn."
+  },
+  "smoothie": {
+    "vi": "sinh tố",
+    "exp": "Smoothie là đồ uống đặc, làm từ trái cây xay nhuyễn với sữa, sữa chua hoặc đá."
+  },
+  "cocktail": {
+    "vi": "cốc-tai",
+    "exp": "Cocktail là đồ uống pha trộn, thường chứa rượu mạnh, kết hợp với nước trái cây, si-rô hoặc kem."
+  },
+  "lemonade": {
+    "vi": "nước chanh",
+    "exp": "Lemonade là đồ uống giải khát làm từ nước chanh, đường và nước, thường uống với đá."
+  },
+  "iced tea": {
+    "vi": "trà đá",
+    "exp": "Iced tea là trà được pha và làm lạnh, thường uống với đường, chanh và đá, rất phổ biến ở Việt Nam."
+  },
+  "hot chocolate": {
+    "vi": "ca cao nóng",
+    "exp": "Hot chocolate là đồ uống nóng làm từ bột ca cao hoặc sô cô la tan chảy, pha với sữa hoặc nước nóng."
+  },
+  "espresso": {
+    "vi": "cà phê espresso",
+    "exp": "Espresso là loại cà phê đậm đặc của Ý, được pha bằng máy dưới áp suất cao, thường uống một ngụm nhỏ."
+  },
+  "cappuccino": {
+    "vi": "cà phê cappuccino",
+    "exp": "Cappuccino là cà phê Ý gồm espresso, sữa nóng và bọt sữa (milk foam) với tỷ lệ bằng nhau."
+  },
+  "latte": {
+    "vi": "cà phê latte",
+    "exp": "Latte là loại cà phê có nhiều sữa, gồm espresso pha với sữa nóng và chỉ một lớp bọt mỏng bên trên."
+  },
+  "americano": {
+    "vi": "cà phê americano",
+    "exp": "Americano là cà phê espresso được pha loãng với nước nóng, có vị nhẹ hơn espresso."
+  },
+  "matcha": {
+    "vi": "trà xanh matcha",
+    "exp": "Matcha là bột trà xanh nghiền mịn từ Nhật Bản, được pha với nước nóng hoặc dùng làm đồ uống (matcha latte)."
+  },
+  "green tea": {
+    "vi": "trà xanh",
+    "exp": "Green tea là lá trà chưa lên men, khi pha có màu xanh hoặc vàng nhạt, vị hơi chát, tốt cho sức khỏe."
+  },
+  "black tea": {
+    "vi": "trà đen (hồng trà)",
+    "exp": "Black tea là lá trà đã được lên men hoàn toàn, khi pha có màu nâu đỏ, vị đậm, là nguyên liệu chính làm trà sữa."
+  },
+  "herbal tea": {
+    "vi": "trà thảo mộc",
+    "exp": "Herbal tea là đồ uống pha từ các loại hoa, lá, hạt thảo mộc (như hoa cúc, bạc hà), thường không chứa caffeine."
+  },
+  "orange juice": {
+    "vi": "nước cam ép",
+    "exp": "Orange juice là nước ép nguyên chất từ quả cam, giàu vitamin C, thường dùng cho bữa sáng."
+  },
+  "apple juice": {
+    "vi": "nước táo ép",
+    "exp": "Apple juice là nước ép từ quả táo, có vị ngọt thanh, trong hoặc đục tùy cách chế biến."
+  },
+  "coconut water": {
+    "vi": "nước dừa",
+    "exp": "Coconut water là nước tự nhiên bên trong quả dừa non, vị ngọt mát, rất tốt để giải khát."
+  },
+  "soy milk": {
+    "vi": "sữa đậu nành",
+    "exp": "Soy milk là sữa thực vật được làm từ hạt đậu nành, giàu protein, là thức uống phổ biến ở châu Á."
+  },
+  "almond milk": {
+    "vi": "sữa hạnh nhân",
+    "exp": "Almond milk là sữa thực vật làm từ hạt hạnh nhân xay, vị béo nhẹ, thường dùng thay thế sữa bò."
+  },
+  "mineral water": {
+    "vi": "nước khoáng",
+    "exp": "Mineral water là nước uống lấy từ nguồn khoáng, có chứa các khoáng chất tự nhiên, có thể có ga hoặc không ga."
+  },
+  "sparkling water": {
+    "vi": "nước khoáng có ga",
+    "exp": "Sparkling water là nước khoáng được thêm khí carbon dioxide (CO2), tạo cảm giác sủi bọt, không chứa đường."
+  },
+  "cola": {
+    "vi": "nước cô-la",
+    "exp": "Cola là loại nước ngọt có ga, màu nâu sẫm, chứa caffeine và có vị ngọt đặc trưng (như Coca-Cola, Pepsi)."
+  },
+  "energy drink": {
+    "vi": "nước tăng lực",
+    "exp": "Energy drink là đồ uống chứa chất kích thích (như caffeine, taurine) giúp tăng cường sự tỉnh táo và năng lượng tức thời."
+  },
+  "sports drink": {
+    "vi": "nước thể thao",
+    "exp": "Sports drink là đồ uống bù điện giải (như muối, khoáng chất) và năng lượng, dùng khi vận động mạnh."
+  },
+  "red wine": {
+    "vi": "rượu vang đỏ",
+    "exp": "Red wine là rượu vang được lên men từ nho đỏ (cả vỏ), có màu đỏ, thường uống kèm thịt đỏ."
+  },
+  "white wine": {
+    "vi": "rượu vang trắng",
+    "exp": "White wine là rượu vang lên men từ nho xanh hoặc nho đỏ đã bỏ vỏ, có màu vàng nhạt, thường uống kèm hải sản."
+  },
+  "champagne": {
+    "vi": "rượu sâm panh",
+    "exp": "Champagne là loại rượu vang sủi bọt nổi tiếng của Pháp, thường dùng trong các buổi tiệc ăn mừng."
+  },
+  "whiskey": {
+    "vi": "rượu whiskey",
+    "exp": "Whiskey là loại rượu mạnh được chưng cất từ ngũ cốc (như lúa mạch, ngô), có màu nâu, thường được ủ trong thùng gỗ sồi."
+  },
+  "vodka": {
+    "vi": "rượu vodka",
+    "exp": "Vodka là loại rượu mạnh, trong suốt, không màu, không mùi, chưng cất từ khoai tây hoặc ngũ cốc."
+  },
+  "rum": {
+    "vi": "rượu rum",
+    "exp": "Rum là loại rượu mạnh được chưng cất từ mật mía, có vị ngọt, là thành phần chính của cocktail Mojito."
+  },
+  "gin": {
+    "vi": "rượu gin",
+    "exp": "Gin là loại rượu mạnh trong suốt, có hương vị chủ đạo từ quả bách xù (juniper berries)."
+  },
+  "tequila": {
+    "vi": "rượu tequila",
+    "exp": "Tequila là loại rượu mạnh của Mexico, được chưng cất từ cây thùa xanh (blue agave)."
+  },
+  "sake": {
+    "vi": "rượu sake",
+    "exp": "Sake là loại rượu truyền thống của Nhật Bản, được lên men từ gạo, có thể uống nóng hoặc lạnh."
+  },
+  "cider": {
+    "vi": "rượu táo",
+    "exp": "Cider là đồ uống có cồn, được lên men từ nước táo, có vị ngọt và ga nhẹ."
+  },
+  "milkshake": {
+    "vi": "sữa lắc",
+    "exp": "Milkshake là đồ uống lạnh, đặc, làm từ sữa, kem và si-rô, được đánh bông lên."
+  },
+  "bubble tea": {
+    "vi": "trà sữa trân châu",
+    "exp": "Bubble tea là đồ uống có nguồn gốc Đài Loan, gồm trà đen (hồng trà) pha sữa, uống kèm hạt trân châu dai."
+  },
+  "mojito": {
+    "vi": "coóc-tai mojito",
+    "exp": "Mojito là một loại cocktail cổ điển của Cuba, pha từ rượu rum, chanh, lá bạc hà, đường và soda."
+  },
+  "margarita": {
+    "vi": "coóc-tai margarita",
+    "exp": "Margarita là cocktail làm từ rượu tequila, rượu mùi cam và nước chanh, miệng ly thường được viền muối."
+  },
+  "yogurt drink": {
+    "vi": "sữa chua uống",
+    "exp": "Yogurt drink là sữa chua được pha loãng hơn, có thể uống được, tốt cho tiêu hóa, thường có thêm hương vị trái cây."
+  },
+  "kombucha": {
+    "vi": "trà kombucha",
+    "exp": "Kombucha là trà (thường là trà đen) được lên men bằng con giống SCOBY, có vị chua ngọt và ga nhẹ."
+  },
+  "syrup": {
+    "vi": "si-rô",
+    "exp": "Syrup là chất lỏng đặc, rất ngọt, làm từ đường và nước, thường có thêm hương liệu (như dâu, bạc hà) để pha chế."
+  },
+  "spirits": {
+    "vi": "rượu mạnh",
+    "exp": "Spirits là tên gọi chung cho các loại đồ uống có cồn nồng độ cao (như whiskey, vodka) được tạo ra bằng cách chưng cất."
+  },
+  "honey": {
+    "vi": "mật ong",
+    "exp": "Honey là chất lỏng ngọt, đặc, do ong tạo ra từ mật hoa, dùng làm chất tạo ngọt tự nhiên."
+  },
+  "education": {
+    "vi": "giáo dục",
+    "exp": "Education là quá trình giảng dạy, học tập và tiếp thu kiến thức, kỹ năng."
+  },
+  "school": {
+    "vi": "trường học",
+    "exp": "School là nơi học sinh đến để học tập, bao gồm các cấp như tiểu học, trung học."
+  },
+  "university": {
+    "vi": "trường đại học",
+    "exp": "University là cơ sở giáo dục bậc cao, nơi sinh viên học lấy bằng cấp."
+  },
+  "college": {
+    "vi": "trường cao đẳng, trường đại học",
+    "exp": "College có thể là trường cao đẳng (dạy nghề) hoặc một trường thành viên trong một university lớn."
+  },
+  "student": {
+    "vi": "học sinh, sinh viên",
+    "exp": "Student là người đang theo học tại một trường học hoặc trường đại học."
+  },
+  "teacher": {
+    "vi": "giáo viên",
+    "exp": "Teacher là người giảng dạy học sinh, thường là ở cấp phổ thông."
+  },
+  "professor": {
+    "vi": "giáo sư",
+    "exp": "Professor là giảng viên có học hàm cao, giảng dạy và nghiên cứu tại trường đại học."
+  },
+  "lecturer": {
+    "vi": "giảng viên",
+    "exp": "Lecturer là người giảng dạy tại trường đại học hoặc cao đẳng, thường dưới cấp giáo sư."
+  },
+  "principal": {
+    "vi": "hiệu trưởng",
+    "exp": "Principal (hoặc headmaster/headmistress) là người đứng đầu, quản lý một trường học phổ thông."
+  },
+  "classroom": {
+    "vi": "lớp học, phòng học",
+    "exp": "Classroom là căn phòng trong trường học nơi giáo viên giảng dạy cho học sinh."
+  },
+  "lesson": {
+    "vi": "bài học",
+    "exp": "Lesson là một khoảng thời gian học tập về một chủ đề cụ thể, hoặc nội dung của bài giảng đó."
+  },
+  "subject": {
+    "vi": "môn học",
+    "exp": "Subject là một lĩnh vực kiến thức được học ở trường, ví dụ: Toán (Maths), Văn (Literature)."
+  },
+  "mathematics": {
+    "vi": "môn toán",
+    "exp": "Mathematics (hoặc Maths) là môn học về các con số, hình dạng và phép tính."
+  },
+  "science": {
+    "vi": "môn khoa học",
+    "exp": "Science là môn học tìm hiểu về thế giới tự nhiên, bao gồm Lý, Hóa, Sinh."
+  },
+  "physics": {
+    "vi": "môn vật lý",
+    "exp": "Physics là môn khoa học nghiên cứu về vật chất, năng lượng và các lực tự nhiên."
+  },
+  "chemistry": {
+    "vi": "môn hóa học",
+    "exp": "Chemistry là môn khoa học nghiên cứu về các chất, cấu tạo và phản ứng của chúng."
+  },
+  "biology": {
+    "vi": "môn sinh học",
+    "exp": "Biology là môn khoa học nghiên cứu về các sinh vật sống (thực vật, động vật, con người)."
+  },
+  "history": {
+    "vi": "môn lịch sử",
+    "exp": "History là môn học về các sự kiện đã xảy ra trong quá khứ."
+  },
+  "geography": {
+    "vi": "môn địa lý",
+    "exp": "Geography là môn học về bề mặt Trái Đất, các quốc gia, khí hậu và dân cư."
+  },
+  "literature": {
+    "vi": "môn văn học",
+    "exp": "Literature là môn học nghiên cứu về các tác phẩm văn học như tiểu thuyết, thơ ca."
+  },
+  "language": {
+    "vi": "ngôn ngữ, môn ngoại ngữ",
+    "exp": "Language là môn học về một ngôn ngữ cụ thể, ví dụ: Tiếng Anh (English language)."
+  },
+  "art": {
+    "vi": "nghệ thuật",
+    "exp": "Art là các hoạt động sáng tạo của con người như vẽ tranh, điêu khắc, âm nhạc, văn học."
+  },
+  "music": {
+    "vi": "âm nhạc",
+    "exp": "Music là nghệ thuật kết hợp âm thanh (giọng hát, nhạc cụ) theo giai điệu, nhịp điệu dễ nghe."
+  },
+  "P.E.": {
+    "vi": "môn thể dục",
+    "exp": "P.E. (Physical Education) là môn học rèn luyện thể chất, bao gồm các hoạt động thể thao."
+  },
+  "study": {
+    "vi": "học tập, nghiên cứu",
+    "exp": "Study là hành động dành thời gian để học hoặc tìm hiểu về một chủ đề nào đó."
+  },
+  "learn": {
+    "vi": "học (tiếp thu)",
+    "exp": "Learn là quá trình tiếp thu kiến thức hoặc kỹ năng mới."
+  },
+  "teach": {
+    "vi": "dạy, giảng dạy",
+    "exp": "Teach là hành động truyền đạt kiến thức hoặc kỹ năng cho người khác."
+  },
+  "homework": {
+    "vi": "bài tập về nhà",
+    "exp": "Homework là bài tập mà giáo viên giao cho học sinh làm ở nhà sau giờ học."
+  },
+  "assignment": {
+    "vi": "bài tập lớn, nhiệm vụ",
+    "exp": "Assignment là một bài tập hoặc dự án lớn hơn, thường chiếm một phần điểm số quan trọng."
+  },
+  "exam": {
+    "vi": "kỳ thi, bài kiểm tra",
+    "exp": "Exam (hoặc examination) là một bài kiểm tra chính thức, quan trọng để đánh giá kiến thức."
+  },
+  "test": {
+    "vi": "bài kiểm tra",
+    "exp": "Test là một bài kiểm tra nhỏ hoặc ngắn hơn kỳ thi (exam), thường diễn ra trong lớp."
+  },
+  "quiz": {
+    "vi": "bài kiểm tra nhanh",
+    "exp": "Quiz là một bài kiểm tra rất ngắn, thường chỉ gồm vài câu hỏi để kiểm tra bài cũ."
+  },
+  "grade": {
+    "vi": "điểm số (kiểu Mỹ), lớp (năm học)",
+    "exp": "Grade có thể là điểm số (A, B, C) hoặc lớp học (ví dụ: grade 1 - lớp 1)."
+  },
+  "mark": {
+    "vi": "điểm số (kiểu Anh)",
+    "exp": "Mark là điểm số (thường là con số, ví dụ 9/10) cho bài kiểm tra."
+  },
+  "score": {
+    "vi": "điểm số (chung)",
+    "exp": "Score là tổng số điểm đạt được trong một bài kiểm tra hoặc một trận đấu."
+  },
+  "degree": {
+    "vi": "bằng cấp (đại học)",
+    "exp": "Degree là bằng cấp học thuật do trường đại học cấp sau khi hoàn thành khóa học (ví dụ: bằng cử nhân)."
+  },
+  "diploma": {
+    "vi": "chứng chỉ, bằng tốt nghiệp (ngắn hạn)",
+    "exp": "Diploma là chứng chỉ hoàn thành một khóa học ngắn hạn hoặc bằng tốt nghiệp trung học/cao đẳng."
+  },
+  "certificate": {
+    "vi": "chứng chỉ",
+    "exp": "Certificate là giấy chứng nhận chính thức xác nhận bạn đã hoàn thành một khóa đào tạo hoặc đạt kỹ năng nào đó."
+  },
+  "major": {
+    "vi": "chuyên ngành",
+    "exp": "Major là lĩnh vực học tập chính mà sinh viên tập trung nghiên cứu ở trường đại học."
+  },
+  "course": {
+    "vi": "khóa học, học phần",
+    "exp": "Course là một chuỗi các bài giảng về một chủ đề cụ thể (ví dụ: khóa học Tiếng Anh)."
+  },
+  "curriculum": {
+    "vi": "chương trình giảng dạy",
+    "exp": "Curriculum là toàn bộ các môn học và nội dung được dạy trong một khóa học hoặc tại một trường."
+  },
+  "syllabus": {
+    "vi": "đề cương môn học",
+    "exp": "Syllabus là tài liệu tóm tắt nội dung, mục tiêu, yêu cầu của một môn học cụ thể."
+  },
+  "tuition fee": {
+    "vi": "học phí",
+    "exp": "Tuition fee là số tiền bạn phải trả cho việc học tập tại trường học, đặc biệt là đại học."
+  },
+  "scholarship": {
+    "vi": "học bổng",
+    "exp": "Scholarship là khoản tiền hỗ trợ tài chính được trao cho sinh viên dựa trên thành tích học tập hoặc tài năng."
+  },
+  "semester": {
+    "vi": "học kỳ",
+    "exp": "Semester là một trong hai kỳ học chính trong một năm học ở trường đại học (học kỳ 1, học kỳ 2)."
+  },
+  "term": {
+    "vi": "học kỳ (kiểu Anh)",
+    "exp": "Term là một trong ba kỳ học trong một năm học (thường dùng ở Anh hoặc trường phổ thông)."
+  },
+  "vacation": {
+    "vi": "kỳ nghỉ (kiểu Mỹ)",
+    "exp": "Vacation là một khoảng thời gian nghỉ ngơi, không làm việc, thường dùng để đi du lịch."
+  },
+  "library": {
+    "vi": "thư viện",
+    "exp": "Library là nơi lưu giữ rất nhiều sách, tài liệu cho mọi người đến đọc hoặc mượn về."
+  },
+  "laboratory": {
+    "vi": "phòng thí nghiệm",
+    "exp": "Laboratory (hoặc lab) là phòng đặc biệt có các thiết bị để thực hành, thí nghiệm khoa học."
+  },
+  "lecture": {
+    "vi": "bài giảng (đại học)",
+    "exp": "Lecture là bài giảng do giáo sư đứng nói trước nhiều sinh viên trong một giảng đường lớn."
+  },
+  "seminar": {
+    "vi": "buổi thảo luận (học thuật)",
+    "exp": "Seminar là buổi học nhóm nhỏ ở đại học, nơi sinh viên thảo luận về một chủ đề với giảng viên."
+  },
+  "workshop": {
+    "vi": "buổi hội thảo (thực hành)",
+    "exp": "Workshop là buổi học tập trung vào thực hành, phát triển kỹ năng cụ thể (ví dụ: hội thảo viết lách)."
+  },
+  "tutorial": {
+    "vi": "buổi học phụ đạo, hướng dẫn",
+    "exp": "Tutorial là buổi học nhóm rất nhỏ, nơi sinh viên được giảng viên hướng dẫn, giải đáp thắc mắc trực tiếp."
+  },
+  "knowledge": {
+    "vi": "kiến thức",
+    "exp": "Knowledge là sự hiểu biết, thông tin mà bạn có được qua học tập hoặc trải nghiệm."
+  },
+  "skill": {
+    "vi": "kỹ năng",
+    "exp": "Skill là khả năng làm tốt một việc gì đó, có được qua học tập hoặc thực hành."
+  },
+  "ability": {
+    "vi": "khả năng, năng lực",
+    "exp": "Ability là khả năng bẩm sinh hoặc đã học được để làm một việc gì đó."
+  },
+  "intelligence": {
+    "vi": "trí thông minh",
+    "exp": "Intelligence là khả năng học hỏi, hiểu và suy nghĩ một cách logic về mọi thứ."
+  },
+  "smart": {
+    "vi": "thông minh",
+    "exp": "Smart (hoặc intelligent) là người nhanh nhạy, có khả năng học hỏi và hiểu biết tốt."
+  },
+  "stupid": {
+    "vi": "ngu ngốc",
+    "exp": "Stupid là từ mang nghĩa tiêu cực, chỉ người chậm hiểu, thiếu suy nghĩ."
+  },
+  "pass": {
+    "vi": "đậu, vượt qua (kỳ thi)",
+    "exp": "Pass là hành động đạt được điểm số yêu cầu, vượt qua một kỳ thi hoặc môn học."
+  },
+  "fail": {
+    "vi": "trượt, rớt (kỳ thi)",
+    "exp": "Fail là hành động không đạt yêu cầu, không vượt qua được kỳ thi."
+  },
+  "graduate": {
+    "vi": "tốt nghiệp",
+    "exp": "Graduate là hành động hoàn thành xong chương trình học (thường là đại học, trung học) và nhận bằng."
+  },
+  "graduation": {
+    "vi": "lễ tốt nghiệp",
+    "exp": "Graduation là buổi lễ chính thức trao bằng cho những sinh viên đã tốt nghiệp."
+  },
+  "alumni": {
+    "vi": "cựu sinh viên, cựu học sinh",
+    "exp": "Alumni là (số nhiều) những người đã từng học và tốt nghiệp tại một trường cụ thể."
+  },
+  "campus": {
+    "vi": "khuôn viên trường (đại học)",
+    "exp": "Campus là toàn bộ khu vực đất đai, tòa nhà của một trường đại học hoặc cao đẳng."
+  },
+  "dormitory": {
+    "vi": "ký túc xá",
+    "exp": "Dormitory (hoặc dorm) là tòa nhà trong khuôn viên trường, cung cấp phòng ở cho sinh viên."
+  },
+  "canteen": {
+    "vi": "nhà ăn, căng-tin",
+    "exp": "Canteen là nơi bán đồ ăn, thức uống trong trường học hoặc văn phòng."
+  },
+  "playground": {
+    "vi": "sân chơi",
+    "exp": "Playground là khu vực ngoài trời ở trường học, có các thiết bị cho trẻ em vui chơi."
+  },
+  "gymnasium": {
+    "vi": "nhà thi đấu, phòng tập thể dục",
+    "exp": "Gymnasium (hoặc gym) là phòng lớn trong trường học dùng cho các hoạt động thể chất, thể thao."
+  },
+  "notebook": {
+    "vi": "quyển vở, sổ tay",
+    "exp": "Notebook là quyển sổ có giấy trắng (thường có dòng kẻ) để học sinh ghi chép bài."
+  },
+  "textbook": {
+    "vi": "sách giáo khoa",
+    "exp": "Textbook là cuốn sách chính chứa kiến thức của một môn học (ví dụ: sách giáo khoa Toán)."
+  },
+  "pen": {
+    "vi": "cây bút (mực)",
+    "exp": "Pen là dụng cụ dùng để viết bằng mực."
+  },
+  "pencil": {
+    "vi": "cây bút chì",
+    "exp": "Pencil là dụng cụ dùng để viết hoặc vẽ bằng than chì, có thể tẩy xóa được."
+  },
+  "eraser": {
+    "vi": "cục tẩy, gôm",
+    "exp": "Eraser (hoặc rubber) là dụng cụ dùng để xóa vết bút chì."
+  },
+  "ruler": {
+    "vi": "cây thước kẻ",
+    "exp": "Ruler là dụng cụ dùng để đo độ dài hoặc kẻ đường thẳng."
+  },
+  "desk": {
+    "vi": "bàn học (có ngăn kéo)",
+    "exp": "Desk là cái bàn (thường là bàn làm việc hoặc bàn học sinh) nơi bạn ngồi viết."
+  },
+  "chair": {
+    "vi": "cái ghế",
+    "exp": "Chair là đồ vật dùng để ngồi, có lưng tựa."
+  },
+  "board": {
+    "vi": "cái bảng",
+    "exp": "Board là bề mặt phẳng, lớn (thường màu đen hoặc trắng) trong lớp học để giáo viên viết lên."
+  },
+  "chalk": {
+    "vi": "phấn (viết bảng)",
+    "exp": "Chalk là thỏi bột nén (thường màu trắng) dùng để viết lên bảng đen."
+  },
+  "marker": {
+    "vi": "bút lông (viết bảng trắng)",
+    "exp": "Marker là bút mực, đầu to, dùng để viết lên bảng trắng (whiteboard)."
+  },
+  "computer": {
+    "vi": "máy vi tính",
+    "exp": "Computer là thiết bị điện tử dùng để xử lý thông tin, học tập và làm việc."
+  },
+  "laptop": {
+    "vi": "máy tính xách tay",
+    "exp": "Laptop là máy tính cá nhân nhỏ gọn, có thể gập lại và mang đi."
+  },
+  "internet": {
+    "vi": "mạng Internet",
+    "exp": "Internet là hệ thống mạng máy tính toàn cầu kết nối mọi người và cung cấp thông tin."
+  },
+  "website": {
+    "vi": "trang web",
+    "exp": "Website là một tập hợp các trang thông tin trên Internet về một chủ đề hoặc tổ chức."
+  },
+  "e-learning": {
+    "vi": "học trực tuyến",
+    "exp": "E-learning (hoặc online learning) là hình thức học tập thông qua máy tính và mạng Internet."
+  },
+  "webinar": {
+    "vi": "hội thảo trực tuyến",
+    "exp": "Webinar là một buổi hội thảo, bài giảng được tổ chức trực tuyến qua Internet."
+  },
+  "research": {
+    "vi": "nghiên cứu",
+    "exp": "Research là hoạt động tìm kiếm, điều tra kỹ lưỡng để khám phá thông tin hoặc kiến thức mới."
+  },
+  "project": {
+    "vi": "dự án",
+    "exp": "Project là một kế hoạch hoặc công việc cụ thể, có mục tiêu rõ ràng và thời gian hoàn thành nhất định."
+  },
+  "presentation": {
+    "vi": "bài thuyết trình",
+    "exp": "Presentation là bài nói chuyện, trình bày thông tin về một chủ đề trước đám đông."
+  },
+  "essay": {
+    "vi": "bài luận, bài tiểu luận",
+    "exp": "Essay là một bài viết ngắn về một chủ đề cụ thể, thường là bài tập ở trường."
+  },
+  "report": {
+    "vi": "bài báo cáo",
+    "exp": "Report là bài viết hoặc bài nói mô tả lại một sự việc, kết quả nghiên cứu một cách chính thức."
+  },
+  "thesis": {
+    "vi": "luận văn, luận án",
+    "exp": "Thesis là một bài nghiên cứu dài, chuyên sâu, bắt buộc để tốt nghiệp đại học (luận văn) hoặc sau đại học (luận án)."
+  },
+  "dissertation": {
+    "vi": "luận án (tiến sĩ)",
+    "exp": "Dissertation là tên gọi khác của luận án, thường dùng cho bậc tiến sĩ (PhD)."
+  },
+  "internship": {
+    "vi": "kỳ thực tập",
+    "exp": "Internship là khoảng thời gian sinh viên làm việc (thường không lương hoặc lương thấp) tại một công ty để lấy kinh nghiệm."
+  },
+  "volunteer": {
+    "vi": "tình nguyện viên, hoạt động tình nguyện",
+    "exp": "Volunteer là người làm việc giúp đỡ người khác hoặc cộng đồng mà không nhận lương."
+  },
+  "extracurricular": {
+    "vi": "ngoại khóa",
+    "exp": "Extracurricular là các hoạt động ngoài giờ học chính thức, ví dụ: câu lạc bộ, thể thao."
+  },
+  "club": {
+    "vi": "câu lạc bộ",
+    "exp": "Club là một nhóm học sinh, sinh viên có cùng sở thích, tụ tập lại để sinh hoạt (ví dụ: câu lạc bộ tiếng Anh)."
+  },
+  "team": {
+    "vi": "đội, nhóm",
+    "exp": "Team là một nhóm người cùng làm việc chung hoặc chơi chung một môn thể thao (ví dụ: đội bóng đá)."
+  },
+  "coach": {
+    "vi": "huấn luyện viên",
+    "exp": "Coach là người huấn luyện, chỉ đạo một đội thể thao hoặc một cá nhân."
+  },
+  "discipline": {
+    "vi": "kỷ luật",
+    "exp": "Discipline là sự kiểm soát hành vi, tuân thủ các quy tắc trong trường học."
+  },
+  "rule": {
+    "vi": "quy tắc, luật lệ",
+    "exp": "Rule là một hướng dẫn hoặc quy định về cách hành xử, thường áp dụng trong một tổ chức, trò chơi."
+  },
+  "uniform": {
+    "vi": "đồng phục",
+    "exp": "Uniform là bộ quần áo giống nhau mà học sinh phải mặc khi đến trường."
+  },
+  "bully": {
+    "vi": "bắt nạt",
+    "exp": "Bully là hành động ức hiếp, trêu chọc hoặc làm tổn thương người khác (thường là ở trường học)."
+  },
+  "movie": {
+    "vi": "phim điện ảnh",
+    "exp": "Movie (hoặc film) là một tác phẩm điện ảnh chiếu ở rạp hoặc TV, kể một câu chuyện bằng hình ảnh chuyển động."
+  },
+  "film": {
+    "vi": "phim, điện ảnh",
+    "exp": "Film là một từ đồng nghĩa với 'movie', đôi khi mang ý nghĩa nghệ thuật, hàn lâm hơn."
+  },
+  "actor": {
+    "vi": "diễn viên (nam)",
+    "exp": "Actor là người đóng vai các nhân vật trong phim, kịch hoặc chương trình truyền hình."
+  },
+  "actress": {
+    "vi": "diễn viên (nữ)",
+    "exp": "Actress là nữ diễn viên đóng vai các nhân vật trong phim, kịch."
+  },
+  "director": {
+    "vi": "giám đốc",
+    "exp": "Director là người quản lý cấp cao, điều hành một bộ phận lớn hoặc toàn bộ công ty."
+  },
+  "cinema": {
+    "vi": "rạp chiếu phim",
+    "exp": "Cinema (hoặc movie theater) là tòa nhà có màn hình lớn để chiếu phim cho công chúng xem."
+  },
+  "song": {
+    "vi": "bài hát",
+    "exp": "Song là một bản nhạc ngắn, thường có cả nhạc và lời, do ca sĩ thể hiện."
+  },
+  "singer": {
+    "vi": "ca sĩ",
+    "exp": "Singer là người sử dụng giọng hát của mình để biểu diễn âm nhạc."
+  },
+  "band": {
+    "vi": "ban nhạc",
+    "exp": "Band là một nhóm các nhạc công (musicians) cùng nhau chơi nhạc."
+  },
+  "album": {
+    "vi": "album (tuyển tập nhạc)",
+    "exp": "Album là một bộ sưu tập các bài hát hoặc bản nhạc được phát hành cùng nhau."
+  },
+  "concert": {
+    "vi": "buổi hòa nhạc",
+    "exp": "Concert là một buổi biểu diễn âm nhạc trực tiếp trước khán giả."
+  },
+  "artist": {
+    "vi": "nghệ sĩ, họa sĩ",
+    "exp": "Artist là người tạo ra các tác phẩm nghệ thuật, như vẽ tranh, điêu khắc."
+  },
+  "painting": {
+    "vi": "bức tranh, hội họa",
+    "exp": "Painting là một bức tranh được vẽ bằng màu (sơn dầu, màu nước), hoặc chỉ nghệ thuật vẽ tranh."
+  },
+  "museum": {
+    "vi": "viện bảo tàng",
+    "exp": "Museum là nơi trưng bày các vật thể có giá trị lịch sử, nghệ thuật hoặc khoa học cho công chúng xem."
+  },
+  "gallery": {
+    "vi": "phòng trưng bày (nghệ thuật)",
+    "exp": "Gallery là nơi trưng bày và bán các tác phẩm nghệ thuật, đặc biệt là tranh vẽ."
+  },
+  "book": {
+    "vi": "quyển sách",
+    "exp": "Book là một tập hợp các trang giấy có chữ in hoặc hình ảnh, được đóng lại với nhau."
+  },
+  "novel": {
+    "vi": "tiểu thuyết",
+    "exp": "Novel là một quyển sách kể một câu chuyện dài, hư cấu (không có thật)."
+  },
+  "author": {
+    "vi": "tác giả",
+    "exp": "Author là người đã viết và xuất bản một cuốn sách cụ thể."
+  },
+  "reader": {
+    "vi": "độc giả, người đọc",
+    "exp": "Reader là người đang đọc sách, báo hoặc tạp chí."
+  },
+  "television": {
+    "vi": "truyền hình, TV",
+    "exp": "Television (TV) là thiết bị phát hình ảnh, âm thanh; hoặc chỉ ngành công nghiệp truyền hình."
+  },
+  "TV show": {
+    "vi": "chương trình truyền hình",
+    "exp": "TV show là một chương trình được sản xuất để phát sóng trên TV."
+  },
+  "series": {
+    "vi": "phim truyền hình nhiều tập",
+    "exp": "Series là một bộ phim hoặc chương trình TV có nhiều phần (tập) liên quan đến nhau."
+  },
+  "episode": {
+    "vi": "tập (phim, chương trình)",
+    "exp": "Episode là một phần riêng lẻ trong một bộ phim 'series' dài tập."
+  },
+  "news": {
+    "vi": "tin tức",
+    "exp": "News là thông tin về các sự kiện mới xảy ra, được đưa trên TV, báo chí, Internet."
+  },
+  "advertisement": {
+    "vi": "quảng cáo",
+    "exp": "Advertisement (hoặc ad) là thông báo, hình ảnh, video để quảng bá, giới thiệu một sản phẩm."
+  },
+  "media": {
+    "vi": "truyền thông",
+    "exp": "Media là các phương tiện truyền thông đại chúng như TV, radio, báo chí, Internet."
+  },
+  "social media": {
+    "vi": "mạng xã hội",
+    "exp": "Social media là các trang web hoặc ứng dụng (như Facebook, TikTok) để kết nối, chia sẻ nội dung."
+  },
+  "game": {
+    "vi": "trò chơi",
+    "exp": "Game là một hoạt động giải trí có luật chơi, nhằm mục đích thắng thua hoặc vui vẻ."
+  },
+  "video game": {
+    "vi": "trò chơi điện tử",
+    "exp": "Video game là trò chơi được chơi trên máy tính, điện thoại hoặc máy chơi game chuyên dụng."
+  },
+  "theater": {
+    "vi": "nhà hát, rạp hát",
+    "exp": "Theater là nơi diễn ra các vở kịch, nhạc kịch trực tiếp trên sân khấu."
+  },
+  "play": {
+    "vi": "vở kịch",
+    "exp": "Play là một vở kịch được viết để các diễn viên biểu diễn trên sân khấu nhà hát."
+  },
+  "stage": {
+    "vi": "sân khấu",
+    "exp": "Stage là khu vực nền cao trong nhà hát hoặc sân vận động, nơi diễn viên, ca sĩ biểu diễn."
+  },
+  "festival": {
+    "vi": "lễ hội",
+    "exp": "Festival là một sự kiện ăn mừng, kỷ niệm (thường là công cộng) với nhiều hoạt động vui chơi, âm nhạc."
+  },
+  "celebration": {
+    "vi": "lễ kỷ niệm, sự ăn mừng",
+    "exp": "Celebration là một sự kiện xã hội vui vẻ để ăn mừng điều gì đó đặc biệt (ví dụ: sinh nhật)."
+  },
+  "holiday": {
+    "vi": "kỳ nghỉ (kiểu Anh), ngày lễ",
+    "exp": "Holiday có nghĩa là kỳ nghỉ (giống vacation) hoặc một ngày lễ chính thức (ví dụ: Tết holiday)."
+  },
+  "culture": {
+    "vi": "văn hóa",
+    "exp": "Culture là toàn bộ niềm tin, phong tục, nghệ thuật, lối sống của một xã hội hoặc nhóm người."
+  },
+  "tradition": {
+    "vi": "truyền thống",
+    "exp": "Tradition là những phong tục, niềm tin được truyền từ thế hệ này sang thế hệ khác."
+  },
+  "custom": {
+    "vi": "phong tục, tập quán",
+    "exp": "Custom là cách hành xử thông thường, được chấp nhận rộng rãi trong một xã hội."
+  },
+  "dance": {
+    "vi": "nhảy múa, điệu nhảy",
+    "exp": "Dance là hành động di chuyển cơ thể theo nhịp điệu của âm nhạc."
+  },
+  "ballet": {
+    "vi": "múa ba-lê",
+    "exp": "Ballet là một loại hình nghệ thuật múa cổ điển, có kỹ thuật và động tác rất đặc trưng."
+  },
+  "opera": {
+    "vi": "nhạc kịch opera",
+    "exp": "Opera là một vở kịch mà trong đó các nhân vật chủ yếu là hát thay vì nói."
+  },
+  "comedy": {
+    "vi": "hài kịch",
+    "exp": "Comedy là thể loại phim, kịch hoặc chương trình có nội dung vui nhộn, hài hước, làm khán giả cười."
+  },
+  "drama": {
+    "vi": "kịch, phim tâm lý (chính kịch)",
+    "exp": "Drama là thể loại phim, kịch tập trung vào cảm xúc, xung đột nội tâm nhân vật một cách nghiêm túc."
+  },
+  "thriller": {
+    "vi": "phim kinh dị, giật gân",
+    "exp": "Thriller là thể loại phim tạo cảm giác hồi hộp, căng thẳng, phấn khích cho người xem."
+  },
+  "horror": {
+    "vi": "phim kinh dị (ma, quái vật)",
+    "exp": "Horror là thể loại phim tập trung vào việc gây sợ hãi, ghê rợn cho khán giả."
+  },
+  "sci-fi": {
+    "vi": "phim khoa học viễn tưởng",
+    "exp": "Sci-fi (Science Fiction) là thể loại phim, truyện về tương lai, công nghệ tiên tiến, du hành vũ trụ."
+  },
+  "animation": {
+    "vi": "hoạt hình (kỹ thuật)",
+    "exp": "Animation là kỹ thuật làm cho các hình ảnh (vẽ tay, 3D) trông như đang chuyển động."
+  },
+  "cartoon": {
+    "vi": "phim hoạt hình (trẻ em)",
+    "exp": "Cartoon là một bộ phim (thường là ngắn, vui nhộn, dành cho trẻ em) được làm bằng kỹ thuật hoạt hình."
+  },
+  "documentary": {
+    "vi": "phim tài liệu",
+    "exp": "Documentary là bộ phim cung cấp thông tin, sự thật về một chủ đề, sự kiện có thật."
+  },
+  "photography": {
+    "vi": "nhiếp ảnh",
+    "exp": "Photography là nghệ thuật hoặc công việc chụp ảnh bằng máy ảnh."
+  },
+  "photographer": {
+    "vi": "nhiếp ảnh gia",
+    "exp": "Photographer là người chụp ảnh chuyên nghiệp bằng máy ảnh."
+  },
+  "magazine": {
+    "vi": "tạp chí",
+    "exp": "Magazine là một quyển sách mỏng, được xuất bản định kỳ (hàng tuần, tháng) chứa nhiều bài viết, hình ảnh."
+  },
+  "newspaper": {
+    "vi": "báo giấy",
+    "exp": "Newspaper là tờ báo được in hàng ngày hoặc hàng tuần, chứa tin tức về các sự kiện."
+  },
+  "journalist": {
+    "vi": "nhà báo",
+    "exp": "Journalist là người thu thập, viết tin tức và bài báo cho báo chí, truyền hình."
+  },
+  "celebrity": {
+    "vi": "người nổi tiếng",
+    "exp": "Celebrity (hoài celeb) là một người rất nổi tiếng, thường là diễn viên, ca sĩ, vận động viên."
+  },
+  "famous": {
+    "vi": "nổi tiếng",
+    "exp": "Famous là tính từ, chỉ người hoặc vật được rất nhiều người biết đến."
+  },
+  "audience": {
+    "vi": "khán giả",
+    "exp": "Audience là nhóm người tụ tập lại để xem, nghe một buổi biểu diễn, bài phát biểu."
+  },
+  "fan": {
+    "vi": "người hâm mộ",
+    "exp": "Fan là người rất yêu thích, ngưỡng mộ một ca sĩ, diễn viên hoặc đội thể thao nào đó."
+  },
+  "ticket": {
+    "vi": "vé",
+    "exp": "Ticket là giấy (hoặc vé điện tử) chứng minh bạn đã trả tiền cho chuyến đi (máy bay, tàu hỏa) hoặc sự kiện (xem phim)."
+  },
+  "review": {
+    "vi": "bài đánh giá, nhận xét",
+    "exp": "Review là một bài viết hoặc bài nói đưa ra ý kiến, nhận xét về một bộ phim, nhà hàng, cuốn sách."
+  },
+  "plot": {
+    "vi": "cốt truyện",
+    "exp": "Plot là chuỗi các sự kiện chính xảy ra trong một câu chuyện, bộ phim."
+  },
+  "character": {
+    "vi": "nhân vật",
+    "exp": "Character là một người (hoặc con vật) xuất hiện trong một câu chuyện, bộ phim."
+  },
+  "scene": {
+    "vi": "cảnh (phim, kịch)",
+    "exp": "Scene là một phần nhỏ, liên tục trong một bộ phim hoặc vở kịch, thường diễn ra ở một địa điểm."
+  },
+  "soundtrack": {
+    "vi": "nhạc phim",
+    "exp": "Soundtrack là toàn bộ âm nhạc, bài hát được sử dụng trong một bộ phim."
+  },
+  "lyrics": {
+    "vi": "lời bài hát",
+    "exp": "Lyrics là phần lời (văn bản) của một bài hát."
+  },
+  "instrument": {
+    "vi": "nhạc cụ",
+    "exp": "Instrument là một dụng cụ được tạo ra để chơi nhạc, ví dụ: đàn, trống, sáo."
+  },
+  "guitar": {
+    "vi": "đàn ghi-ta",
+    "exp": "Guitar là loại nhạc cụ có 6 dây, dùng tay để gảy khi chơi."
+  },
+  "piano": {
+    "vi": "đàn piano, dương cầm",
+    "exp": "Piano là loại nhạc cụ phím lớn, khi nhấn phím búa sẽ gõ vào dây để tạo âm thanh."
+  },
+  "violin": {
+    "vi": "đàn vi-ô-lông",
+    "exp": "Violin là loại nhạc cụ có 4 dây, dùng cây vĩ (bow) kéo qua dây để chơi."
+  },
+  "drums": {
+    "vi": "bộ trống",
+    "exp": "Drums là bộ nhạc cụ gõ, dùng dùi để đánh vào mặt trống hoặc chũm chọe để tạo nhịp điệu."
+  },
+  "sculpture": {
+    "vi": "tác phẩm điêu khắc",
+    "exp": "Sculpture là tác phẩm nghệ thuật 3D được tạo ra bằng cách tạc, đẽo (đá, gỗ) hoặc nặn (đất sét)."
+  },
+  "exhibition": {
+    "vi": "triển lãm",
+    "exp": "Exhibition là một sự kiện trưng bày các tác phẩm nghệ thuật, sản phẩm cho công chúng xem."
+  },
+  "poem": {
+    "vi": "bài thơ",
+    "exp": "Poem là một tác phẩm văn học được viết theo thể thơ, có vần, nhịp điệu."
+  },
+  "poetry": {
+    "vi": "thơ ca",
+    "exp": "Poetry là thể loại văn học nói chung, bao gồm các bài thơ."
+  },
+  "poet": {
+    "vi": "nhà thơ",
+    "exp": "Poet là người sáng tác, viết ra những bài thơ."
+  },
+  "chapter": {
+    "vi": "chương (sách)",
+    "exp": "Chapter là một phần, một đoạn lớn trong một cuốn sách (ví dụ: chương 1, chương 2)."
+  },
+  "fiction": {
+    "vi": "tiểu thuyết, truyện hư cấu",
+    "exp": "Fiction là thể loại sách, truyện kể về những sự kiện, nhân vật không có thật."
+  },
+  "non-fiction": {
+    "vi": "sách phi hư cấu (sự thật)",
+    "exp": "Non-fiction là thể loại sách dựa trên sự thật, sự kiện, thông tin có thật (ví dụ: sách lịch sử, tiểu sử)."
+  },
+  "biography": {
+    "vi": "tiểu sử",
+    "exp": "Biography là cuốn sách kể về cuộc đời của một người (do người khác viết)."
+  },
+  "radio": {
+    "vi": "đài, radio",
+    "exp": "Radio là thiết bị dùng để nghe các chương trình phát thanh bằng sóng vô tuyến, hoặc chỉ ngành phát thanh."
+  },
+  "podcast": {
+    "vi": "podcast (chương trình phát thanh số)",
+    "exp": "Podcast là một chương trình âm thanh (giống radio) được phát trên Internet, có thể tải về nghe bất cứ lúc nào."
+  },
+  "streaming": {
+    "vi": "phát trực tuyến",
+    "exp": "Streaming là công nghệ xem video hoặc nghe nhạc trực tiếp trên Internet mà không cần tải về."
+  },
+  "channel": {
+    "vi": "kênh (truyền hình, YouTube)",
+    "exp": "Channel là một kênh phát sóng trên TV (ví dụ: VTV3) hoặc một kênh nội dung trên YouTube."
+  },
+  "remote control": {
+    "vi": "điều khiển từ xa",
+    "exp": "Remote control là thiết bị cầm tay dùng để điều khiển TV, máy lạnh... từ xa."
+  },
+  "hobby": {
+    "vi": "sở thích",
+    "exp": "Hobby là một hoạt động bạn thường làm để giải trí, thư giãn trong thời gian rảnh."
+  },
+  "leisure": {
+    "vi": "thời gian rảnh rỗi",
+    "exp": "Leisure (hoặc free time) là thời gian bạn không phải làm việc, học tập."
+  },
+  "circus": {
+    "vi": "rạp xiếc",
+    "exp": "Circus là một đoàn biểu diễn (thường trong lều lớn) bao gồm nhào lộn, hề, và biểu diễn động vật."
+  },
+  "magic": {
+    "vi": "ảo thuật",
+    "exp": "Magic là nghệ thuật trình diễn những thủ thuật trông như không thể, siêu nhiên để giải trí."
+  },
+  "comedian": {
+    "vi": "diễn viên hài",
+    "exp": "Comedian là người làm nghề kể chuyện cười, diễn hài để làm khán giả vui."
+  },
+  "script": {
+    "vi": "kịch bản",
+    "exp": "Script là kịch bản (văn bản) chứa lời thoại và chỉ dẫn hành động cho diễn viên trong phim, kịch."
+  },
+  "screenplay": {
+    "vi": "kịch bản phim",
+    "exp": "Screenplay là tên gọi khác của kịch bản, thường dùng riêng cho phim điện ảnh."
+  },
+  "studio": {
+    "vi": "phim trường, phòng thu",
+    "exp": "Studio là một căn phòng hoặc tòa nhà lớn, nơi quay phim, chụp ảnh, hoặc thu âm."
+  },
+  "broadcast": {
+    "vi": "phát sóng",
+    "exp": "Broadcast là hành động truyền tín hiệu (âm thanh, hình ảnh) qua radio hoặc TV cho nhiều người."
+  },
+  "gossip": {
+    "vi": "tin đồn nhảm, chuyện tầm phào",
+    "exp": "Gossip là những câu chuyện phiếm, thường là về đời tư của người khác, không chắc đã đúng sự thật."
+  },
+  "apple": {
+    "vi": "quả táo",
+    "exp": "Apple là loại trái cây ngọt, phổ biến, thường có màu đỏ hoặc xanh."
+  },
+  "banana": {
+    "vi": "quả chuối",
+    "exp": "Banana là loại trái cây nhiệt đới, cong và có màu vàng khi chín."
+  },
+  "grape": {
+    "vi": "quả nho",
+    "exp": "Grape là loại quả mọng, mọc thành chùm, có thể có màu xanh, đỏ hoặc đen."
+  },
+  "strawberry": {
+    "vi": "quả dâu tây",
+    "exp": "Strawberry là loại quả mọng màu đỏ, có hạt nhỏ bên ngoài, vị ngọt và hơi chua."
+  },
+  "watermelon": {
+    "vi": "quả dưa hấu",
+    "exp": "Watermelon là loại quả lớn, vỏ xanh, ruột đỏ hoặc vàng, chứa nhiều nước."
+  },
+  "mango": {
+    "vi": "quả xoài",
+    "exp": "Mango là loại trái cây nhiệt đới, hạch cứng, vỏ xanh hoặc vàng, ruột vàng, vị ngọt."
+  },
+  "pineapple": {
+    "vi": "quả dứa (thơm)",
+    "exp": "Pineapple là loại trái cây nhiệt đới, vỏ xù xì, có mắt, ruột vàng, vị chua ngọt."
+  },
+  "cherry": {
+    "vi": "quả anh đào",
+    "exp": "Cherry là loại quả hạch nhỏ, tròn, màu đỏ hoặc đen, thường có cuống dài."
+  },
+  "pear": {
+    "vi": "quả lê",
+    "exp": "Pear là loại quả có hình chuông, vỏ mỏng, thịt quả giòn và ngọt."
+  },
+  "kiwi": {
+    "vi": "quả kiwi",
+    "exp": "Kiwi là loại quả có vỏ màu nâu, lông xù, ruột xanh lá cây và hạt đen nhỏ."
+  },
+  "plum": {
+    "vi": "quả mận",
+    "exp": "Plum là loại quả có vỏ mịn, màu tím, đỏ hoặc vàng, có hạch cứng ở giữa."
+  },
+  "lemon": {
+    "vi": "quả chanh vàng",
+    "exp": "Lemon là loại quả có múi, màu vàng, vị rất chua, thường dùng làm gia vị hoặc nước uống."
+  },
+  "coconut": {
+    "vi": "quả dừa",
+    "exp": "Coconut là loại quả nhiệt đới, vỏ cứng, có cùi trắng và nước dừa bên trong."
+  },
+  "avocado": {
+    "vi": "quả bơ",
+    "exp": "Avocado là loại quả có hàm lượng chất béo cao, vỏ xanh hoặc tím, thịt quả mềm màu xanh vàng."
+  },
+  "blueberry": {
+    "vi": "quả việt quất",
+    "exp": "Blueberry là loại quả mọng nhỏ, màu xanh đậm hoặc tím, có vị ngọt."
+  },
+  "raspberry": {
+    "vi": "quả mâm xôi (phúc bồn tử)",
+    "exp": "Raspberry là loại quả mọng có màu đỏ hoặc đen, rỗng ruột."
+  },
+  "papaya": {
+    "vi": "quả đu đủ",
+    "exp": "Papaya là loại trái cây nhiệt đới, ruột màu cam, có nhiều hạt đen ở giữa."
+  },
+  "carrot": {
+    "vi": "củ cà rốt",
+    "exp": "Carrot là một loại rau củ, thường có màu cam, vị ngọt, giòn và rất giàu vitamin A."
+  },
+  "broccoli": {
+    "vi": "bông cải xanh (súp lơ)",
+    "exp": "Broccoli là một loại rau có hoa màu xanh đậm, ăn được cả thân và hoa, rất tốt cho sức khỏe."
+  },
+  "potato": {
+    "vi": "củ khoai tây",
+    "exp": "Potato là loại củ giàu tinh bột, vỏ mỏng, thịt củ màu trắng hoặc vàng, dùng để chiên, luộc, hoặc nướng."
+  },
+  "tomato": {
+    "vi": "quả cà chua",
+    "exp": "Tomato là loại quả mọng, thường màu đỏ khi chín, vị hơi chua, dùng nhiều trong nấu ăn và làm salad."
+  },
+  "onion": {
+    "vi": "củ hành tây",
+    "exp": "Onion là loại rau củ có nhiều lớp, vị hăng, thường dùng để tạo hương vị cho các món ăn khi phi thơm."
+  },
+  "garlic": {
+    "vi": "củ tỏi",
+    "exp": "Garlic là loại gia vị có mùi thơm nồng đặc trưng, gồm nhiều tép nhỏ, dùng để khử mùi và tăng hương vị."
+  },
+  "lettuce": {
+    "vi": "rau xà lách",
+    "exp": "Lettuce là loại rau ăn lá, lá giòn, màu xanh nhạt, thường dùng để ăn sống trong salad hoặc bánh mì kẹp."
+  },
+  "cucumber": {
+    "vi": "quả dưa chuột (dưa leo)",
+    "exp": "Cucumber là loại quả dài, vỏ xanh, ruột trắng, mọng nước và mát, thường dùng ăn sống hoặc làm dưa góp."
+  },
+  "spinach": {
+    "vi": "rau chân vịt (cải bó xôi)",
+    "exp": "Spinach là loại rau lá xanh đậm, rất giàu chất sắt và vitamin, thường dùng để nấu canh hoặc xào."
+  },
+  "mushroom": {
+    "vi": "nấm",
+    "exp": "Mushroom là một loại nấm ăn được, có nhiều hình dạng, kết cấu dai mềm, dùng trong nhiều món xào, lẩu, súp."
+  },
+  "corn": {
+    "vi": "bắp (ngô)",
+    "exp": "Corn là loại ngũ cốc có hạt màu vàng, xếp thành hàng trên lõi, vị ngọt, có thể luộc, nướng hoặc làm bắp rang bơ."
+  },
+  "bean": {
+    "vi": "đậu (hạt)",
+    "exp": "Bean là các loại hạt như đậu đen, đậu đỏ, đậu xanh, giàu protein, thường dùng nấu chè hoặc hầm."
+  },
+  "cabbage": {
+    "vi": "bắp cải",
+    "exp": "Cabbage là loại rau có nhiều lớp lá cuộn chặt vào nhau, có thể dùng để xào, luộc hoặc làm kim chi."
+  },
+  "eggplant": {
+    "vi": "quả cà tím",
+    "exp": "Eggplant là loại quả dài hoặc tròn, vỏ màu tím bóng, ruột xốp, thường dùng để nướng hoặc om."
+  },
+  "pumpkin": {
+    "vi": "quả bí ngô (bí đỏ)",
+    "exp": "Pumpkin là loại quả lớn, vỏ cứng, ruột màu cam, vị ngọt bùi, thường dùng nấu súp, chè hoặc làm bánh."
+  },
+  "ginger": {
+    "vi": "củ gừng",
+    "exp": "Ginger là loại gia vị củ có vị cay nồng và thơm, dùng để khử tanh, làm ấm cơ thể, hoặc làm mứt."
+  },
+  "chili": {
+    "vi": "quả ớt",
+    "exp": "Chili là loại quả gia vị có vị cay nồng, màu đỏ hoặc xanh, dùng để tạo độ cay cho món ăn."
+  },
+  "pepper": {
+    "vi": "hạt tiêu",
+    "exp": "Pepper là loại gia vị hạt nhỏ, màu đen hoặc trắng, có vị cay thơm, thường được xay nhỏ rắc lên món ăn."
+  },
+  "celery": {
+    "vi": "rau cần tây",
+    "exp": "Celery là loại rau có thân dài, giòn, mùi thơm đặc trưng, thường dùng xào thịt bò hoặc ép nước uống."
+  },
+  "asparagus": {
+    "vi": "măng tây",
+    "exp": "Asparagus là loại rau thân mầm, có ngọn nhọn, vị ngọt, giòn, được xem là thực phẩm cao cấp."
+  },
+  "beef": {
+    "vi": "thịt bò",
+    "exp": "Beef là thịt từ con bò, có màu đỏ tươi, giàu protein, thường dùng làm bít tết (steak), xào hoặc hầm."
+  },
+  "pork": {
+    "vi": "thịt lợn (thịt heo)",
+    "exp": "Pork là thịt từ con lợn (heo), loại thịt phổ biến trong ẩm thực châu Á, có thể làm món kho, luộc, nướng."
+  },
+  "lamb": {
+    "vi": "thịt cừu",
+    "exp": "Lamb là thịt của cừu non, có mùi đặc trưng, mềm, thường được dùng trong ẩm thực phương Tây như cừu nướng."
+  },
+  "sausage": {
+    "vi": "xúc xích",
+    "exp": "Sausage là món ăn làm từ thịt (thường là thịt lợn) xay nhuyễn, dồn vào vỏ, sau đó được hun khói hoặc luộc chín."
+  },
+  "bacon": {
+    "vi": "thịt xông khói (ba rọi)",
+    "exp": "Bacon là thịt ba chỉ lợn (heo) được ướp muối và xông khói, thường được chiên giòn ăn kèm bữa sáng."
+  },
+  "lobster": {
+    "vi": "tôm hùm",
+    "exp": "Lobster là loại hải sản lớn, có hai càng to, thịt rất chắc và ngọt, giá thành cao, thường được hấp hoặc nướng phô mai."
+  },
+  "squid": {
+    "vi": "mực",
+    "exp": "Squid là loại hải sản thân mềm, có túi mực đen, thịt dai giòn, thường dùng để xào, chiên giòn hoặc nướng."
+  },
+  "egg": {
+    "vi": "quả trứng",
+    "exp": "Egg là trứng của gia cầm (thường là gà, vịt), giàu protein, có thể luộc, chiên (ốp la), hoặc làm bánh."
+  },
+  "cheese": {
+    "vi": "phô mai",
+    "exp": "Cheese là sản phẩm làm từ sữa, được lên men, có nhiều loại với hương vị mặn, béo, thường ăn kèm bánh mì hoặc rắc lên pizza."
+  },
+  "yogurt": {
+    "vi": "sữa chua",
+    "exp": "Yogurt là sữa được lên men, có vị chua nhẹ, tốt cho tiêu hóa, có thể ăn kèm trái cây hoặc làm sinh tố."
+  },
+  "butter": {
+    "vi": "bơ (động vật)",
+    "exp": "Butter là sản phẩm từ chất béo trong sữa, dạng rắn, màu vàng nhạt, vị béo ngậy, dùng để phết bánh mì hoặc làm bánh."
+  },
+  "rice": {
+    "vi": "gạo, cơm",
+    "exp": "Rice là loại lương thực chính ở châu Á. Hạt gạo được nấu chín thành cơm để ăn hàng ngày."
+  },
+  "bread": {
+    "vi": "bánh mì",
+    "exp": "Bread là thực phẩm làm từ bột mì, nước và men, sau đó được nướng, dùng làm món ăn sáng hoặc ăn kèm."
+  },
+  "noodle": {
+    "vi": "mì (sợi)",
+    "exp": "Noodle là thực phẩm dạng sợi làm từ bột mì hoặc bột gạo, dùng để nấu các món nước (như phở) hoặc xào."
+  },
+  "pasta": {
+    "vi": "mì Ý",
+    "exp": "Pasta là tên gọi chung các loại mì của Ý (như spaghetti), làm từ bột mì, thường ăn với các loại sốt cà chua hoặc sốt kem."
+  },
+  "flour": {
+    "vi": "bột mì",
+    "exp": "Flour là bột được xay mịn từ lúa mì, là nguyên liệu chính để làm bánh mì, bánh ngọt và mì sợi."
+  },
+  "sugar": {
+    "vi": "đường",
+    "exp": "Sugar là gia vị tạo vị ngọt, dạng hạt tinh thể màu trắng hoặc nâu, dùng trong nấu ăn, làm bánh và pha đồ uống."
+  },
+  "salt": {
+    "vi": "muối",
+    "exp": "Salt là một hợp chất ion được tạo thành từ phản ứng trung hòa giữa axit và bazơ."
+  },
+  "oil": {
+    "vi": "dầu ăn",
+    "exp": "Oil là chất béo dạng lỏng (thường từ thực vật như đậu nành, ô liu), dùng để chiên, xào thức ăn."
+  },
+  "sauce": {
+    "vi": "nước sốt, nước chấm",
+    "exp": "Sauce là chất lỏng sệt dùng để ăn kèm hoặc tẩm ướp, giúp tăng hương vị món ăn (ví dụ: tương cà, tương ớt)."
+  },
+  "vinegar": {
+    "vi": "giấm",
+    "exp": "Vinegar là chất lỏng có vị chua, được lên men (từ gạo, táo...), dùng để trộn salad hoặc làm đồ chua."
+  },
+  "pizza": {
+    "vi": "bánh pizza",
+    "exp": "Pizza là món ăn Ý, có đế bánh mì tròn, dẹt, phủ phô mai, sốt cà chua và các loại nhân (như xúc xích, hải sản)."
+  },
+  "hamburger": {
+    "vi": "bánh hăm-bơ-gơ",
+    "exp": "Hamburger là loại bánh mì kẹp, bên trong có một lát thịt bò xay nướng, rau xà lách, cà chua và phô mai."
+  },
+  "sandwich": {
+    "vi": "bánh mì kẹp",
+    "exp": "Sandwich là món ăn gồm hai lát bánh mì kẹp nhân ở giữa, nhân có thể là thịt nguội, phô mai, trứng hoặc rau."
+  },
+  "salad": {
+    "vi": "rau trộn (sa-lát)",
+    "exp": "Salad là món khai vị gồm các loại rau củ sống (như xà lách, cà chua) trộn với nước sốt (thường là sốt dầu giấm hoặc sốt mayonnaise)."
+  },
+  "soup": {
+    "vi": "súp, canh",
+    "exp": "Soup là món ăn dạng lỏng, thường được hầm từ thịt, xương và rau củ, dùng làm món khai vị hoặc ăn nóng."
+  },
+  "curry": {
+    "vi": "cà ri",
+    "exp": "Curry là món ăn có nguồn gốc Ấn Độ, có nước sốt sệt, cay nồng từ bột cà ri, thường ăn kèm cơm hoặc bánh mì."
+  },
+  "sushi": {
+    "vi": "sushi",
+    "exp": "Sushi là món ăn Nhật Bản gồm cơm trộn giấm, kết hợp với hải sản sống (cá, tôm) và rong biển cuộn."
+  },
+  "steak": {
+    "vi": "bít tết",
+    "exp": "Steak là một lát thịt bò dày, thường được nướng hoặc áp chảo ở các mức độ chín khác nhau (tái, chín vừa)."
+  },
+  "cake": {
+    "vi": "bánh ngọt",
+    "exp": "Cake là loại bánh tráng miệng, làm từ bột mì, đường, trứng và bơ, thường được phủ kem và trang trí."
+  },
+  "cookie": {
+    "vi": "bánh quy",
+    "exp": "Cookie là loại bánh nhỏ, dẹt và giòn, thường có các loại hạt hoặc sô cô la chip bên trong."
+  },
+  "ice cream": {
+    "vi": "kem",
+    "exp": "Ice cream là món tráng miệng đông lạnh, làm từ kem sữa, đường, có vị béo ngậy và ngọt mát."
+  },
+  "chocolate": {
+    "vi": "sô cô la",
+    "exp": "Chocolate là thực phẩm làm từ hạt ca cao, có vị ngọt đắng đặc trưng, dùng làm kẹo, bánh hoặc đồ uống."
+  },
+  "pie": {
+    "vi": "bánh nướng (nhân mặn/ngọt)",
+    "exp": "Pie là loại bánh nướng có vỏ bột mì, bên trong chứa nhân (có thể là trái cây ngọt hoặc thịt mặn)."
+  },
+  "cereal": {
+    "vi": "ngũ cốc (ăn sáng)",
+    "exp": "Cereal là các loại hạt ngũ cốc (như yến mạch, bắp) đã qua chế biến, thường được ăn với sữa vào bữa sáng."
+  },
+  "chips": {
+    "vi": "khoai tây chiên (lát mỏng)",
+    "exp": "Chips (hoặc crisps) là những lát khoai tây mỏng được chiên giòn và tẩm gia vị, dùng làm đồ ăn vặt."
+  },
+  "french fries": {
+    "vi": "khoai tây chiên (dạng que)",
+    "exp": "French fries là khoai tây cắt dạng que, chiên ngập dầu cho đến khi vàng giòn, thường ăn kèm tương cà."
+  },
+  "pancake": {
+    "vi": "bánh kếp",
+    "exp": "Pancake là loại bánh mỏng, dẹt, làm từ bột, trứng, sữa, được rán trên chảo, thường ăn với si-rô hoặc mật ong."
+  },
+  "waffle": {
+    "vi": "bánh quế (bánh waffle)",
+    "exp": "Waffle là loại bánh nướng trong khuôn có hoa văn tổ ong, bánh giòn bên ngoài, mềm bên trong, ăn kèm kem hoặc trái cây."
+  },
+  "omelette": {
+    "vi": "trứng tráng (ốp lết)",
+    "exp": "Omelette là món trứng được đánh tan, sau đó tráng mỏng trên chảo, có thể kẹp thêm phô mai hoặc thịt nguội."
+  },
+  "stew": {
+    "vi": "món hầm",
+    "exp": "Stew là món ăn được nấu chậm (hầm) trong nồi, gồm thịt và rau củ trong nước sốt đặc, ví dụ như bò hầm."
+  },
+  "blackberry": {
+    "vi": "quả mâm xôi đen",
+    "exp": "Blackberry là loại quả mọng, màu đen sẫm khi chín, có vị ngọt và hơi chua."
+  },
+  "cantaloupe": {
+    "vi": "quả dưa lưới",
+    "exp": "Cantaloupe là loại dưa có vỏ lưới, ruột màu cam, vị ngọt và thơm."
+  },
+  "honeydew": {
+    "vi": "quả dưa gang (dưa bở)",
+    "exp": "Honeydew là loại dưa có vỏ mịn màu xanh nhạt, ruột màu xanh, vị ngọt mát."
+  },
+  "grapefruit": {
+    "vi": "quả bưởi chùm",
+    "exp": "Grapefruit là loại quả có múi, lớn, vỏ vàng hoặc hồng, vị chua và hơi đắng."
+  },
+  "pomegranate": {
+    "vi": "quả lựu",
+    "exp": "Pomegranate là loại quả có vỏ cứng, bên trong chứa nhiều hạt mọng nước màu đỏ."
+  },
+  "fig": {
+    "vi": "quả sung (vả)",
+    "exp": "Fig là loại quả ngọt, vỏ mỏng, bên trong có nhiều hạt nhỏ li ti."
+  },
+  "date": {
+    "vi": "ngày (trong tháng)",
+    "exp": "Date là một ngày cụ thể được xác định bởi ngày, tháng và năm (ví dụ: 20/11/2023)."
+  },
+  "passion fruit": {
+    "vi": "quả chanh dây",
+    "exp": "Passion fruit là loại quả có vỏ cứng, ruột vàng chứa nhiều hạt, vị chua thơm."
+  },
+  "guava": {
+    "vi": "quả ổi",
+    "exp": "Guava là loại trái cây nhiệt đới, vỏ xanh, ruột trắng hoặc hồng, có nhiều hạt cứng."
+  },
+  "lychee": {
+    "vi": "quả vải",
+    "exp": "Lychee là loại quả nhỏ, vỏ đỏ sần sùi, cùi trắng mọng nước, vị ngọt thanh."
+  },
+  "dragon fruit": {
+    "vi": "quả thanh long",
+    "exp": "Dragon fruit là loại quả có vỏ màu hồng hoặc vàng, ruột trắng hoặc đỏ có hạt đen nhỏ."
+  },
+  "durian": {
+    "vi": "quả sầu riêng",
+    "exp": "Durian là loại quả lớn, vỏ có gai, có mùi rất nồng và vị béo ngọt đặc trưng."
+  },
+  "jackfruit": {
+    "vi": "quả mít",
+    "exp": "Jackfruit là loại quả nhiệt đới rất lớn, vỏ có gai, bên trong có nhiều múi màu vàng, vị ngọt."
+  },
+  "rambutan": {
+    "vi": "quả chôm chôm",
+    "exp": "Rambutan là loại quả nhiệt đới, vỏ màu đỏ có nhiều lông mềm, cùi trắng, vị ngọt."
+  },
+  "mangosteen": {
+    "vi": "quả măng cụt",
+    "exp": "Mangosteen là loại quả có vỏ dày màu tím đậm, ruột trắng chia thành nhiều múi, vị chua ngọt."
+  },
+  "apricot": {
+    "vi": "quả mơ",
+    "exp": "Apricot là loại quả hạch nhỏ, giống quả đào nhưng nhỏ hơn, vỏ màu vàng cam."
+  },
+  "nectarine": {
+    "vi": "quả xuân đào",
+    "exp": "Nectarine là một loại đào có vỏ trơn láng, không có lông tơ."
+  },
+  "star fruit": {
+    "vi": "quả khế",
+    "exp": "Star fruit là loại quả nhiệt đới, khi cắt ngang có hình ngôi sao, vị chua hoặc ngọt."
+  },
+  "persimmon": {
+    "vi": "quả hồng",
+    "exp": "Persimmon là loại quả màu cam, vị ngọt, có thể ăn giòn hoặc ăn mềm khi chín."
+  },
+  "cranberry": {
+    "vi": "quả nam việt quất",
+    "exp": "Cranberry là loại quả mọng nhỏ, màu đỏ, vị rất chua, thường dùng làm nước sốt hoặc sấy khô."
+  },
+  "currant": {
+    "vi": "quả lý chua",
+    "exp": "Currant là loại quả mọng nhỏ, mọc thành chùm, có thể có màu đen, đỏ hoặc trắng."
+  },
+  "gooseberry": {
+    "vi": "quả lý gai (tầm bóp)",
+    "exp": "Gooseberry là loại quả mọng, có thể có màu xanh, đỏ hoặc vàng, vị chua."
+  },
+  "quince": {
+    "vi": "quả mộc qua",
+    "exp": "Quince là loại quả giống quả lê, rất cứng và chua khi còn sống, thường dùng để nấu chín."
+  },
+  "kumquat": {
+    "vi": "quả quất (tắc)",
+    "exp": "Kumquat là loại quả có múi rất nhỏ, có thể ăn cả vỏ, vị chua."
+  },
+  "tangerine": {
+    "vi": "quả quýt",
+    "exp": "Tangerine là loại quả có múi, giống cam nhưng nhỏ hơn, vỏ mỏng, dễ bóc."
+  },
+  "clementine": {
+    "vi": "quả quýt clementine",
+    "exp": "Clementine là một loại quýt nhỏ, không hạt, vị rất ngọt."
+  },
+  "pomelo": {
+    "vi": "quả bưởi",
+    "exp": "Pomelo là loại quả có múi lớn nhất, vỏ dày, ruột có thể có màu trắng, hồng hoặc đỏ."
+  },
+  "elderberry": {
+    "vi": "quả cơm cháy",
+    "exp": "Elderberry là loại quả mọng nhỏ, màu đen sẫm, thường dùng để làm xi-rô hoặc mứt."
+  },
+  "mulberry": {
+    "vi": "quả dâu tằm",
+    "exp": "Mulberry là loại quả mọng, dài, có thể có màu đỏ, đen hoặc trắng, vị ngọt."
+  },
+  "tamarind": {
+    "vi": "quả me",
+    "exp": "Tamarind là loại quả nhiệt đới, dạng vỏ đậu, có cùi vị rất chua, thường dùng nấu ăn."
+  },
+  "soursop": {
+    "vi": "quả mãng cầu xiêm",
+    "exp": "Soursop là loại quả nhiệt đới, vỏ gai mềm, thịt quả trắng, vị chua ngọt, thường dùng làm sinh tố."
+  },
+  "sugar apple": {
+    "vi": "quả na (mãng cầu ta)",
+    "exp": "Sugar apple là loại quả có vỏ xanh, nhiều mắt lồi, thịt trắng, nhiều hạt, vị ngọt."
+  },
+  "longan": {
+    "vi": "quả nhãn",
+    "exp": "Longan là loại quả nhỏ, vỏ nâu mỏng, cùi trắng mờ, vị ngọt, giống quả vải."
+  },
+  "acai berry": {
+    "vi": "quả acai",
+    "exp": "Acai berry là loại quả mọng nhỏ, màu tím đậm, mọc ở Nam Mỹ, giàu chất chống oxy hóa."
+  },
+  "goji berry": {
+    "vi": "quả kỷ tử",
+    "exp": "Goji berry là loại quả mọng nhỏ màu đỏ cam, thường được sấy khô, có vị ngọt."
+  },
+  "breadfruit": {
+    "vi": "quả sa kê",
+    "exp": "Breadfruit là loại quả nhiệt đới lớn, có tinh bột, thường được nấu chín như khoai tây."
+  },
+  "cherimoya": {
+    "vi": "quả mãng cầu (cherimoya)",
+    "exp": "Cherimoya là loại quả nhiệt đới, vỏ xanh, thịt trắng kem, vị ngọt, giống như sự kết hợp của nhiều loại trái cây."
+  },
+  "feijoa": {
+    "vi": "quả feijoa (ổi dứa)",
+    "exp": "Feijoa là loại quả màu xanh, hình trứng, có vị thơm đặc trưng, giống dứa và ổi."
+  },
+  "kiwano": {
+    "vi": "quả dưa sừng",
+    "exp": "Kiwano là loại quả có vỏ màu cam, nhiều gai, ruột xanh lá cây, vị giống dưa chuột và chanh."
+  },
+  "salak": {
+    "vi": "quả salak (da rắn)",
+    "exp": "Salak là loại quả nhiệt đới có vỏ màu nâu đỏ, vảy giống da rắn, vị chua ngọt."
+  },
+  "sapodilla": {
+    "vi": "quả hồng xiêm (sapoche)",
+    "exp": "Sapodilla là loại quả nhiệt đới, vỏ nâu, thịt quả mềm, vị ngọt như đường nâu."
+  },
+  "plantain": {
+    "vi": "quả chuối tiêu (chuối nấu ăn)",
+    "exp": "Plantain là một loại chuối lớn, chứa nhiều tinh bột, thường được dùng để nấu ăn chứ không ăn sống."
+  },
+  "citron": {
+    "vi": "quả thanh yên",
+    "exp": "Citron là loại quả có múi, vỏ rất dày và thơm, ruột ít, chủ yếu dùng để làm mứt vỏ."
+  },
+  "yuzu": {
+    "vi": "quả yuzu (chanh Nhật)",
+    "exp": "Yuzu là loại quả có múi của Nhật Bản, rất thơm, vỏ sần sùi, vị chua, dùng làm gia vị."
+  },
+  "jabuticaba": {
+    "vi": "quả nho thân gỗ",
+    "exp": "Jabuticaba là loại quả mọc trực tiếp trên thân cây, vỏ đen, ruột trắng, vị giống nho."
+  },
+  "jujube": {
+    "vi": "quả táo tàu",
+    "exp": "Jujube là loại quả nhỏ, khi tươi giống táo, khi khô giống chà là, vị ngọt."
+  },
+  "loquat": {
+    "vi": "quả tỳ bà",
+    "exp": "Loquat là loại quả nhỏ màu vàng cam, vị ngọt và hơi chua, có hạt lớn bên trong."
+  },
+  "marionberry": {
+    "vi": "quả mâm xôi Marion",
+    "exp": "Marionberry là một giống lai của quả mâm xôi, có vị ngọt và đậm đà."
+  },
+  "cloudberry": {
+    "vi": "quả mâm xôi mọc ở đầm lầy",
+    "exp": "Cloudberry là loại quả mọng màu cam hổ phách, mọc ở vùng lạnh, vị chua ngọt."
+  },
+  "loganberry": {
+    "vi": "quả mâm xôi logan",
+    "exp": "Loganberry là kết quả lai giữa mâm xôi đỏ và mâm xôi đen."
+  },
+  "huckleberry": {
+    "vi": "quả việt quất huckle",
+    "exp": "Huckleberry là loại quả mọng nhỏ, giống việt quất nhưng có thể có màu đỏ hoặc xanh đậm."
+  },
+  "chokeberry": {
+    "vi": "quả aronia (anh đào dại)",
+    "exp": "Chokeberry là loại quả mọng nhỏ màu đen, vị rất chát, giàu chất chống oxy hóa."
+  },
+  "boysenberry": {
+    "vi": "quả mâm xôi boysen",
+    "exp": "Boysenberry là một loại quả mọng lai, màu tím sẫm, lớn và mọng nước."
+  },
+  "pawpaw": {
+    "vi": "quả đu đủ Mỹ",
+    "exp": "Pawpaw là loại quả lớn nhất có nguồn gốc từ Bắc Mỹ, thịt quả giống chuối và xoài."
+  },
+  "rose apple": {
+    "vi": "quả mận hoa hồng (lý)",
+    "exp": "Rose apple là loại quả giòn, rỗng ruột, có mùi thơm như hoa hồng."
+  },
+  "mamey sapote": {
+    "vi": "quả hồng xiêm Mamey",
+    "exp": "Mamey sapote là loại quả lớn, vỏ nâu, ruột màu cam đỏ, vị ngọt như khoai lang bí ngô."
+  },
+  "surinam cherry": {
+    "vi": "quả sơ ri Surinam",
+    "exp": "Surinam cherry là loại quả có gân, màu đỏ tươi, vị chua ngọt và hơi đắng."
+  },
+  "miracle fruit": {
+    "vi": "quả thần kỳ",
+    "exp": "Miracle fruit là loại quả mọng nhỏ màu đỏ, có khả năng làm cho vị chua thành vị ngọt."
+  },
+  "finger lime": {
+    "vi": "quả chanh ngón tay",
+    "exp": "Finger lime là loại quả có múi, hình trụ, chứa các tép nhỏ mọng nước giống như trứng cá."
+  },
+  "calamansi": {
+    "vi": "quả tắc (calamansi)",
+    "exp": "Calamansi là loại quả có múi nhỏ, vỏ xanh, ruột cam, vị rất chua, phổ biến ở Đông Nam Á."
+  },
+  "blood orange": {
+    "vi": "quả cam máu",
+    "exp": "Blood orange là loại cam có ruột màu đỏ sẫm do chứa anthocyanins, vị ngọt."
+  },
+  "buddha's hand": {
+    "vi": "quả phật thủ",
+    "exp": "Buddha's hand là loại quả có múi, hình dạng giống ngón tay, không có ruột, vỏ rất thơm."
+  },
+  "cupuacu": {
+    "vi": "quả cupuacu",
+    "exp": "Cupuacu là họ hàng của cacao, quả lớn, thịt quả thơm, vị giống sô cô la và dứa."
+  },
+  "ilama": {
+    "vi": "quả ilama",
+    "exp": "Ilama là loại trái cây nhiệt đới, giống mãng cầu, có thể có ruột màu hồng hoặc trắng."
+  },
+  "langsat": {
+    "vi": "quả bòn bon (dâu da)",
+    "exp": "Langsat là loại quả nhỏ, mọc thành chùm, vỏ vàng, ruột trắng mờ, vị chua ngọt."
+  },
+  "lucuma": {
+    "vi": "quả lê ki ma",
+    "exp": "Lucuma là loại quả có nguồn gốc Nam Mỹ, ruột vàng, khô, vị ngọt giống như khoai lang."
+  },
+  "monstera deliciosa": {
+    "vi": "quả trầu bà nam mỹ",
+    "exp": "Monstera deliciosa là quả của cây trầu bà, chín có vị giống dứa và chuối."
+  },
+  "nance": {
+    "vi": "quả nance",
+    "exp": "Nance là loại quả nhỏ, màu vàng cam, có mùi hăng, vị ngọt hoặc chua."
+  },
+  "noni": {
+    "vi": "quả nhàu",
+    "exp": "Noni là loại quả có mùi hăng, bề ngoài sần sùi, thường dùng làm thuốc."
+  },
+  "peach palm": {
+    "vi": "quả pejibaye",
+    "exp": "Peach palm là quả của một loại cọ, cần phải nấu chín, có vị giống hạt dẻ."
+  },
+  "pepino melon": {
+    "vi": "quả dưa pepino",
+    "exp": "Pepino melon là loại quả có vị giống dưa chuột và dưa gang, vỏ vàng có sọc tím."
+  },
+  "prickly pear": {
+    "vi": "quả lê gai (xương rồng)",
+    "exp": "Prickly pear là quả của cây xương rồng, vỏ có gai, ruột đỏ hoặc vàng, vị ngọt."
+  },
+  "santol": {
+    "vi": "quả sấu (santol)",
+    "exp": "Santol là loại quả nhiệt đới, vỏ dày, ruột trắng, vị chua hoặc ngọt."
+  },
+  "sea buckthorn": {
+    "vi": "quả hắc mai biển",
+    "exp": "Sea buckthorn là loại quả mọng nhỏ màu cam, rất giàu vitamin C, vị chua."
+  },
+  "wood apple": {
+    "vi": "quả táo gỗ",
+    "exp": "Wood apple là loại quả có vỏ rất cứng, ruột màu nâu, vị chua và hăng."
+  },
+  "hello": {
+    "vi": "xin chào",
+    "exp": "Một lời chào tiêu chuẩn, phổ biến, dùng được trong hầu hết mọi tình huống."
+  },
+  "hi": {
+    "vi": "chào",
+    "exp": "Một lời chào thân mật và ngắn gọn hơn 'hello', rất phổ biến trong giao tiếp hàng ngày."
+  },
+  "hey": {
+    "vi": "chào",
+    "exp": "Một lời chào rất thân mật, không trang trọng, thường dùng với bạn bè hoặc để thu hút sự chú ý."
+  },
+  "good morning": {
+    "vi": "chào buổi sáng",
+    "exp": "Lời chào lịch sự dùng từ sáng sớm cho đến trước 12 giờ trưa."
+  },
+  "good afternoon": {
+    "vi": "chào buổi chiều",
+    "exp": "Lời chào lịch sự dùng từ 12 giờ trưa cho đến khoảng 5-6 giờ chiều."
+  },
+  "good evening": {
+    "vi": "chào buổi tối",
+    "exp": "Lời chào lịch sự dùng từ 6 giờ tối trở đi, khi gặp mặt."
+  },
+  "good night": {
+    "vi": "chúc ngủ ngon",
+    "exp": "Lời chào tạm biệt vào ban đêm, hoặc khi ai đó chuẩn bị đi ngủ. Không dùng để chào gặp mặt."
+  },
+  "greetings": {
+    "vi": "lời chào",
+    "exp": "Một cách nói trang trọng, thường dùng trong văn viết hoặc tình huống trang trọng để chào hỏi."
+  },
+  "how are you?": {
+    "vi": "bạn có khỏe không?",
+    "exp": "Câu hỏi xã giao phổ biến nhất để hỏi về tình trạng sức khỏe hoặc tâm trạng của ai đó."
+  },
+  "how are you doing?": {
+    "vi": "bạn dạo này thế nào?",
+    "exp": "Tương tự như 'How are you?', rất phổ biến trong giao tiếp hàng ngày."
+  },
+  "how's it going?": {
+    "vi": "dạo này sao rồi?",
+    "exp": "Một cách hỏi thăm thân mật, không trang trọng, rất phổ biến."
+  },
+  "how have you been?": {
+    "vi": "dạo này bạn thế nào?",
+    "exp": "Dùng để hỏi thăm người mà bạn đã không gặp trong một thời gian."
+  },
+  "what's up?": {
+    "vi": "có chuyện gì vậy? / dạo này sao?",
+    "exp": "Một cách chào hỏi rất thân mật, không trang trọng, nghĩa tương tự 'What's new?'."
+  },
+  "what's new?": {
+    "vi": "có gì mới không?",
+    "exp": "Câu hỏi thân mật để hỏi xem có điều gì mới mẻ hoặc thú vị xảy ra gần đây không."
+  },
+  "how's everything?": {
+    "vi": "mọi thứ thế nào rồi?",
+    "exp": "Một cách thân mật để hỏi thăm chung về cuộc sống, công việc của ai đó."
+  },
+  "how's life?": {
+    "vi": "cuộc sống dạo này sao?",
+    "exp": "Câu hỏi thân mật, tương tự 'How's everything?'."
+  },
+  "i'm fine, thank you": {
+    "vi": "tôi khỏe, cảm ơn bạn",
+    "exp": "Câu trả lời tiêu chuẩn, lịch sự cho câu hỏi 'How are you?'."
+  },
+  "i'm good": {
+    "vi": "tôi ổn / tôi tốt",
+    "exp": "Câu trả lời phổ biến, thân mật cho câu hỏi sức khỏe."
+  },
+  "i'm doing well": {
+    "vi": "tôi vẫn tốt",
+    "exp": "Một cách trả lời lịch sự và tích cực cho câu hỏi sức khỏe."
+  },
+  "pretty good": {
+    "vi": "khá tốt",
+    "exp": "Một câu trả lời thân mật, tích cực."
+  },
+  "not bad": {
+    "vi": "không tệ",
+    "exp": "Một câu trả lời trung lập, nghĩa là mọi thứ vẫn ổn."
+  },
+  "can't complain": {
+    "vi": "không có gì để phàn nàn",
+    "exp": "Cách nói tích cực, nghĩa là mọi thứ đều đang tốt đẹp."
+  },
+  "great": {
+    "vi": "tuyệt vời",
+    "exp": "Câu trả lời rất tích cực, thể hiện tâm trạng rất tốt."
+  },
+  "wonderful": {
+    "vi": "tuyệt diệu",
+    "exp": "Một câu trả lời rất tích cực, mạnh hơn 'great'."
+  },
+  "fantastic": {
+    "vi": "quá tuyệt",
+    "exp": "Câu trả lời thể hiện sự nhiệt tình, phấn khởi, rất tốt."
+  },
+  "so-so": {
+    "vi": "tàm tạm / bình thường",
+    "exp": "Câu trả lời cho thấy mọi thứ không tốt cũng không xấu."
+  },
+  "i'm okay": {
+    "vi": "tôi ổn",
+    "exp": "Câu trả lời trung lập, có thể mang nghĩa là 'tôi ổn' (tích cực) hoặc 'tôi tạm ổn' (trung lập)."
+  },
+  "a bit tired": {
+    "vi": "hơi mệt một chút",
+    "exp": "Câu trả lời thật thà khi bạn cảm thấy mệt mỏi."
+  },
+  "could be better": {
+    "vi": "lẽ ra có thể tốt hơn",
+    "exp": "Câu trả lời mang ý tiêu cực nhẹ, cho thấy mọi thứ không được tốt lắm."
+  },
+  "i've been busy": {
+    "vi": "dạo này tôi bận",
+    "exp": "Câu trả lời phổ biến khi bạn không có nhiều thời gian rảnh."
+  },
+  "and you?": {
+    "vi": "còn bạn thì sao?",
+    "exp": "Cách ngắn gọn và phổ biến nhất để hỏi lại người kia sau khi bạn đã trả lời."
+  },
+  "how about you?": {
+    "vi": "thế còn bạn?",
+    "exp": "Tương tự 'And you?', dùng để hỏi lại câu hỏi vừa được hỏi."
+  },
+  "what about you?": {
+    "vi": "còn bạn thì sao?",
+    "exp": "Một cách khác để hỏi lại, rất phổ biến."
+  },
+  "my name is...": {
+    "vi": "tên tôi là...",
+    "exp": "Cách trang trọng và đầy đủ để giới thiệu tên của bạn."
+  },
+  "i'm...": {
+    "vi": "tôi là...",
+    "exp": "Cách phổ biến và thân mật hơn để giới thiệu tên (ví dụ: I'm John)."
+  },
+  "pleased to meet you": {
+    "vi": "rất vui được gặp bạn",
+    "exp": "Một cách nói trang trọng để bày tỏ sự vui mừng khi gặp ai đó lần đầu."
+  },
+  "nice to meet you": {
+    "vi": "rất vui được gặp bạn",
+    "exp": "Câu nói lịch sự và phổ biến nhất khi lần đầu gặp mặt."
+  },
+  "it's a pleasure to meet you": {
+    "vi": "rất hân hạnh được gặp bạn",
+    "exp": "Trang trọng hơn 'Nice to meet you'."
+  },
+  "glad to meet you": {
+    "vi": "rất vui khi gặp bạn",
+    "exp": "Thân mật hơn 'Nice to meet you' một chút."
+  },
+  "nice to meet you too": {
+    "vi": "tôi cũng rất vui được gặp bạn",
+    "exp": "Câu đáp lại tiêu chuẩn cho 'Nice to meet you'."
+  },
+  "you too": {
+    "vi": "bạn cũng vậy",
+    "exp": "Cách đáp lại ngắn gọn và thân mật cho 'Nice to meet you'."
+  },
+  "the pleasure is all mine": {
+    "vi": "đó là niềm vinh hạnh của tôi",
+    "exp": "Cách đáp lại rất trang trọng và lịch sự cho 'It's a pleasure to meet you'."
+  },
+  "what's your name?": {
+    "vi": "tên bạn là gì?",
+    "exp": "Câu hỏi tiêu chuẩn và phổ biến nhất để hỏi tên ai đó."
+  },
+  "may i have your name?": {
+    "vi": "tôi có thể biết tên bạn không?",
+    "exp": "Cách hỏi tên rất lịch sự và trang trọng."
+  },
+  "who are you?": {
+    "vi": "bạn là ai?",
+    "exp": "Câu hỏi trực tiếp, đôi khi có thể bị coi là hơi thô lỗ, dùng để hỏi danh tính."
+  },
+  "this is...": {
+    "vi": "đây là...",
+    "exp": "Dùng để giới thiệu một người cho người khác (ví dụ: This is my friend, Lisa)."
+  },
+  "i'd like you to meet...": {
+    "vi": "tôi muốn bạn gặp...",
+    "exp": "Cách trang trọng để giới thiệu hai người với nhau."
+  },
+  "have you met...": {
+    "vi": "bạn đã gặp... chưa?",
+    "exp": "Một cách phổ biến để bắt đầu giới thiệu (ví dụ: Have you met my boss?)."
+  },
+  "where are you from?": {
+    "vi": "bạn đến từ đâu?",
+    "exp": "Câu hỏi phổ biến để hỏi về quê quán hoặc quốc tịch của ai đó."
+  },
+  "where do you come from?": {
+    "vi": "bạn đến từ đâu?",
+    "exp": "Tương tự như 'Where are you from?'."
+  },
+  "i'm from...": {
+    "vi": "tôi đến từ...",
+    "exp": "Câu trả lời tiêu chuẩn cho 'Where are you from?' (ví dụ: I'm from Vietnam)."
+  },
+  "what do you do?": {
+    "vi": "bạn làm nghề gì?",
+    "exp": "Câu hỏi phổ biến nhất để hỏi về công việc hoặc nghề nghiệp."
+  },
+  "what's your job?": {
+    "vi": "công việc của bạn là gì?",
+    "exp": "Cách hỏi trực tiếp về nghề nghiệp, tương tự 'What do you do?'."
+  },
+  "i'm a/an...": {
+    "vi": "tôi là một...",
+    "exp": "Câu trả lời tiêu chuẩn cho 'What do you do?' (ví dụ: I'm a student)."
+  },
+  "where do you work?": {
+    "vi": "bạn làm việc ở đâu?",
+    "exp": "Hỏi về nơi làm việc cụ thể của ai đó."
+  },
+  "where do you live?": {
+    "vi": "bạn sống ở đâu?",
+    "exp": "Hỏi về nơi ở, nơi cư trú hiện tại."
+  },
+  "goodbye": {
+    "vi": "tạm biệt",
+    "exp": "Một cách trang trọng và tiêu chuẩn để nói lời chào tạm biệt."
+  },
+  "bye": {
+    "vi": "tạm biệt",
+    "exp": "Cách chào tạm biệt ngắn gọn và phổ biến nhất."
+  },
+  "bye-bye": {
+    "vi": "tạm biệt",
+    "exp": "Cách chào tạm biệt thân mật, không trang trọng, thường dùng với trẻ em hoặc người thân."
+  },
+  "see you later": {
+    "vi": "gặp lại bạn sau nhé",
+    "exp": "Cách chào tạm biệt phổ biến, hẹn gặp lại trong tương lai gần."
+  },
+  "see you soon": {
+    "vi": "gặp lại bạn sớm nhé",
+    "exp": "Hẹn gặp lại sớm, thường là trong cùng một ngày."
+  },
+  "see you tomorrow": {
+    "vi": "mai gặp lại nhé",
+    "exp": "Hẹn gặp lại vào ngày hôm sau."
+  },
+  "talk to you later": {
+    "vi": "nói chuyện với bạn sau nhé",
+    "exp": "Dùng khi kết thúc cuộc trò chuyện, đặc biệt là qua điện thoại hoặc tin nhắn."
+  },
+  "catch you later": {
+    "vi": "gặp lại sau nhé",
+    "exp": "Một cách nói thân mật, không trang trọng, tương tự 'See you later'."
+  },
+  "take care": {
+    "vi": "bảo trọng nhé",
+    "exp": "Một lời dặn dò thân mật khi chia tay, mong người kia giữ gìn sức khỏe."
+  },
+  "have a good day": {
+    "vi": "chúc một ngày tốt lành",
+    "exp": "Lời chúc lịch sự khi chia tay ai đó vào ban ngày."
+  },
+  "have a nice day": {
+    "vi": "chúc một ngày vui vẻ",
+    "exp": "Tương tự 'Have a good day', rất phổ biến."
+  },
+  "have a great weekend": {
+    "vi": "chúc cuối tuần vui vẻ",
+    "exp": "Lời chúc dùng vào ngày thứ Sáu hoặc thứ Bảy."
+  },
+  "good luck": {
+    "vi": "chúc may mắn",
+    "exp": "Lời chúc ai đó may mắn trước một sự kiện quan trọng (thi cử, phỏng vấn)."
+  },
+  "thank you": {
+    "vi": "cảm ơn bạn",
+    "exp": "Cách nói cảm ơn tiêu chuẩn, lịch sự."
+  },
+  "thanks": {
+    "vi": "cảm ơn",
+    "exp": "Cách nói cảm ơn ngắn gọn, thân mật hơn."
+  },
+  "thanks a lot": {
+    "vi": "cảm ơn rất nhiều",
+    "exp": "Nhấn mạnh sự cảm ơn, thân mật."
+  },
+  "you're welcome": {
+    "vi": "không có gì",
+    "exp": "Câu đáp lại lịch sự và phổ biến nhất cho 'Thank you'."
+  },
+  "no problem": {
+    "vi": "không vấn đề gì",
+    "exp": "Cách đáp lại thân mật cho 'Thank you', nghĩa là việc đó không phiền hà gì."
+  },
+  "don't mention it": {
+    "vi": "đừng bận tâm / không có gì",
+    "exp": "Một cách lịch sự để đáp lại lời cảm ơn, nghĩa là việc đó không đáng để nhắc đến."
+  },
+  "my pleasure": {
+    "vi": "đó là niềm vinh hạnh của tôi",
+    "exp": "Cách đáp lại trang trọng, lịch sự, nghĩa là bạn rất vui khi được giúp đỡ."
+  },
+  "excuse me": {
+    "vi": "xin lỗi",
+    "exp": "Dùng để thu hút sự chú ý, xin phép đi qua, hoặc xin lỗi nhẹ nhàng."
+  },
+  "pardon me": {
+    "vi": "xin lỗi",
+    "exp": "Lịch sự hơn 'Excuse me', thường dùng khi bạn muốn người khác nhắc lại điều gì đó."
+  },
+  "i'm sorry": {
+    "vi": "tôi xin lỗi",
+    "exp": "Dùng để xin lỗi khi bạn làm sai điều gì đó."
+  },
+  "i apologize": {
+    "vi": "tôi xin lỗi",
+    "exp": "Một cách xin lỗi trang trọng, nghiêm túc hơn 'I'm sorry'."
+  },
+  "what did you say?": {
+    "vi": "bạn vừa nói gì?",
+    "exp": "Câu hỏi thẳng thắn khi bạn không nghe rõ."
+  },
+  "could you repeat that?": {
+    "vi": "bạn có thể nhắc lại không?",
+    "exp": "Cách hỏi lịch sự khi bạn muốn ai đó lặp lại điều họ vừa nói."
+  },
+  "long time no see": {
+    "vi": "lâu rồi không gặp",
+    "exp": "Câu nói thân mật khi gặp lại người mà bạn đã lâu không gặp."
+  },
+  "it's been a while": {
+    "vi": "đã một thời gian rồi nhỉ",
+    "exp": "Tương tự 'Long time no see', dùng khi gặp lại người quen cũ."
+  },
+  "how do you do?": {
+    "vi": "xin chào (rất trang trọng)",
+    "exp": "Một lời chào rất trang trọng, gần như lỗi thời, câu trả lời cũng là 'How do you do?'."
+  },
+  "welcome": {
+    "vi": "chào mừng",
+    "exp": "Lời chào đón ai đó khi họ đến một nơi nào đó."
+  },
+  "welcome to...": {
+    "vi": "chào mừng đến với...",
+    "exp": "Chào đón ai đó đến một địa điểm cụ thể (ví dụ: Welcome to Vietnam)."
+  },
+  "good to see you": {
+    "vi": "rất vui được gặp bạn",
+    "exp": "Nói với người bạn đã quen biết khi gặp lại họ."
+  },
+  "good to see you again": {
+    "vi": "rất vui được gặp lại bạn",
+    "exp": "Nhấn mạnh việc gặp lại người quen."
+  },
+  "how was your weekend?": {
+    "vi": "cuối tuần của bạn thế nào?",
+    "exp": "Câu hỏi xã giao thường hỏi vào ngày thứ Hai để bắt đầu câu chuyện."
+  },
+  "how was your day?": {
+    "vi": "ngày hôm nay của bạn thế nào?",
+    "exp": "Câu hỏi xã giao thường hỏi vào cuối ngày."
+  },
+  "what are you up to?": {
+    "vi": "bạn đang làm gì đấy?",
+    "exp": "Câu hỏi thân mật để hỏi về hoạt động hiện tại hoặc kế hoạch sắp tới."
+  },
+  "any plans for the weekend?": {
+    "vi": "cuối tuần này có kế hoạch gì không?",
+    "exp": "Câu hỏi xã giao phổ biến để hỏi về dự định cuối tuần."
+  },
+  "i'm just looking": {
+    "vi": "tôi chỉ xem thôi",
+    "exp": "Câu trả lời lịch sự khi nhân viên bán hàng hỏi bạn có cần giúp gì không."
+  },
+  "how can i help you?": {
+    "vi": "tôi có thể giúp gì cho bạn?",
+    "exp": "Câu nói phổ biến trong dịch vụ khách hàng, đề nghị giúp đỡ."
+  },
+  "may i help you?": {
+    "vi": "tôi có thể giúp gì cho bạn?",
+    "exp": "Một cách đề nghị giúp đỡ lịch sự, trang trọng hơn."
+  },
+  "yes, please": {
+    "vi": "vâng, làm ơn",
+    "exp": "Cách lịch sự để đồng ý một lời đề nghị giúp đỡ hoặc một lời mời."
+  },
+  "no, thank you": {
+    "vi": "không, cảm ơn",
+    "exp": "Cách lịch sự để từ chối một lời đề nghị hoặc lời mời."
+  },
+  "cheers": {
+    "vi": "cảm ơn / tạm biệt / dô!",
+    "exp": "Từ đa nghĩa: dùng để nâng ly (dô!), cảm ơn (thân mật, Anh-Anh), hoặc tạm biệt (thân mật, Anh-Anh)."
+  },
+  "farewell": {
+    "vi": "vĩnh biệt / tạm biệt",
+    "exp": "Một lời chào tạm biệt rất trang trọng, thường mang ý nghĩa chia tay lâu dài."
+  },
+  "job": {
+    "vi": "công việc, việc làm",
+    "exp": "Job (hoặc work) là công việc bạn làm thường xuyên để nhận lương."
+  },
+  "work": {
+    "vi": "công việc, làm việc",
+    "exp": "Work là hoạt động (thể chất, trí óc) để tạo ra cái gì đó, hoặc chỉ nơi làm việc."
+  },
+  "career": {
+    "vi": "sự nghiệp",
+    "exp": "Career là toàn bộ quá trình công việc, các vị trí bạn nắm giữ trong suốt cuộc đời làm việc."
+  },
+  "profession": {
+    "vi": "nghề nghiệp (chuyên môn)",
+    "exp": "Profession là loại công việc đòi hỏi trình độ học vấn cao và đào tạo chuyên sâu, ví dụ: nghề y, nghề luật."
+  },
+  "occupation": {
+    "vi": "nghề nghiệp (chính)",
+    "exp": "Occupation là nghề nghiệp hoặc công việc chính của một người, thường dùng trong các giấy tờ chính thức."
+  },
+  "company": {
+    "vi": "công ty",
+    "exp": "Company (hoặc firm) là một tổ chức kinh doanh được thành lập để bán sản phẩm hoặc dịch vụ."
+  },
+  "employer": {
+    "vi": "ông chủ, chủ lao động",
+    "exp": "Employer là người hoặc công ty thuê mướn, trả lương cho nhân viên."
+  },
+  "employee": {
+    "vi": "nhân viên",
+    "exp": "Employee là người được thuê để làm việc cho một người khác (ông chủ) hoặc một công ty."
+  },
+  "staff": {
+    "vi": "đội ngũ nhân viên",
+    "exp": "Staff là toàn bộ những người làm việc cho một tổ chức hoặc công ty."
+  },
+  "colleague": {
+    "vi": "đồng nghiệp",
+    "exp": "Colleague (hoặc co-worker) là người cùng làm việc với bạn."
+  },
+  "boss": {
+    "vi": "sếp, cấp trên",
+    "exp": "Boss là người quản lý, giám sát trực tiếp công việc của bạn."
+  },
+  "manager": {
+    "vi": "người quản lý",
+    "exp": "Manager là người chịu trách nhiệm điều hành một bộ phận, một dự án hoặc một cửa hàng."
+  },
+  "CEO": {
+    "vi": "Giám đốc điều hành (CEO)",
+    "exp": "CEO (Chief Executive Officer) là người có vị trí cao nhất, chịu trách nhiệm điều hành toàn bộ công ty."
+  },
+  "assistant": {
+    "vi": "trợ lý",
+    "exp": "Assistant là người giúp đỡ người khác trong công việc, thường là giúp đỡ một nhà quản lý."
+  },
+  "secretary": {
+    "vi": "thư ký",
+    "exp": "Secretary là người làm công việc văn phòng, sắp xếp lịch hẹn, trả lời điện thoại cho sếp hoặc công ty."
+  },
+  "receptionist": {
+    "vi": "nhân viên lễ tân",
+    "exp": "Receptionist là người làm việc tại quầy lễ tân của khách sạn, văn phòng để chào đón khách và trả lời điện thoại."
+  },
+  "office": {
+    "vi": "văn phòng",
+    "exp": "Office là một tòa nhà hoặc căn phòng nơi mọi người làm công việc hành chính, giấy tờ."
+  },
+  "workplace": {
+    "vi": "nơi làm việc",
+    "exp": "Workplace là địa điểm mà bạn làm việc, ví dụ: văn phòng, nhà máy, cửa hàng."
+  },
+  "factory": {
+    "vi": "nhà máy, xí nghiệp",
+    "exp": "Factory là một tòa nhà lớn, nơi hàng hóa được sản xuất hàng loạt bằng máy móc."
+  },
+  "resume": {
+    "vi": "sơ yếu lý lịch (kiểu Mỹ)",
+    "exp": "Resume (hoặc CV) là một tài liệu tóm tắt học vấn, kinh nghiệm làm việc của bạn để nộp đơn xin việc."
+  },
+  "CV": {
+    "vi": "sơ yếu lý lịch (kiểu Anh)",
+    "exp": "CV (Curriculum Vitae) là tài liệu chi tiết về học vấn và kinh nghiệm làm việc của một người."
+  },
+  "interview": {
+    "vi": "cuộc phỏng vấn",
+    "exp": "Interview là cuộc gặp gỡ chính thức giữa nhà tuyển dụng và ứng viên để trao đổi về công việc."
+  },
+  "application": {
+    "vi": "ứng dụng",
+    "exp": "Application (hay 'app') là một chương trình phần mềm được thiết kế để thực hiện một nhiệm vụ cụ thể cho người dùng."
+  },
+  "hire": {
+    "vi": "thuê, tuyển dụng",
+    "exp": "Hire là hành động tuyển một người vào làm việc sau quá trình phỏng vấn."
+  },
+  "fire": {
+    "vi": "lửa",
+    "exp": "Lửa là quá trình oxy hóa nhanh, tỏa ra nhiệt và ánh sáng."
+  },
+  "quit": {
+    "vi": "từ chức, nghỉ việc",
+    "exp": "Quit (hoặc resign) là hành động tự nguyện rời bỏ công việc hiện tại của mình."
+  },
+  "salary": {
+    "vi": "lương (tháng, năm)",
+    "exp": "Salary là số tiền cố định bạn nhận được hàng tháng hoặc hàng năm cho công việc của mình."
+  },
+  "wage": {
+    "vi": "lương (giờ, tuần)",
+    "exp": "Wage là số tiền được trả theo giờ hoặc theo tuần, thường cho lao động chân tay."
+  },
+  "income": {
+    "vi": "thu nhập",
+    "exp": "Income là tổng số tiền bạn kiếm được từ lương, kinh doanh hoặc đầu tư."
+  },
+  "bonus": {
+    "vi": "tiền thưởng",
+    "exp": "Bonus là khoản tiền thưởng thêm, ngoài lương, thường được trả khi bạn làm tốt hoặc vào dịp lễ, cuối năm."
+  },
+  "paycheck": {
+    "vi": "phiếu lương, kỳ lương",
+    "exp": "Paycheck là tiền lương bạn nhận được, hoặc phiếu ghi chi tiết khoản lương đó."
+  },
+  "promotion": {
+    "vi": "sự thăng chức",
+    "exp": "Promotion là việc được thăng lên một vị trí cao hơn, quan trọng hơn trong công ty."
+  },
+  "meeting": {
+    "vi": "cuộc họp",
+    "exp": "Meeting là một sự kiện khi mọi người tụ tập lại để thảo luận về công việc."
+  },
+  "deadline": {
+    "vi": "hạn chót, hạn cuối",
+    "exp": "Deadline là thời điểm cuối cùng mà bạn phải hoàn thành một công việc hoặc dự án."
+  },
+  "task": {
+    "vi": "nhiệm vụ, công việc (nhỏ)",
+    "exp": "Task là một phần công việc nhỏ, cụ thể cần phải hoàn thành, thường là một phần của dự án lớn."
+  },
+  "schedule": {
+    "vi": "lịch trình, kế hoạch",
+    "exp": "Schedule là bảng kế hoạch về thời gian cho các công việc hoặc sự kiện sẽ diễn ra."
+  },
+  "shift": {
+    "vi": "ca làm việc",
+    "exp": "Shift là khoảng thời gian làm việc cố định trong ngày (ví dụ: ca sáng, ca tối) tại những nơi làm việc 24/7."
+  },
+  "overtime": {
+    "vi": "thời gian làm thêm giờ",
+    "exp": "Overtime (OT) là thời gian làm việc ngoài giờ hành chính quy định, thường được trả thêm tiền."
+  },
+  "full-time": {
+    "vi": "toàn thời gian",
+    "exp": "Full-time là công việc chiếm toàn bộ thời gian làm việc tiêu chuẩn (thường 8 tiếng/ngày, 5 ngày/tuần)."
+  },
+  "part-time": {
+    "vi": "bán thời gian",
+    "exp": "Part-time là công việc chỉ làm một phần thời gian trong ngày hoặc trong tuần, ít hơn full-time."
+  },
+  "contract": {
+    "vi": "hợp đồng",
+    "exp": "Contract là một văn bản pháp lý thỏa thuận giữa người lao động và công ty về công việc, lương bổng."
+  },
+  "insurance": {
+    "vi": "bảo hiểm",
+    "exp": "Insurance là hợp đồng bảo vệ bạn khỏi tổn thất tài chính (ví dụ: bảo hiểm y tế, bảo hiểm xã hội)."
+  },
+  "retirement": {
+    "vi": "sự nghỉ hưu",
+    "exp": "Retirement là thời điểm bạn ngừng làm việc hoàn toàn, thường là khi về già."
+  },
+  "pension": {
+    "vi": "lương hưu",
+    "exp": "Pension là số tiền trợ cấp hàng tháng bạn nhận được sau khi nghỉ hưu."
+  },
+  "training": {
+    "vi": "sự đào tạo, huấn luyện",
+    "exp": "Training là quá trình học các kỹ năng mới hoặc kiến thức cần thiết cho công việc."
+  },
+  "experience": {
+    "vi": "kinh nghiệm",
+    "exp": "Experience là kiến thức hoặc kỹ năng bạn có được từ việc đã từng làm công việc đó trong quá khứ."
+  },
+  "qualification": {
+    "vi": "bằng cấp, chuyên môn",
+    "exp": "Qualification là bằng cấp, chứng chỉ hoặc kỹ năng chứng minh bạn đủ khả năng làm một công việc."
+  },
+  "duty": {
+    "vi": "nhiệm vụ, trách nhiệm",
+    "exp": "Duty (hoặc responsibility) là những công việc bạn phải làm như một phần của nghề nghiệp của mình."
+  },
+  "department": {
+    "vi": "phòng ban",
+    "exp": "Department là một bộ phận riêng biệt trong công ty, chịu trách nhiệm về một mảng cụ thể (ví dụ: phòng nhân sự)."
+  },
+  "HR": {
+    "vi": "phòng nhân sự",
+    "exp": "HR (Human Resources) là phòng ban chịu trách nhiệm tuyển dụng, đào tạo và quản lý nhân viên."
+  },
+  "marketing": {
+    "vi": "tiếp thị",
+    "exp": "Marketing là bộ phận chịu trách nhiệm quảng bá, giới thiệu sản phẩm đến khách hàng."
+  },
+  "sales": {
+    "vi": "kinh doanh, bán hàng",
+    "exp": "Sales là bộ phận chịu trách nhiệm bán sản phẩm hoặc dịch vụ của công ty."
+  },
+  "finance": {
+    "vi": "tài chính",
+    "exp": "Finance là bộ phận quản lý tiền bạc của công ty, bao gồm kế toán, thu chi."
+  },
+  "accountant": {
+    "vi": "kế toán viên",
+    "exp": "Accountant là người làm việc với các con số tài chính, sổ sách, thuế của công ty."
+  },
+  "engineer": {
+    "vi": "kỹ sư",
+    "exp": "Engineer là người thiết kế, xây dựng hoặc bảo trì các máy móc, công trình, hệ thống (ví dụ: kỹ sư phần mềm)."
+  },
+  "developer": {
+    "vi": "lập trình viên",
+    "exp": "Developer (hay 'dev') là người tạo ra các ứng dụng phần mềm máy tính."
+  },
+  "designer": {
+    "vi": "nhà thiết kế",
+    "exp": "Designer là người lên ý tưởng, phác họa hình ảnh cho sản phẩm, website hoặc thời trang."
+  },
+  "doctor": {
+    "vi": "bác sĩ",
+    "exp": "Doctor là người có chuyên môn y tế, chẩn đoán và chữa trị bệnh tật cho người khác."
+  },
+  "nurse": {
+    "vi": "y tá",
+    "exp": "Nurse là người phụ giúp bác sĩ, chăm sóc bệnh nhân trong bệnh viện."
+  },
+  "lawyer": {
+    "vi": "luật sư",
+    "exp": "Lawyer là người có chuyên môn về luật, tư vấn pháp lý và đại diện cho thân chủ tại tòa án."
+  },
+  "judge": {
+    "vi": "thẩm phán",
+    "exp": "Judge là người chủ tọa phiên tòa, đưa ra quyết định ai đúng sai hoặc tuyên án tội phạm."
+  },
+  "police officer": {
+    "vi": "cảnh sát",
+    "exp": "Police officer là người bảo vệ luật pháp, giữ gìn trật tự an toàn xã hội."
+  },
+  "firefighter": {
+    "vi": "lính cứu hỏa",
+    "exp": "Firefighter là người làm nhiệm vụ dập tắt các đám cháy và cứu hộ cứu nạn."
+  },
+  "scientist": {
+    "vi": "nhà khoa học",
+    "exp": "Scientist là người thực hiện các nghiên cứu khoa học để tìm ra kiến thức mới."
+  },
+  "researcher": {
+    "vi": "nhà nghiên cứu",
+    "exp": "Researcher là người tìm kiếm, thu thập thông tin một cách có hệ thống về một chủ đề cụ thể."
+  },
+  "musician": {
+    "vi": "nhạc sĩ, nhạc công",
+    "exp": "Musician là người sáng tác hoặc chơi nhạc cụ một cách chuyên nghiệp."
+  },
+  "writer": {
+    "vi": "nhà văn, người viết",
+    "exp": "Writer là người viết sách, truyện, kịch bản hoặc các bài báo."
+  },
+  "editor": {
+    "vi": "biên tập viên",
+    "exp": "Editor là người kiểm tra, sửa lỗi và cải thiện nội dung (bài viết, sách, video) trước khi xuất bản."
+  },
+  "chef": {
+    "vi": "đầu bếp (trưởng)",
+    "exp": "Chef là đầu bếp chuyên nghiệp, thường là người đứng đầu bếp trong nhà hàng."
+  },
+  "cook": {
+    "vi": "người nấu ăn",
+    "exp": "Cook là người làm công việc nấu nướng, có thể ở nhà hoặc nhà hàng nhưng không ở cấp bậc như Chef."
+  },
+  "waiter": {
+    "vi": "bồi bàn (nam)",
+    "exp": "Waiter là nhân viên nam phục vụ đồ ăn và thức uống cho khách tại nhà hàng."
+  },
+  "waitress": {
+    "vi": "bồi bàn (nữ)",
+    "exp": "Waitress là nhân viên nữ phục vụ đồ ăn và thức uống cho khách tại nhà hàng."
+  },
+  "driver": {
+    "vi": "tài xế",
+    "exp": "Driver là người lái các phương tiện như xe buýt, xe tải hoặc taxi."
+  },
+  "pilot": {
+    "vi": "phi công",
+    "exp": "Pilot là người lái máy bay."
+  },
+  "flight attendant": {
+    "vi": "tiếp viên hàng không",
+    "exp": "Flight attendant là nhân viên trên máy bay, phục vụ và đảm bảo an toàn cho hành khách."
+  },
+  "farmer": {
+    "vi": "nông dân",
+    "exp": "Farmer là người làm việc trên đồng ruộng, trồng trọt cây lương thực hoặc chăn nuôi gia súc."
+  },
+  "mechanic": {
+    "vi": "thợ cơ khí, thợ sửa máy",
+    "exp": "Mechanic là người sửa chữa máy móc, đặc biệt là động cơ xe ô tô."
+  },
+  "electrician": {
+    "vi": "thợ điện",
+    "exp": "Electrician là người lắp đặt và sửa chữa hệ thống điện, dây điện."
+  },
+  "plumber": {
+    "vi": "thợ sửa ống nước",
+    "exp": "Plumber là người lắp đặt và sửa chữa hệ thống ống nước, bồn cầu, vòi nước."
+  },
+  "carpenter": {
+    "vi": "thợ mộc",
+    "exp": "Carpenter là người làm các công việc liên quan đến gỗ, như đóng bàn, ghế, cửa."
+  },
+  "architect": {
+    "vi": "kiến trúc sư",
+    "exp": "Architect là người thiết kế bản vẽ cho các tòa nhà và công trình xây dựng."
+  },
+  "builder": {
+    "vi": "thợ xây",
+    "exp": "Builder là người xây dựng các tòa nhà, công trình từ bản thiết kế."
+  },
+  "real estate agent": {
+    "vi": "nhân viên môi giới bất động sản",
+    "exp": "Real estate agent là người giúp khách hàng mua, bán hoặc thuê nhà đất."
+  },
+  "shop assistant": {
+    "vi": "nhân viên bán hàng (tại cửa hàng)",
+    "exp": "Shop assistant (hoặc salesperson) là người giúp đỡ khách hàng và bán hàng tại cửa hàng."
+  },
+  "cashier": {
+    "vi": "nhân viên thu ngân",
+    "exp": "Cashier là người xử lý việc thanh toán tiền mặt hoặc thẻ tại quầy thu ngân của cửa hàng, siêu thị."
+  },
+  "librarian": {
+    "vi": "người thủ thư",
+    "exp": "Librarian là người làm việc tại thư viện, quản lý sách và hỗ trợ độc giả."
+  },
+  "veterinarian": {
+    "vi": "bác sĩ thú y",
+    "exp": "Veterinarian (hoặc vet) là bác sĩ chuyên chẩn đoán và chữa bệnh cho động vật, thú cưng."
+  },
+  "dentist": {
+    "vi": "nha sĩ",
+    "exp": "Dentist là bác sĩ chuyên chăm sóc, chữa trị các vấn đề về răng miệng."
+  },
+  "pharmacist": {
+    "vi": "dược sĩ",
+    "exp": "Pharmacist là người làm việc tại nhà thuốc, chuẩn bị và cấp phát thuốc theo toa bác sĩ."
+  },
+  "unemployed": {
+    "vi": "thất nghiệp",
+    "exp": "Unemployed là tình trạng không có việc làm, mặc dù đang tích cực tìm kiếm việc."
+  },
+  "freelancer": {
+    "vi": "người làm nghề tự do",
+    "exp": "Freelancer là người làm việc độc lập cho nhiều khách hàng khác nhau, không cố định cho công ty nào."
+  },
+  "zero": {
+    "vi": "số không",
+    "exp": "Zero là con số bắt đầu, biểu thị giá trị 'không có gì'."
+  },
+  "one": {
+    "vi": "số một",
+    "exp": "One là số tự nhiên đầu tiên, biểu thị một đơn vị."
+  },
+  "two": {
+    "vi": "số hai",
+    "exp": "Two là số tiếp theo sau 'one', biểu thị hai đơn vị."
+  },
+  "three": {
+    "vi": "số ba",
+    "exp": "Three là số tiếp theo sau 'two', biểu thị ba đơn vị."
+  },
+  "four": {
+    "vi": "số bốn",
+    "exp": "Four là số tiếp theo sau 'three', biểu thị bốn đơn vị."
+  },
+  "five": {
+    "vi": "số năm",
+    "exp": "Five là số tiếp theo sau 'four', biểu thị năm đơn vị."
+  },
+  "six": {
+    "vi": "số sáu",
+    "exp": "Six là số tiếp theo sau 'five', biểu thị sáu đơn vị."
+  },
+  "seven": {
+    "vi": "số bảy",
+    "exp": "Seven là số tiếp theo sau 'six', biểu thị bảy đơn vị."
+  },
+  "eight": {
+    "vi": "số tám",
+    "exp": "Eight là số tiếp theo sau 'seven', biểu thị tám đơn vị."
+  },
+  "nine": {
+    "vi": "số chín",
+    "exp": "Nine là số tiếp theo sau 'eight', biểu thị chín đơn vị."
+  },
+  "ten": {
+    "vi": "số mười",
+    "exp": "Ten là số tiếp theo sau 'nine', biểu thị mười đơn vị."
+  },
+  "eleven": {
+    "vi": "số mười một",
+    "exp": "Eleven là số tiếp theo sau 'ten'."
+  },
+  "twelve": {
+    "vi": "số mười hai",
+    "exp": "Twelve là số tiếp theo sau 'eleven'."
+  },
+  "thirteen": {
+    "vi": "số mười ba",
+    "exp": "Thirteen là số tiếp theo sau 'twelve'."
+  },
+  "fourteen": {
+    "vi": "số mười bốn",
+    "exp": "Fourteen là số tiếp theo sau 'thirteen'."
+  },
+  "fifteen": {
+    "vi": "số mười lăm",
+    "exp": "Fifteen là số tiếp theo sau 'fourteen'."
+  },
+  "sixteen": {
+    "vi": "số mười sáu",
+    "exp": "Sixteen là số tiếp theo sau 'fifteen'."
+  },
+  "seventeen": {
+    "vi": "số mười bảy",
+    "exp": "Seventeen là số tiếp theo sau 'sixteen'."
+  },
+  "eighteen": {
+    "vi": "số mười tám",
+    "exp": "Eighteen là số tiếp theo sau 'seventeen'."
+  },
+  "nineteen": {
+    "vi": "số mười chín",
+    "exp": "Nineteen là số tiếp theo sau 'eighteen'."
+  },
+  "twenty": {
+    "vi": "số hai mươi",
+    "exp": "Twenty là số chẵn, bằng mười nhân hai (20)."
+  },
+  "thirty": {
+    "vi": "số ba mươi",
+    "exp": "Thirty là số chẵn, bằng mười nhân ba (30)."
+  },
+  "forty": {
+    "vi": "số bốn mươi",
+    "exp": "Forty là số chẵn, bằng mười nhân bốn (40)."
+  },
+  "fifty": {
+    "vi": "số năm mươi",
+    "exp": "Fifty là số chẵn, bằng mười nhân năm (50)."
+  },
+  "sixty": {
+    "vi": "số sáu mươi",
+    "exp": "Sixty là số chẵn, bằng mười nhân sáu (60)."
+  },
+  "seventy": {
+    "vi": "số bảy mươi",
+    "exp": "Seventy là số chẵn, bằng mười nhân bảy (70)."
+  },
+  "eighty": {
+    "vi": "số tám mươi",
+    "exp": "Eighty là số chẵn, bằng mười nhân tám (80)."
+  },
+  "ninety": {
+    "vi": "số chín mươi",
+    "exp": "Ninety là số chẵn, bằng mười nhân chín (90)."
+  },
+  "one hundred": {
+    "vi": "một trăm",
+    "exp": "One hundred là số bằng mười nhân mười (100)."
+  },
+  "one thousand": {
+    "vi": "một nghìn (một ngàn)",
+    "exp": "One thousand là số bằng một trăm nhân mười (1000)."
+  },
+  "one million": {
+    "vi": "một triệu",
+    "exp": "One million là số bằng một nghìn nhân một nghìn (1.000.000)."
+  },
+  "one billion": {
+    "vi": "một tỷ",
+    "exp": "One billion là số bằng một nghìn triệu (1.000.000.000)."
+  },
+  "number": {
+    "vi": "con số",
+    "exp": "Number là một ký hiệu hoặc từ dùng để biểu thị số lượng."
+  },
+  "count": {
+    "vi": "đếm",
+    "exp": "Count là hành động xác định tổng số lượng của một nhóm đối tượng."
+  },
+  "total": {
+    "vi": "tổng cộng",
+    "exp": "Total là con số cuối cùng bạn nhận được khi cộng tất cả các số lại với nhau."
+  },
+  "plus": {
+    "vi": "cộng",
+    "exp": "Plus là từ dùng trong phép toán cộng (ví dụ: 2 plus 2 equals 4)."
+  },
+  "minus": {
+    "vi": "trừ",
+    "exp": "Minus là từ dùng trong phép toán trừ (ví dụ: 5 minus 3 equals 2)."
+  },
+  "times": {
+    "vi": "nhân",
+    "exp": "Times là từ dùng trong phép toán nhân (ví dụ: 4 times 3 equals 12)."
+  },
+  "divided by": {
+    "vi": "chia cho",
+    "exp": "Divided by là cụm từ dùng trong phép toán chia (ví dụ: 10 divided by 2 equals 5)."
+  },
+  "equals": {
+    "vi": "bằng",
+    "exp": "Equals là từ dùng để chỉ kết quả của một phép toán (ví dụ: 2 + 2 equals 4)."
+  },
+  "first": {
+    "vi": "thứ nhất",
+    "exp": "First là số thứ tự, chỉ vị trí đầu tiên trong một danh sách."
+  },
+  "second": {
+    "vi": "giây",
+    "exp": "Second là đơn vị đo thời gian rất ngắn, 60 giây bằng 1 phút."
+  },
+  "third": {
+    "vi": "thứ ba",
+    "exp": "Third là số thứ tự, chỉ vị trí đứng ngay sau 'second'."
+  },
+  "fourth": {
+    "vi": "thứ tư",
+    "exp": "Fourth là số thứ tự, chỉ vị trí đứng ngay sau 'third'."
+  },
+  "fifth": {
+    "vi": "thứ năm",
+    "exp": "Fifth là số thứ tự, chỉ vị trí đứng ngay sau 'fourth'."
+  },
+  "half": {
+    "vi": "một nửa",
+    "exp": "Half là một trong hai phần bằng nhau của một cái gì đó (1/2)."
+  },
+  "quarter": {
+    "vi": "một phần tư",
+    "exp": "Quarter là một trong bốn phần bằng nhau của một cái gì đó (1/4)."
+  },
+  "double": {
+    "vi": "gấp đôi",
+    "exp": "Double có nghĩa là nhân với hai, hoặc làm cho gấp hai lần."
+  },
+  "once": {
+    "vi": "một lần",
+    "exp": "Once có nghĩa là một lần duy nhất."
+  },
+  "twice": {
+    "vi": "hai lần",
+    "exp": "Twice có nghĩa là hai lần."
+  },
+  "mountain": {
+    "vi": "ngọn núi",
+    "exp": "Mountain là một ngọn đồi tự nhiên rất cao, cao hơn nhiều so với khu vực xung quanh."
+  },
+  "river": {
+    "vi": "con sông",
+    "exp": "River là một dòng chảy nước tự nhiên lớn, chảy ra biển, hồ hoặc một con sông khác."
+  },
+  "ocean": {
+    "vi": "đại dương",
+    "exp": "Ocean là một vùng nước mặn khổng lồ, bao phủ phần lớn bề mặt Trái Đất, ví dụ như Thái Bình Dương."
+  },
+  "forest": {
+    "vi": "khu rừng",
+    "exp": "Forest là một khu vực rộng lớn được bao phủ bởi cây cối và các thảm thực vật dày đặc."
+  },
+  "tree": {
+    "vi": "cái cây",
+    "exp": "Cây là một loại thực vật thân gỗ, có cành và lá."
+  },
+  "flower": {
+    "vi": "bông hoa",
+    "exp": "Hoa là bộ phận sinh sản của thực vật, thường có màu sắc đẹp và hương thơm."
+  },
+  "leaf": {
+    "vi": "chiếc lá",
+    "exp": "Lá là bộ phận của cây, thường có màu xanh và thực hiện chức năng quang hợp."
+  },
+  "sky": {
+    "vi": "bầu trời",
+    "exp": "Bầu trời là khoảng không gian phía trên Trái Đất khi nhìn từ bề mặt."
+  },
+  "sun": {
+    "vi": "mặt trời",
+    "exp": "Mặt trời là ngôi sao ở trung tâm hệ mặt trời, cung cấp ánh sáng và nhiệt."
+  },
+  "moon": {
+    "vi": "mặt trăng",
+    "exp": "Mặt trăng là vệ tinh tự nhiên của Trái Đất, phản chiếu ánh sáng mặt trời."
+  },
+  "star": {
+    "vi": "hình ngôi sao",
+    "exp": "Hình ngôi sao thường có năm hoặc sáu điểm nhọn, giống như ngôi sao trên trời."
+  },
+  "cloud": {
+    "vi": "đám mây",
+    "exp": "Đám mây là khối hơi nước ngưng tụ lơ lửng trong khí quyển."
+  },
+  "rain": {
+    "vi": "mưa",
+    "exp": "Mưa là hiện tượng nước rơi từ mây xuống đất dưới dạng giọt."
+  },
+  "snow": {
+    "vi": "tuyết",
+    "exp": "Tuyết là hiện tượng hơi nước đóng băng và rơi xuống đất dưới dạng tinh thể."
+  },
+  "wind": {
+    "vi": "gió",
+    "exp": "Gió là sự chuyển động của không khí trên quy mô lớn."
+  },
+  "rock": {
+    "vi": "đá",
+    "exp": "Rock là một vật liệu rắn tự nhiên, bao gồm các khoáng vật hoặc vật chất giống khoáng vật."
+  },
+  "stone": {
+    "vi": "hòn đá",
+    "exp": "Hòn đá là một mẩu đá nhỏ, rời rạc."
+  },
+  "soil": {
+    "vi": "đất",
+    "exp": "Đất là lớp bề mặt của Trái Đất, nơi thực vật có thể mọc."
+  },
+  "sand": {
+    "vi": "cát",
+    "exp": "Cát là vật liệu dạng hạt nhỏ, thường tìm thấy ở bãi biển hoặc sa mạc."
+  },
+  "beach": {
+    "vi": "bãi biển",
+    "exp": "Beach là khu vực cát hoặc sỏi dọc theo bờ biển, hồ, nơi mọi người tắm nắng và bơi lội."
+  },
+  "sea": {
+    "vi": "biển",
+    "exp": "Biển là một vùng nước mặn lớn, nhỏ hơn đại dương."
+  },
+  "lake": {
+    "vi": "cái hồ",
+    "exp": "Lake là một vùng nước lớn, được bao quanh bởi đất liền, không thông trực tiếp ra biển."
+  },
+  "pond": {
+    "vi": "cái ao",
+    "exp": "Ao là một vùng nước ngọt nhỏ, thường nhỏ hơn hồ."
+  },
+  "stream": {
+    "vi": "con suối",
+    "exp": "Suối là một dòng nước nhỏ tự nhiên, hẹp hơn sông."
+  },
+  "waterfall": {
+    "vi": "thác nước",
+    "exp": "Thác nước là nơi dòng sông hoặc suối chảy qua một vách đá dốc đứng."
+  },
+  "valley": {
+    "vi": "thung lũng",
+    "exp": "Thung lũng là vùng đất trũng, thấp giữa các ngọn đồi hoặc núi."
+  },
+  "hill": {
+    "vi": "ngọn đồi",
+    "exp": "Đồi là một dạng địa hình nhô cao, nhưng thấp hơn núi."
+  },
+  "cave": {
+    "vi": "hang động",
+    "exp": "Hang động là một khoảng trống tự nhiên dưới lòng đất hoặc trong vách đá."
+  },
+  "island": {
+    "vi": "hòn đảo",
+    "exp": "Island là một vùng đất liền được bao quanh hoàn toàn bởi nước, ví dụ như đảo Phú Quốc."
+  },
+  "peninsula": {
+    "vi": "bán đảo",
+    "exp": "Bán đảo là một vùng đất nhô ra biển, được bao bọc bởi nước ở ba mặt."
+  },
+  "volcano": {
+    "vi": "núi lửa",
+    "exp": "Volcano là một khe hở trên bề mặt Trái Đất, nơi magma, khí và tro bụi phun trào ra ngoài."
+  },
+  "earthquake": {
+    "vi": "động đất",
+    "exp": "Earthquake là sự rung chuyển của bề mặt Trái Đất, gây ra bởi sự giải phóng năng lượng đột ngột trong vỏ Trái Đất."
+  },
+  "weather": {
+    "vi": "thời tiết",
+    "exp": "Weather là tình trạng của khí quyển tại một thời điểm và địa điểm cụ thể (nắng, mưa, gió)."
+  },
+  "climate": {
+    "vi": "khí hậu",
+    "exp": "Climate là kiểu thời tiết trung bình của một khu vực trong một thời gian dài (nhiều năm)."
+  },
+  "temperature": {
+    "vi": "nhiệt độ",
+    "exp": "Nhiệt độ là độ nóng hay lạnh của không khí hoặc vật thể."
+  },
+  "humidity": {
+    "vi": "độ ẩm",
+    "exp": "Độ ẩm là lượng hơi nước có trong không khí."
+  },
+  "storm": {
+    "vi": "cơn bão",
+    "exp": "Cơn bão là hiện tượng thời tiết dữ dội, thường có gió mạnh, mưa lớn và sấm sét."
+  },
+  "lightning": {
+    "vi": "tia chớp",
+    "exp": "Tia chớp là ánh sáng lóe lên do sự phóng điện trong khí quyển."
+  },
+  "thunder": {
+    "vi": "sấm sét",
+    "exp": "Sấm sét là âm thanh lớn gây ra bởi tia chớp."
+  },
+  "rainbow": {
+    "vi": "cầu vồng",
+    "exp": "Cầu vồng là dải quang phổ 7 màu xuất hiện trên bầu trời sau cơn mưa."
+  },
+  "fog": {
+    "vi": "sương mù",
+    "exp": "Sương mù là hiện tượng mây ở sát mặt đất, làm giảm tầm nhìn."
+  },
+  "ice": {
+    "vi": "băng",
+    "exp": "Băng là trạng thái rắn của nước khi ở nhiệt độ thấp."
+  },
+  "planet": {
+    "vi": "hành tinh",
+    "exp": "Planet là một thiên thể lớn quay quanh một ngôi sao, ví dụ như Trái Đất quay quanh Mặt Trời."
+  },
+  "Earth": {
+    "vi": "Trái Đất",
+    "exp": "Trái Đất là hành tinh thứ ba tính từ Mặt Trời, nơi chúng ta sinh sống."
+  },
+  "air": {
+    "vi": "không khí",
+    "exp": "Không khí là hỗn hợp các chất khí (như oxy, nitơ) bao quanh Trái Đất."
+  },
+  "grass": {
+    "vi": "cỏ",
+    "exp": "Cỏ là loại thực vật thân mềm, thường mọc thành thảm xanh trên mặt đất."
+  },
+  "plant": {
+    "vi": "thực vật",
+    "exp": "Thực vật là sinh vật sống, thường có lá xanh và quang hợp (bao gồm cây, cỏ, hoa...)."
+  },
+  "animal": {
+    "vi": "động vật",
+    "exp": "Động vật là sinh vật sống đa bào, có khả năng di chuyển và cảm nhận."
+  },
+  "insect": {
+    "vi": "côn trùng",
+    "exp": "Côn trùng là động vật nhỏ, có sáu chân và cơ thể chia làm ba phần (như ruồi, muỗi, kiến)."
+  },
+  "mammal": {
+    "vi": "động vật có vú",
+    "exp": "Động vật có vú là loài động vật máu nóng, nuôi con bằng sữa (như người, chó, mèo)."
+  },
+  "reptile": {
+    "vi": "bò sát",
+    "exp": "Bò sát là động vật máu lạnh, da có vảy (như rắn, thằn lằn, cá sấu)."
+  },
+  "amphibian": {
+    "vi": "lưỡng cư",
+    "exp": "Lưỡng cư là động vật có thể sống cả trên cạn và dưới nước (như ếch, nhái)."
+  },
+  "jungle": {
+    "vi": "rừng rậm nhiệt đới",
+    "exp": "Rừng rậm nhiệt đới là khu rừng có thảm thực vật dày đặc, thường ở vùng khí hậu nóng ẩm."
+  },
+  "desert": {
+    "vi": "sa mạc",
+    "exp": "Desert là một vùng đất rất khô cằn, có rất ít mưa và thực vật, thường có nhiều cát hoặc đá."
+  },
+  "savanna": {
+    "vi": "thảo nguyên (xa-van)",
+    "exp": "Xa-van là đồng cỏ nhiệt đới, có ít cây cối rải rác."
+  },
+  "tundra": {
+    "vi": "đài nguyên",
+    "exp": "Đài nguyên là vùng đất lạnh giá ở Bắc Cực, đất bị đóng băng vĩnh viễn."
+  },
+  "glacier": {
+    "vi": "sông băng",
+    "exp": "Glacier là một khối băng khổng lồ, di chuyển chậm trên đất liền."
+  },
+  "ecosystem": {
+    "vi": "hệ sinh thái",
+    "exp": "Ecosystem là một cộng đồng các sinh vật sống tương tác với nhau và với môi trường vật lý của chúng."
+  },
+  "environment": {
+    "vi": "môi trường",
+    "exp": "Environment là thế giới tự nhiên xung quanh chúng ta (không khí, nước, đất đai, cây cối)."
+  },
+  "nature": {
+    "vi": "tự nhiên, thiên nhiên",
+    "exp": "Nature là mọi thứ trong thế giới vật chất không do con người tạo ra (sông, núi, động vật)."
+  },
+  "wildlife": {
+    "vi": "động vật hoang dã",
+    "exp": "Động vật hoang dã là các loài động vật sống trong môi trường tự nhiên, không bị thuần hóa."
+  },
+  "root": {
+    "vi": "rễ cây",
+    "exp": "Rễ cây là bộ phận của cây, thường nằm dưới đất, dùng để hút nước và chất dinh dưỡng."
+  },
+  "branch": {
+    "vi": "cành cây",
+    "exp": "Cành cây là phần thân gỗ mọc ra từ thân cây chính."
+  },
+  "trunk": {
+    "vi": "thân cây",
+    "exp": "Thân cây là phần chính, thẳng đứng của cây, nâng đỡ cành và lá."
+  },
+  "bark": {
+    "vi": "vỏ cây",
+    "exp": "Vỏ cây là lớp bảo vệ bên ngoài thân cây và cành cây."
+  },
+  "seed": {
+    "vi": "hạt giống",
+    "exp": "Hạt giống là bộ phận của cây, có thể nảy mầm để phát triển thành cây mới."
+  },
+  "petal": {
+    "vi": "cánh hoa",
+    "exp": "Cánh hoa là bộ phận của bông hoa, thường có màu sắc rực rỡ để thu hút côn trùng."
+  },
+  "stem": {
+    "vi": "thân (cây, hoa)",
+    "exp": "Thân là bộ phận nâng đỡ lá, hoa và quả của cây (thường dùng cho cây nhỏ, thân thảo)."
+  },
+  "thorn": {
+    "vi": "gai",
+    "exp": "Gai là bộ phận nhọn, cứng mọc ra từ thân hoặc cành cây (như ở hoa hồng)."
+  },
+  "bush": {
+    "vi": "bụi rậm",
+    "exp": "Bụi rậm là một cây thân gỗ thấp, có nhiều cành mọc từ gần gốc."
+  },
+  "weed": {
+    "vi": "cỏ dại",
+    "exp": "Cỏ dại là loại cây mọc hoang, thường không mong muốn ở vườn hoặc đồng ruộng."
+  },
+  "landscape": {
+    "vi": "phong cảnh",
+    "exp": "Phong cảnh là tầm nhìn bao quát của một vùng đất, bao gồm các yếu tố tự nhiên."
+  },
+  "scenery": {
+    "vi": "cảnh vật",
+    "exp": "Cảnh vật là vẻ đẹp chung của một khung cảnh tự nhiên."
+  },
+  "continent": {
+    "vi": "lục địa",
+    "exp": "Continent là một khối đất liền rất lớn trên Trái Đất, ví dụ như Châu Á (Asia), Châu Âu (Europe)."
+  },
+  "pole": {
+    "vi": "cực (Trái Đất)",
+    "exp": "Cực là hai điểm (Bắc Cực và Nam Cực) trên trục quay của Trái Đất."
+  },
+  "equator": {
+    "vi": "xích đạo",
+    "exp": "Xích đạo là một đường tưởng tượng chia Trái Đất thành bán cầu Bắc và bán cầu Nam."
+  },
+  "tide": {
+    "vi": "thủy triều",
+    "exp": "Thủy triều là sự lên xuống của mực nước biển do lực hấp dẫn của Mặt Trăng và Mặt Trời."
+  },
+  "wave": {
+    "vi": "sóng",
+    "exp": "Sóng là sự chuyển động nhấp nhô của mặt nước, thường do gió tạo ra."
+  },
+  "current": {
+    "vi": "dòng chảy",
+    "exp": "Dòng chảy là sự chuyển động của nước (hoặc không khí) theo một hướng nhất định (như hải lưu)."
+  },
+  "atmosphere": {
+    "vi": "khí quyển",
+    "exp": "Atmosphere là lớp khí bao quanh một hành tinh, như không khí chúng ta hít thở."
+  },
+  "oxygen": {
+    "vi": "khí oxy",
+    "exp": "Oxy là một loại khí cần thiết cho sự hô hấp của hầu hết các sinh vật."
+  },
+  "carbon dioxide": {
+    "vi": "khí CO2",
+    "exp": "Khí CO2 (cacbon đioxit) là khí mà thực vật hấp thụ để quang hợp và con người thở ra."
+  },
+  "habitat": {
+    "vi": "môi trường sống",
+    "exp": "Habitat là khu vực tự nhiên nơi một loài sinh vật cụ thể sinh sống."
+  },
+  "species": {
+    "vi": "loài",
+    "exp": "Species là một nhóm các sinh vật có thể giao phối với nhau và sinh ra con cái có khả năng sinh sản."
+  },
+  "predator": {
+    "vi": "động vật ăn thịt",
+    "exp": "Động vật ăn thịt là loài vật săn bắt và ăn thịt các loài vật khác."
+  },
+  "prey": {
+    "vi": "con mồi",
+    "exp": "Con mồi là động vật bị loài khác săn bắt để làm thức ăn."
+  },
+  "creature": {
+    "vi": "sinh vật",
+    "exp": "Sinh vật là một từ chung để chỉ một động vật hoặc một thực thể sống."
+  },
+  "mineral": {
+    "vi": "khoáng vật",
+    "exp": "Mineral là một chất rắn, vô cơ, xuất hiện tự nhiên, có cấu trúc tinh thể và thành phần hóa học xác định."
+  },
+  "canyon": {
+    "vi": "hẻm núi",
+    "exp": "Hẻm núi là một thung lũng sâu, hẹp với các vách đá dốc đứng, thường do sông xói mòn."
+  },
+  "meadow": {
+    "vi": "đồng cỏ",
+    "exp": "Đồng cỏ là một bãi đất trống, bằng phẳng, chủ yếu mọc cỏ và hoa dại."
+  },
+  "swamp": {
+    "vi": "đầm lầy",
+    "exp": "Đầm lầy là vùng đất ngập nước, thường có nhiều cây cối mọc lên từ nước."
+  },
+  "pollution": {
+    "vi": "sự ô nhiễm",
+    "exp": "Pollution là tình trạng môi trường (không khí, nước) bị làm bẩn, độc hại."
+  },
+  "conservation": {
+    "vi": "sự bảo tồn",
+    "exp": "Bảo tồn là hành động bảo vệ thiên nhiên, môi trường và động vật hoang dã."
+  },
+  "climate change": {
+    "vi": "biến đổi khí hậu",
+    "exp": "Climate change là sự thay đổi lâu dài về nhiệt độ và các kiểu thời tiết trên Trái Đất."
+  },
+  "renewable energy": {
+    "vi": "năng lượng tái tạo",
+    "exp": "Năng lượng tái tạo là năng lượng từ các nguồn tự nhiên vô tận như mặt trời, gió."
+  },
+  "fossil fuel": {
+    "vi": "nhiên liệu hóa thạch",
+    "exp": "Nhiên liệu hóa thạch là nhiên liệu hình thành từ xác sinh vật cổ (như than đá, dầu mỏ)."
+  },
+  "people": {
+    "vi": "người, con người",
+    "exp": "People là từ chỉ (nhiều) người nói chung, hoặc một dân tộc."
+  },
+  "person": {
+    "vi": "một người",
+    "exp": "Person là số ít của 'people', chỉ một cá nhân cụ thể."
+  },
+  "man": {
+    "vi": "người đàn ông",
+    "exp": "Man là một người đàn ông trưởng thành."
+  },
+  "woman": {
+    "vi": "người phụ nữ",
+    "exp": "Woman là một người phụ nữ trưởng thành."
+  },
+  "boy": {
+    "vi": "cậu bé, chàng trai",
+    "exp": "Boy là một đứa trẻ hoặc thanh niên giới tính nam."
+  },
+  "girl": {
+    "vi": "cô bé, cô gái",
+    "exp": "Girl là một đứa trẻ hoặc thanh niên giới tính nữ."
+  },
+  "child": {
+    "vi": "đứa trẻ",
+    "exp": "Child là một người còn nhỏ tuổi, chưa đến tuổi dậy thì (số ít)."
+  },
+  "children": {
+    "vi": "trẻ em, bọn trẻ",
+    "exp": "Children là số nhiều của 'child', chỉ nhiều đứa trẻ."
+  },
+  "baby": {
+    "vi": "em bé (sơ sinh)",
+    "exp": "Baby là một đứa trẻ rất nhỏ, mới sinh hoặc vài tháng tuổi."
+  },
+  "teenager": {
+    "vi": "thanh thiếu niên",
+    "exp": "Teenager là người trong độ tuổi từ 13 đến 19 tuổi."
+  },
+  "adult": {
+    "vi": "người lớn, người trưởng thành",
+    "exp": "Adult là người đã phát triển đầy đủ, không còn là trẻ em hay thanh thiếu niên."
+  },
+  "family": {
+    "vi": "gia đình",
+    "exp": "Family là một nhóm người có quan hệ huyết thống hoặc hôn nhân, sống chung với nhau."
+  },
+  "parent": {
+    "vi": "bố hoặc mẹ",
+    "exp": "Parent là bố (father) hoặc mẹ (mother). 'Parents' (số nhiều) là cả bố và mẹ."
+  },
+  "mother": {
+    "vi": "mẹ",
+    "exp": "Mother (hoặc mom, mum) là người phụ nữ đã sinh ra bạn."
+  },
+  "father": {
+    "vi": "bố, cha",
+    "exp": "Father (hoặc dad, daddy) là người đàn ông (chồng của mẹ bạn)."
+  },
+  "son": {
+    "vi": "con trai",
+    "exp": "Son là con trai của bố mẹ."
+  },
+  "daughter": {
+    "vi": "con gái",
+    "exp": "Daughter là con gái của bố mẹ."
+  },
+  "brother": {
+    "vi": "anh trai, em trai",
+    "exp": "Brother là người con trai có cùng bố mẹ với bạn."
+  },
+  "sister": {
+    "vi": "chị gái, em gái",
+    "exp": "Sister là người con gái có cùng bố mẹ với bạn."
+  },
+  "sibling": {
+    "vi": "anh chị em ruột",
+    "exp": "Sibling là từ gọi chung cho anh trai, chị gái, em trai, em gái."
+  },
+  "grandfather": {
+    "vi": "ông (nội, ngoại)",
+    "exp": "Grandfather (hoặc grandpa) là bố của bố hoặc mẹ bạn."
+  },
+  "grandmother": {
+    "vi": "bà (nội, ngoại)",
+    "exp": "Grandmother (hoặc grandma) là mẹ của bố hoặc mẹ bạn."
+  },
+  "grandparent": {
+    "vi": "ông bà",
+    "exp": "Grandparent là ông hoặc bà. 'Grandparents' (số nhiều) là cả ông và bà."
+  },
+  "grandchild": {
+    "vi": "cháu (của ông bà)",
+    "exp": "Grandchild là con của con trai hoặc con gái bạn."
+  },
+  "uncle": {
+    "vi": "chú, bác, cậu",
+    "exp": "Uncle là anh hoặc em trai của bố/mẹ bạn, hoặc chồng của dì/cô bạn."
+  },
+  "aunt": {
+    "vi": "cô, dì, bác gái",
+    "exp": "Aunt là chị hoặc em gái của bố/mẹ bạn, hoặc vợ của chú/cậu bạn."
+  },
+  "cousin": {
+    "vi": "anh chị em họ",
+    "exp": "Cousin là con của chú, bác, cô, cậu, dì."
+  },
+  "nephew": {
+    "vi": "cháu trai (của cô/dì/chú/bác)",
+    "exp": "Nephew là con trai của anh/chị/em bạn."
+  },
+  "niece": {
+    "vi": "cháu gái (của cô/dì/chú/bác)",
+    "exp": "Niece là con gái của anh/chị/em bạn."
+  },
+  "husband": {
+    "vi": "người chồng",
+    "exp": "Husband là người đàn ông đã kết hôn."
+  },
+  "wife": {
+    "vi": "người vợ",
+    "exp": "Wife là người phụ nữ đã kết hôn."
+  },
+  "spouse": {
+    "vi": "vợ hoặc chồng",
+    "exp": "Spouse là từ gọi chung cho vợ hoặc chồng trong một cuộc hôn nhân."
+  },
+  "friend": {
+    "vi": "bạn bè",
+    "exp": "Friend là người bạn quý mến và tin tưởng, nhưng không phải người trong gia đình."
+  },
+  "neighbor": {
+    "vi": "hàng xóm",
+    "exp": "Neighbor là người sống ở nhà bên cạnh hoặc rất gần nhà bạn."
+  },
+  "stranger": {
+    "vi": "người lạ",
+    "exp": "Stranger là người mà bạn không quen biết."
+  },
+  "emotion": {
+    "vi": "cảm xúc",
+    "exp": "Emotion là một cảm giác mạnh mẽ như tình yêu, nỗi sợ hãi, hoặc sự tức giận."
+  },
+  "feeling": {
+    "vi": "cảm giác, cảm nhận",
+    "exp": "Feeling là một trạng thái cảm xúc hoặc phản ứng của cơ thể (ví dụ: cảm thấy đói)."
+  },
+  "happy": {
+    "vi": "hạnh phúc, vui vẻ",
+    "exp": "Happy là cảm giác vui sướng, hài lòng."
+  },
+  "sad": {
+    "vi": "buồn bã",
+    "exp": "Sad là cảm giác không vui, đau khổ hoặc thất vọng."
+  },
+  "angry": {
+    "vi": "tức giận, giận dữ",
+    "exp": "Angry là cảm giác rất bực bội, khó chịu với ai đó hoặc điều gì đó."
+  },
+  "surprised": {
+    "vi": "ngạc nhiên, bất ngờ",
+    "exp": "Surprised là cảm giác bất ngờ khi có điều gì đó không mong đợi xảy ra."
+  },
+  "scared": {
+    "vi": "sợ hãi",
+    "exp": "Scared (hoặc afraid) là cảm giác hoảng sợ khi gặp nguy hiểm hoặc điều gì đó đáng sợ."
+  },
+  "excited": {
+    "vi": "hào hứng, phấn khích",
+    "exp": "Excited là cảm giác rất vui vẻ, hăng hái chờ đợi một điều gì đó thú vị sắp xảy ra."
+  },
+  "nervous": {
+    "vi": "lo lắng, bồn chồn",
+    "exp": "Nervous là cảm giác lo lắng, hơi sợ hãi về điều gì đó sắp xảy ra (ví dụ: trước kỳ thi)."
+  },
+  "anxious": {
+    "vi": "lo âu, bất an",
+    "exp": "Anxious là cảm giác lo lắng, căng thẳng kéo dài, thường là lo về tương lai."
+  },
+  "worried": {
+    "vi": "lo lắng",
+    "exp": "Worried là cảm giác lo nghĩ về những vấn đề, rắc rối có thể xảy ra."
+  },
+  "calm": {
+    "vi": "bình tĩnh",
+    "exp": "Calm là trạng thái yên bình, không lo lắng, tức giận hay hào hứng."
+  },
+  "relaxed": {
+    "vi": "thư giãn, thoải mái",
+    "exp": "Relaxed là cảm giác thoải mái, dễ chịu, không căng thẳng về thể chất hay tinh thần."
+  },
+  "tired": {
+    "vi": "mệt mỏi",
+    "exp": "Tired là cảm giác cạn kiệt năng lượng, muốn nghỉ ngơi hoặc đi ngủ."
+  },
+  "sleepy": {
+    "vi": "buồn ngủ",
+    "exp": "Sleepy là cảm giác muốn ngủ, mắt lim dim."
+  },
+  "hungry": {
+    "vi": "đói bụng",
+    "exp": "Hungry là cảm giác cơ thể cần ăn; cũng dùng để chỉ nạn đói (hunger)."
+  },
+  "thirsty": {
+    "vi": "khát nước",
+    "exp": "Thirsty là cảm giác cơ thể cần uống nước."
+  },
+  "sick": {
+    "vi": "ốm, bệnh",
+    "exp": "Sick (hoặc ill) là trạng thái cơ thể không khỏe mạnh, bị bệnh."
+  },
+  "hot": {
+    "vi": "nóng",
+    "exp": "Hot là cảm giác nhiệt độ cơ thể cao, hoặc thời tiết nóng nực."
+  },
+  "cold": {
+    "vi": "lạnh",
+    "exp": "Cold là cảm giác nhiệt độ cơ thể thấp, hoặc thời tiết lạnh lẽo (cũng có nghĩa là bị cảm lạnh)."
+  },
+  "love": {
+    "vi": "tình yêu",
+    "exp": "Love là cảm giác yêu thương, quý mến sâu sắc dành cho ai đó (gia đình, bạn bè, người yêu)."
+  },
+  "hate": {
+    "vi": "ghét, căm ghét",
+    "exp": "Hate là cảm giác rất không thích, căm ghét ai đó hoặc điều gì đó."
+  },
+  "like": {
+    "vi": "thích",
+    "exp": "Like là cảm giác thấy điều gì đó dễ chịu, thú vị."
+  },
+  "dislike": {
+    "vi": "không thích",
+    "exp": "Dislike là cảm giác không thích điều gì đó, nhưng nhẹ hơn 'hate'."
+  },
+  "proud": {
+    "vi": "tự hào",
+    "exp": "Proud là cảm giác hài lòng, hãnh diện về thành tích của mình hoặc của người khác."
+  },
+  "ashamed": {
+    "vi": "xấu hổ, hổ thẹn",
+    "exp": "Ashamed là cảm giác xấu hổ vì đã làm điều gì đó sai trái hoặc ngu ngốc."
+  },
+  "embarrassed": {
+    "vi": "ngượng ngùng, lúng túng",
+    "exp": "Embarrassed là cảm giác ngượng, không thoải mái trước mặt người khác (ví dụ: khi bị vấp ngã)."
+  },
+  "shy": {
+    "vi": "nhút nhát, e thẹn",
+    "exp": "Shy là tính cách của người cảm thấy lo lắng, ngượng ngùng khi nói chuyện với người khác."
+  },
+  "confident": {
+    "vi": "tự tin",
+    "exp": "Confident là cảm giác tin tưởng vào khả năng của bản thân."
+  },
+  "confused": {
+    "vi": "bối rối, khó hiểu",
+    "exp": "Confused là trạng thái không thể suy nghĩ rõ ràng hoặc không hiểu chuyện gì đang xảy ra."
+  },
+  "bored": {
+    "vi": "chán nản",
+    "exp": "Bored là cảm giác chán vì không có gì thú vị để làm."
+  },
+  "interested": {
+    "vi": "quan tâm, hứng thú",
+    "exp": "Interested là cảm giác muốn tìm hiểu, khám phá thêm về điều gì đó."
+  },
+  "disappointed": {
+    "vi": "thất vọng",
+    "exp": "Disappointed là cảm giác buồn vì điều gì đó không xảy ra như mình mong đợi."
+  },
+  "satisfied": {
+    "vi": "hài lòng",
+    "exp": "Satisfied là cảm giác hài lòng, thỏa mãn khi đạt được điều mình muốn."
+  },
+  "jealous": {
+    "vi": "ghen tị, ghen tuông",
+    "exp": "Jealous là cảm giác khó chịu khi thấy người khác có thứ mình muốn (ghen tị), hoặc sợ mất người mình yêu vào tay người khác (ghen tuông)."
+  },
+  "lonely": {
+    "vi": "cô đơn",
+    "exp": "Lonely là cảm giác buồn bã vì không có bạn bè hoặc người thân bên cạnh."
+  },
+  "upset": {
+    "vi": "buồn bã, khó chịu",
+    "exp": "Upset là trạng thái không vui, lo lắng hoặc tức giận nhẹ."
+  },
+  "miserable": {
+    "vi": "khổ sở, bất hạnh",
+    "exp": "Miserable là cảm giác vô cùng buồn bã, bất hạnh."
+  },
+  "curious": {
+    "vi": "tò mò",
+    "exp": "Curious là tính cách muốn biết, muốn tìm hiểu về mọi thứ xung quanh."
+  },
+  "personality": {
+    "vi": "tính cách",
+    "exp": "Personality là tổng hợp các đặc điểm về suy nghĩ, cảm xúc, hành vi của một người."
+  },
+  "kind": {
+    "vi": "tốt bụng",
+    "exp": "Kind là người hay giúp đỡ, quan tâm đến người khác."
+  },
+  "nice": {
+    "vi": "tử tế, dễ chịu",
+    "exp": "Nice (hoặc pleasant) là người thân thiện, dễ mến."
+  },
+  "friendly": {
+    "vi": "thân thiện",
+    "exp": "Friendly là người cởi mở, dễ dàng kết bạn và nói chuyện với người khác."
+  },
+  "polite": {
+    "vi": "lịch sự",
+    "exp": "Polite là người cư xử đúng mực, tôn trọng người khác."
+  },
+  "rude": {
+    "vi": "thô lỗ",
+    "exp": "Rude là người cư xử thiếu tôn trọng, cộc lốc."
+  },
+  "honest": {
+    "vi": "trung thực",
+    "exp": "Honest là người luôn nói sự thật, không lừa dối."
+  },
+  "loyal": {
+    "vi": "trung thành",
+    "exp": "Loyal là người luôn ủng hộ, gắn bó với bạn bè, gia đình, hoặc đất nước."
+  },
+  "lazy": {
+    "vi": "lười biếng",
+    "exp": "Lazy là người không muốn làm việc, không muốn cố gắng."
+  },
+  "hard-working": {
+    "vi": "chăm chỉ",
+    "exp": "Hard-working là người luôn làm việc tích cực, nỗ lực."
+  },
+  "funny": {
+    "vi": "vui tính, hài hước",
+    "exp": "Funny là người hoặc sự vật làm người khác bật cười."
+  },
+  "serious": {
+    "vi": "nghiêm túc",
+    "exp": "Serious là người trầm tính, ít đùa cợt, hoặc chỉ một vấn đề quan trọng."
+  },
+  "generous": {
+    "vi": "hào phóng, rộng lượng",
+    "exp": "Generous là người sẵn sàng cho đi tiền bạc, thời gian để giúp đỡ người khác."
+  },
+  "mean": {
+    "vi": "keo kiệt, bủn xỉn",
+    "exp": "Mean là người không muốn chia sẻ, hoặc có ý xấu, đối xử tệ với người khác."
+  },
+  "brave": {
+    "vi": "dũng cảm",
+    "exp": "Brave (hoặc courageous) là người sẵn sàng đối mặt với nguy hiểm, khó khăn."
+  },
+  "coward": {
+    "vi": "kẻ hèn nhát",
+    "exp": "Coward là người quá sợ hãi, không dám đối mặt với nguy hiểm."
+  },
+  "patient": {
+    "vi": "kiên nhẫn",
+    "exp": "Patient là người có thể chờ đợi lâu hoặc chấp nhận khó khăn mà không tức giận."
+  },
+  "impatient": {
+    "vi": "thiếu kiên nhẫn, nóng nảy",
+    "exp": "Impatient là người dễ tức giận khi phải chờ đợi hoặc khi mọi thứ diễn ra chậm chạp."
+  },
+  "creative": {
+    "vi": "sáng tạo",
+    "exp": "Creative là người có nhiều ý tưởng mới, độc đáo."
+  },
+  "talkative": {
+    "vi": "nói nhiều",
+    "exp": "Talkative là người thích nói chuyện, nói rất nhiều."
+  },
+  "quiet": {
+    "vi": "trầm tính, ít nói",
+    "exp": "Quiet là người ít nói, hoặc chỉ sự yên tĩnh, không ồn ào."
+  },
+  "optimistic": {
+    "vi": "lạc quan",
+    "exp": "Optimistic là người luôn tin tưởng vào tương lai tốt đẹp, nhìn thấy mặt tích cực của vấn đề."
+  },
+  "pessimistic": {
+    "vi": "bi quan",
+    "exp": "Pessimistic là người luôn nghĩ đến điều xấu nhất, nhìn thấy mặt tiêu cực của vấn đề."
+  },
+  "cheerful": {
+    "vi": "vui vẻ, hớn hở",
+    "exp": "Cheerful là người luôn tỏ ra vui vẻ, hạnh phúc."
+  },
+  "grumpy": {
+    "vi": "cáu kỉnh, gắt gỏng",
+    "exp": "Grumpy là người hay phàn nàn, dễ cáu gắt, tâm trạng xấu."
+  },
+  "mood": {
+    "vi": "tâm trạng",
+    "exp": "Mood là cảm xúc của bạn tại một thời điểm nhất định (ví dụ: tâm trạng tốt/xấu)."
+  },
+  "city": {
+    "vi": "thành phố",
+    "exp": "City là một đô thị lớn, đông dân cư, quan trọng hơn thị trấn (town) hoặc làng (village)."
+  },
+  "country": {
+    "vi": "đất nước, quốc gia",
+    "exp": "Country là một vùng đất có chính phủ riêng, biên giới riêng (ví dụ: Việt Nam, Mỹ)."
+  },
+  "capital": {
+    "vi": "thủ đô",
+    "exp": "Capital là thành phố chính của một quốc gia hoặc một bang, nơi đặt trụ sở chính phủ."
+  },
+  "park": {
+    "vi": "công viên",
+    "exp": "Park là một khu vực cây xanh công cộng trong thành phố, dùng để giải trí và thư giãn."
+  },
+  "zoo": {
+    "vi": "sở thú",
+    "exp": "Zoo là nơi nuôi dưỡng và trưng bày nhiều loại động vật hoang dã từ khắp nơi trên thế giới cho công chúng xem."
+  },
+  "aquarium": {
+    "vi": "thủy cung",
+    "exp": "Aquarium là nơi trưng bày các loài cá và động vật sống dưới nước trong các bể kính lớn."
+  },
+  "monument": {
+    "vi": "đài tưởng niệm",
+    "exp": "Monument là một công trình kiến trúc được xây dựng để tưởng nhớ một người hoặc một sự kiện lịch sử quan trọng."
+  },
+  "statue": {
+    "vi": "bức tượng",
+    "exp": "Statue là hình ảnh người hoặc động vật được tạc bằng đá, đồng hoặc vật liệu cứng khác."
+  },
+  "castle": {
+    "vi": "lâu đài",
+    "exp": "Castle là một tòa nhà lớn, kiên cố, được xây dựng từ thời xưa để bảo vệ vua chúa hoặc quý tộc."
+  },
+  "palace": {
+    "vi": "cung điện",
+    "exp": "Palace là nơi ở chính thức, rất lộng lẫy của vua, nữ hoàng hoặc tổng thống."
+  },
+  "temple": {
+    "vi": "đền, chùa",
+    "exp": "Temple là công trình được xây dựng để thờ cúng thần linh (đền) hoặc thờ Phật (chùa)."
+  },
+  "church": {
+    "vi": "nhà thờ",
+    "exp": "Church là tòa nhà dành cho các nghi lễ của đạo Thiên Chúa."
+  },
+  "pagoda": {
+    "vi": "ngôi chùa",
+    "exp": "Pagoda là công trình tháp nhiều tầng, phổ biến trong kiến trúc Phật giáo ở châu Á."
+  },
+  "market": {
+    "vi": "chợ",
+    "exp": "Market là nơi công cộng (trong nhà hoặc ngoài trời) để mọi người mua bán hàng hóa, thực phẩm."
+  },
+  "travel": {
+    "vi": "du lịch, đi lại",
+    "exp": "Travel là hành động di chuyển từ nơi này đến nơi khác, thường là đến một nơi xa."
+  },
+  "trip": {
+    "vi": "chuyến đi",
+    "exp": "Trip là một hành trình đi đến một nơi nào đó và quay về, thường ngắn (ví dụ: chuyến đi công tác)."
+  },
+  "journey": {
+    "vi": "hành trình",
+    "exp": "Journey là hành động đi từ nơi này đến nơi khác, thường nhấn mạnh vào quá trình đi (ví dụ: hành trình dài)."
+  },
+  "tour": {
+    "vi": "chuyến du lịch (theo tour)",
+    "exp": "Tour là một chuyến đi có tổ chức, tham quan nhiều địa điểm theo lịch trình định sẵn, thường có hướng dẫn viên."
+  },
+  "explore": {
+    "vi": "khám phá",
+    "exp": "Explore là đi đến một nơi mới để tìm hiểu, khám phá những điều thú vị về nơi đó."
+  },
+  "visit": {
+    "vi": "thăm quan, viếng thăm",
+    "exp": "Visit là hành động đi đến một nơi hoặc thăm một người nào đó trong một khoảng thời gian ngắn."
+  },
+  "booking": {
+    "vi": "việc đặt chỗ",
+    "exp": "Booking (hoặc reservation) là hành động giữ trước phòng khách sạn, vé máy bay hoặc bàn nhà hàng."
+  },
+  "check-in": {
+    "vi": "làm thủ tục nhận phòng/lên máy bay",
+    "exp": "Check-in là hành động đăng ký khi bạn đến khách sạn hoặc sân bay."
+  },
+  "check-out": {
+    "vi": "làm thủ tục trả phòng",
+    "exp": "Check-out là hành động thanh toán và rời khỏi khách sạn khi kết thúc kỳ nghỉ."
+  },
+  "departure": {
+    "vi": "sự khởi hành",
+    "exp": "Departure là thời điểm máy bay, tàu hỏa hoặc xe buýt bắt đầu rời đi."
+  },
+  "arrival": {
+    "vi": "sự đến nơi",
+    "exp": "Arrival là thời điểm bạn đến nơi sau một chuyến đi."
+  },
+  "tourist": {
+    "vi": "khách du lịch",
+    "exp": "Tourist là người đi du lịch, tham quan các địa điểm để giải trí, thư giãn."
+  },
+  "traveler": {
+    "vi": "người đi du lịch (lữ khách)",
+    "exp": "Traveler là người thường xuyên di chuyển, đi lại nhiều nơi, có thể không chỉ để giải trí."
+  },
+  "guide": {
+    "vi": "hướng dẫn viên",
+    "exp": "Guide là người dẫn dắt, chỉ đường và giải thích cho khách du lịch về các địa điểm tham quan."
+  },
+  "reception": {
+    "vi": "quầy lễ tân",
+    "exp": "Reception là khu vực sảnh trong khách sạn hoặc văn phòng, nơi khách đến đăng ký hoặc hỏi thông tin."
+  },
+  "hotel": {
+    "vi": "khách sạn",
+    "exp": "Hotel là nơi cung cấp phòng ngủ và các dịch vụ khác cho khách du lịch với đầy đủ tiện nghi."
+  },
+  "hostel": {
+    "vi": "nhà nghỉ (giá rẻ)",
+    "exp": "Hostel là loại hình nhà nghỉ giá rẻ, thường cung cấp giường tầng trong phòng ngủ tập thể."
+  },
+  "resort": {
+    "vi": "khu nghỉ dưỡng",
+    "exp": "Resort là một khách sạn lớn, cao cấp, có nhiều tiện ích giải trí như hồ bơi, spa, bãi biển riêng."
+  },
+  "guesthouse": {
+    "vi": "nhà khách",
+    "exp": "Guesthouse là một ngôi nhà riêng cung cấp dịch vụ phòng nghỉ cho khách, nhỏ hơn khách sạn."
+  },
+  "apartment": {
+    "vi": "căn hộ",
+    "exp": "Apartment là một căn hộ có đủ phòng khách, bếp, phòng ngủ, thường được thuê ngắn hạn khi du lịch."
+  },
+  "camping": {
+    "vi": "cắm trại",
+    "exp": "Camping là hoạt động ngủ qua đêm ngoài trời, trong lều, thường ở công viên quốc gia hoặc rừng."
+  },
+  "room": {
+    "vi": "căn phòng",
+    "exp": "Room là phòng riêng trong khách sạn hoặc nhà nghỉ mà bạn trả tiền để ở."
+  },
+  "lobby": {
+    "vi": "sảnh chờ",
+    "exp": "Lobby là khu vực sảnh lớn, chung ở lối vào của khách sạn hoặc tòa nhà."
+  },
+  "key": {
+    "vi": "chìa khóa",
+    "exp": "Key là vật dụng (chìa khóa cơ hoặc thẻ từ) dùng để mở cửa phòng khách sạn."
+  },
+  "luggage": {
+    "vi": "hành lý (nói chung)",
+    "exp": "Luggage là từ dùng để chỉ chung các loại vali, túi xách bạn mang theo khi đi du lịch."
+  },
+  "suitcase": {
+    "vi": "va-li",
+    "exp": "Suitcase là một chiếc va-li hình chữ nhật, có bánh xe, dùng để đựng quần áo khi đi du lịch."
+  },
+  "transportation": {
+    "vi": "phương tiện giao thông",
+    "exp": "Transportation là các phương tiện hoặc hệ thống dùng để di chuyển người và hàng hóa (xe, tàu, máy bay)."
+  },
+  "vehicle": {
+    "vi": "phương tiện (xe cộ)",
+    "exp": "Vehicle là một cỗ máy (như ô tô, xe tải) dùng để di chuyển trên đất liền."
+  },
+  "airport": {
+    "vi": "sân bay",
+    "exp": "Airport là nơi máy bay cất cánh và hạ cánh, có các nhà ga để hành khách làm thủ tục."
+  },
+  "flight": {
+    "vi": "chuyến bay",
+    "exp": "Flight là hành trình di chuyển bằng máy bay từ sân bay này đến sân bay khác."
+  },
+  "airplane": {
+    "vi": "máy bay",
+    "exp": "Airplane (hoặc plane) là phương tiện bay trên trời, dùng để chở hành khách đi xa."
+  },
+  "gate": {
+    "vi": "cổng (lên máy bay)",
+    "exp": "Gate là cửa ra máy bay tại sân bay, nơi hành khách đợi trước khi lên máy bay."
+  },
+  "passport": {
+    "vi": "hộ chiếu",
+    "exp": "Passport là sổ thông hành do chính phủ cấp, xác nhận danh tính và quốc tịch để đi ra nước ngoài."
+  },
+  "visa": {
+    "vi": "thị thực",
+    "exp": "Visa là con dấu hoặc giấy tờ dán vào hộ chiếu, cho phép bạn nhập cảnh vào một quốc gia khác."
+  },
+  "boarding pass": {
+    "vi": "thẻ lên máy bay",
+    "exp": "Boarding pass là thẻ được cấp sau khi check-in, cho biết số ghế và cổng ra máy bay của bạn."
+  },
+  "train": {
+    "vi": "tàu hỏa (xe lửa)",
+    "exp": "Train là phương tiện di chuyển trên đường ray, chở nhiều hành khách hoặc hàng hóa."
+  },
+  "station": {
+    "vi": "nhà ga",
+    "exp": "Station (hoặc train station) là nơi tàu hỏa dừng lại để đón và trả khách."
+  },
+  "bus": {
+    "vi": "xe buýt",
+    "exp": "Bus là loại xe lớn, chở nhiều hành khách công cộng theo tuyến đường cố định trong thành phố hoặc liên tỉnh."
+  },
+  "bus stop": {
+    "vi": "trạm dừng xe buýt",
+    "exp": "Bus stop là điểm dừng được đánh dấu trên đường, nơi xe buýt dừng lại đón/trả khách."
+  },
+  "car": {
+    "vi": "xe ô tô",
+    "exp": "Car là phương tiện cá nhân 4 bánh, dùng động cơ, chở một số ít người."
+  },
+  "taxi": {
+    "vi": "xe tắc-xi",
+    "exp": "Taxi là xe ô tô chở khách có tài xế, bạn trả tiền dựa trên quãng đường di chuyển."
+  },
+  "subway": {
+    "vi": "tàu điện ngầm",
+    "exp": "Subway (hoặc underground) là hệ thống tàu điện di chuyển dưới lòng đất trong các thành phố lớn."
+  },
+  "motorcycle": {
+    "vi": "xe máy",
+    "exp": "Motorcycle (hoặc motorbike) là phương tiện 2 bánh có động cơ, rất phổ biến ở Việt Nam."
+  },
+  "boat": {
+    "vi": "thuyền",
+    "exp": "Boat là phương tiện di chuyển trên mặt nước, thường nhỏ hơn tàu (ship), dùng ở sông hồ hoặc gần bờ biển."
+  },
+  "ship": {
+    "vi": "tàu (tàu thủy)",
+    "exp": "Ship là phương tiện lớn di chuyển trên biển, chở khách hoặc hàng hóa đi xa, ví dụ tàu du lịch."
+  },
+  "port": {
+    "vi": "cảng",
+    "exp": "Port (hoặc harbor) là nơi tàu thuyền neo đậu, bốc dỡ hàng hóa hoặc đón/trả khách."
+  },
+  "cruise": {
+    "vi": "du thuyền (chuyến đi)",
+    "exp": "Cruise là chuyến du lịch nghỉ dưỡng trên một chiếc tàu thủy lớn, sang trọng, có ghé thăm nhiều cảng."
+  },
+  "map": {
+    "vi": "bản đồ",
+    "exp": "Map là hình ảnh vẽ lại một khu vực (thành phố, đất nước) để chỉ đường hoặc vị trí."
+  },
+  "camera": {
+    "vi": "máy ảnh",
+    "exp": "Camera là thiết bị dùng để chụp ảnh hoặc quay video, ghi lại kỷ niệm chuyến đi."
+  },
+  "souvenir": {
+    "vi": "quà lưu niệm",
+    "exp": "Souvenir là vật phẩm bạn mua để làm kỷ niệm về nơi mình đã đến thăm."
+  },
+  "money": {
+    "vi": "tiền bạc",
+    "exp": "Money là thứ (tiền giấy, xu) được dùng để mua bán, trao đổi hàng hóa."
+  },
+  "currency": {
+    "vi": "tiền tệ",
+    "exp": "Currency là đơn vị tiền tệ chính thức của một quốc gia, ví dụ: Việt Nam Đồng (VND), Đô la Mỹ (USD)."
+  },
+  "north": {
+    "vi": "phía bắc",
+    "exp": "North là một trong bốn phương hướng chính, ngược với phía nam (south)."
+  },
+  "south": {
+    "vi": "phía nam",
+    "exp": "South là một trong bốn phương hướng chính, ngược với phía bắc (north)."
+  },
+  "east": {
+    "vi": "phía đông",
+    "exp": "East là phương hướng mặt trời mọc, ngược với phía tây (west)."
+  },
+  "west": {
+    "vi": "phía tây",
+    "exp": "West là phương hướng mặt trời lặn, ngược với phía đông (east)."
+  },
+  "compass": {
+    "vi": "la bàn",
+    "exp": "Compass là dụng cụ có kim luôn chỉ về hướng Bắc, dùng để xác định phương hướng."
+  },
+  "direction": {
+    "vi": "phương hướng",
+    "exp": "Direction là hướng đi (Bắc, Nam, Đông, Tây) hoặc lời chỉ dẫn đường đi."
+  },
+  "sightseeing": {
+    "vi": "việc tham quan, ngắm cảnh",
+    "exp": "Sightseeing là hoạt động đi thăm các địa điểm nổi tiếng, di tích lịch sử khi đi du lịch."
+  },
+  "adventure": {
+    "vi": "chuyến phiêu lưu, mạo hiểm",
+    "exp": "Adventure là một trải nghiệm thú vị, táo bạo, đôi khi nguy hiểm, ví dụ như leo núi, khám phá hang động."
+  },
+  "hiking": {
+    "vi": "đi bộ đường dài (leo núi)",
+    "exp": "Hiking là hoạt động đi bộ đường dài ở vùng nông thôn hoặc núi non để rèn luyện sức khỏe, thư giãn."
+  },
+  "swimming": {
+    "vi": "việc bơi lội",
+    "exp": "Swimming là hoạt động di chuyển cơ thể trong nước, thường ở hồ bơi hoặc bãi biển."
+  },
+  "surfing": {
+    "vi": "lướt sóng",
+    "exp": "Surfing là môn thể thao đứng trên ván và lướt theo các con sóng biển."
+  },
+  "skiing": {
+    "vi": "trượt tuyết",
+    "exp": "Skiing là môn thể thao trượt trên tuyết bằng ván trượt dài (ski)."
+  },
+  "international": {
+    "vi": "quốc tế",
+    "exp": "International có nghĩa là liên quan đến nhiều quốc gia, ví dụ: chuyến bay quốc tế (đi nước ngoài)."
+  },
+  "domestic": {
+    "vi": "nội địa, trong nước",
+    "exp": "Domestic có nghĩa là chỉ xảy ra bên trong một quốc gia, ví dụ: chuyến bay nội địa (Hà Nội - Sài Gòn)."
+  },
+  "abroad": {
+    "vi": "ở nước ngoài",
+    "exp": "Abroad là trạng từ, có nghĩa là ở hoặc đi đến một quốc gia khác (ví dụ: study abroad - du học)."
+  },
+  "local": {
+    "vi": "địa phương",
+    "exp": "Local có nghĩa là thuộc về khu vực, địa phương nơi bạn đang ở (ví dụ: local food - món ăn địa phương)."
+  },
+  "restaurant": {
+    "vi": "nhà hàng",
+    "exp": "Restaurant là nơi kinh doanh, phục vụ đồ ăn và thức uống cho khách hàng tại bàn."
+  },
+  "cafe": {
+    "vi": "quán cà phê",
+    "exp": "Cafe (hoặc coffee shop) là nơi phục vụ cà phê, đồ uống nhẹ và đôi khi là đồ ăn nhẹ hoặc bánh ngọt."
+  },
+  "backpack": {
+    "vi": "ba lô",
+    "exp": "Backpack là loại túi lớn, có hai quai, dùng để đeo trên lưng, thường dùng khi đi bộ đường dài hoặc du lịch bụi."
+  },
+  "guidebook": {
+    "vi": "sách hướng dẫn du lịch",
+    "exp": "Guidebook là cuốn sách chứa thông tin chi tiết về một địa điểm (khách sạn, nhà hàng, điểm tham quan) cho khách du lịch."
+  },
+  "force": {
+    "vi": "lực",
+    "exp": "Force là một tác động đẩy hoặc kéo lên một vật thể, làm thay đổi chuyển động của nó."
+  },
+  "gravity": {
+    "vi": "trọng lực",
+    "exp": "Gravity là lực hấp dẫn kéo các vật thể có khối lượng về phía nhau, ví dụ như Trái Đất kéo chúng ta xuống."
+  },
+  "energy": {
+    "vi": "năng lượng",
+    "exp": "Energy là khả năng thực hiện công hoặc gây ra sự thay đổi, tồn tại ở nhiều dạng như nhiệt, ánh sáng, điện."
+  },
+  "velocity": {
+    "vi": "vận tốc",
+    "exp": "Velocity là tốc độ di chuyển của một vật thể theo một hướng cụ thể."
+  },
+  "acceleration": {
+    "vi": "gia tốc",
+    "exp": "Acceleration là tốc độ thay đổi của vận tốc theo thời gian."
+  },
+  "mass": {
+    "vi": "khối lượng",
+    "exp": "Mass là lượng vật chất chứa trong một vật thể, thường được đo bằng kilogram."
+  },
+  "weight": {
+    "vi": "trọng lượng",
+    "exp": "Weight là lực hấp dẫn tác dụng lên khối lượng của một vật thể."
+  },
+  "friction": {
+    "vi": "ma sát",
+    "exp": "Friction là lực cản xuất hiện khi hai bề mặt trượt lên nhau."
+  },
+  "momentum": {
+    "vi": "động lượng",
+    "exp": "Momentum là tích của khối lượng và vận tốc của một vật thể."
+  },
+  "atom": {
+    "vi": "nguyên tử",
+    "exp": "Atom là đơn vị cơ bản của vật chất, bao gồm hạt nhân (proton, neutron) và electron."
+  },
+  "molecule": {
+    "vi": "phân tử",
+    "exp": "Molecule là một nhóm gồm hai hoặc nhiều nguyên tử liên kết hóa học với nhau."
+  },
+  "electron": {
+    "vi": "electron",
+    "exp": "Electron là một hạt hạ nguyên tử mang điện tích âm, quay quanh hạt nhân."
+  },
+  "proton": {
+    "vi": "proton",
+    "exp": "Proton là một hạt hạ nguyên tử mang điện tích dương, nằm trong hạt nhân."
+  },
+  "neutron": {
+    "vi": "neutron",
+    "exp": "Neutron là một hạt hạ nguyên tử không mang điện (trung hòa), nằm trong hạt nhân."
+  },
+  "nucleus": {
+    "vi": "hạt nhân (nguyên tử)",
+    "exp": "Nucleus là trung tâm của nguyên tử, chứa proton và neutron."
+  },
+  "quantum": {
+    "vi": "lượng tử",
+    "exp": "Quantum là lượng năng lượng rời rạc, nhỏ nhất mà vật lý có thể tồn tại."
+  },
+  "relativity": {
+    "vi": "thuyết tương đối",
+    "exp": "Relativity là lý thuyết của Einstein mô tả mối quan hệ giữa không gian, thời gian, trọng lực."
+  },
+  "thermodynamics": {
+    "vi": "nhiệt động lực học",
+    "exp": "Thermodynamics là nhánh vật lý học nghiên cứu về nhiệt, công và năng lượng."
+  },
+  "magnetism": {
+    "vi": "từ tính",
+    "exp": "Magnetism là hiện tượng vật lý được tạo ra bởi sự chuyển động của điện tích, gây ra lực hút hoặc đẩy."
+  },
+  "electricity": {
+    "vi": "điện",
+    "exp": "Electricity là một dạng năng lượng phát sinh từ sự tồn tại và chuyển động của các hạt điện tích."
+  },
+  "element": {
+    "vi": "nguyên tố",
+    "exp": "Element là một chất tinh khiết chỉ bao gồm các nguyên tử có cùng số proton, ví dụ như Sắt (Fe), Oxy (O)."
+  },
+  "compound": {
+    "vi": "hợp chất",
+    "exp": "Compound là một chất được tạo thành khi hai hoặc nhiều nguyên tố khác nhau liên kết hóa học với nhau, ví dụ như Nước (H2O)."
+  },
+  "mixture": {
+    "vi": "hỗn hợp",
+    "exp": "Mixture là sự kết hợp vật lý của hai hay nhiều chất mà không có liên kết hóa học, ví dụ như không khí."
+  },
+  "reaction": {
+    "vi": "phản ứng (hóa học)",
+    "exp": "Reaction là quá trình dẫn đến sự biến đổi hóa học của một bộ các chất thành một bộ các chất khác."
+  },
+  "acid": {
+    "vi": "axit",
+    "exp": "Acid là một chất hóa học có vị chua, có thể hòa tan kim loại và có độ pH nhỏ hơn 7."
+  },
+  "base": {
+    "vi": "bazơ",
+    "exp": "Base là một chất hóa học có vị đắng, trơn, và có độ pH lớn hơn 7."
+  },
+  "pH": {
+    "vi": "độ pH",
+    "exp": "pH là một thang đo để xác định tính axit hay bazơ của một dung dịch."
+  },
+  "catalyst": {
+    "vi": "chất xúc tác",
+    "exp": "Catalyst là chất làm tăng tốc độ phản ứng hóa học mà không bị tiêu hao trong quá trình đó."
+  },
+  "enzyme": {
+    "vi": "enzyme",
+    "exp": "Enzyme là một chất xúc tác sinh học, thường là protein, giúp tăng tốc các phản ứng hóa học trong cơ thể sống."
+  },
+  "polymer": {
+    "vi": "polymer",
+    "exp": "Polymer là một phân tử lớn được tạo thành từ các đơn vị lặp lại (monomer) liên kết với nhau, ví dụ như nhựa."
+  },
+  "isotope": {
+    "vi": "đồng vị",
+    "exp": "Isotope là các dạng của cùng một nguyên tố, có cùng số proton nhưng khác nhau về số neutron."
+  },
+  "ion": {
+    "vi": "ion",
+    "exp": "Ion là một nguyên tử hoặc phân tử bị mất hoặc nhận thêm electron, khiến nó mang điện tích."
+  },
+  "covalent bond": {
+    "vi": "liên kết cộng hóa trị",
+    "exp": "Covalent bond là liên kết hóa học được hình thành bằng cách chia sẻ các cặp electron giữa các nguyên tử."
+  },
+  "ionic bond": {
+    "vi": "liên kết ion",
+    "exp": "Ionic bond là liên kết hóa học được hình thành do lực hút tĩnh điện giữa các ion mang điện tích trái dấu."
+  },
+  "oxidation": {
+    "vi": "sự oxy hóa",
+    "exp": "Oxidation là quá trình mất electron của một chất trong phản ứng hóa học."
+  },
+  "reduction": {
+    "vi": "sự khử",
+    "exp": "Reduction là quá trình nhận electron của một chất trong phản ứng hóa học."
+  },
+  "periodic table": {
+    "vi": "bảng tuần hoàn",
+    "exp": "Periodic table là bảng sắp xếp các nguyên tố hóa học theo số hiệu nguyên tử và tính chất."
+  },
+  "solution": {
+    "vi": "giải pháp",
+    "exp": "Solution là cách thức để giải quyết một vấn đề (problem) hoặc một câu hỏi khó."
+  },
+  "solvent": {
+    "vi": "dung môi",
+    "exp": "Solvent là chất lỏng có khả năng hòa tan chất tan để tạo thành dung dịch, ví dụ như nước."
+  },
+  "cell": {
+    "vi": "tế bào",
+    "exp": "Cell là đơn vị cấu trúc và chức năng cơ bản của mọi sinh vật sống."
+  },
+  "DNA": {
+    "vi": "DNA",
+    "exp": "DNA (Axit Deoxyribonucleic) là phân tử mang thông tin di truyền để sinh vật phát triển và hoạt động."
+  },
+  "gene": {
+    "vi": "gen",
+    "exp": "Gene là một đoạn của DNA, quy định một tính trạng cụ thể, như màu mắt hoặc nhóm máu."
+  },
+  "chromosome": {
+    "vi": "nhiễm sắc thể",
+    "exp": "Chromosome là cấu trúc giống như sợi, nằm trong tế bào, chứa DNA và protein."
+  },
+  "evolution": {
+    "vi": "tiến hóa",
+    "exp": "Evolution là quá trình thay đổi đặc điểm di truyền của quần thể sinh vật qua nhiều thế hệ."
+  },
+  "photosynthesis": {
+    "vi": "quang hợp",
+    "exp": "Photosynthesis là quá trình thực vật sử dụng ánh sáng mặt trời, nước và CO2 để tạo ra thức ăn (glucose) và oxy."
+  },
+  "respiration": {
+    "vi": "hô hấp",
+    "exp": "Respiration là quá trình sinh vật lấy oxy và giải phóng CO2 để tạo ra năng lượng từ thức ăn."
+  },
+  "metabolism": {
+    "vi": "trao đổi chất",
+    "exp": "Metabolism là tất cả các phản ứng hóa học xảy ra bên trong cơ thể sống để duy trì sự sống."
+  },
+  "virus": {
+    "vi": "virus",
+    "exp": "Virus là một tác nhân truyền nhiễm siêu nhỏ, chỉ có thể nhân lên bên trong tế bào sống của sinh vật khác."
+  },
+  "bacteria": {
+    "vi": "vi khuẩn",
+    "exp": "Bacteria là các vi sinh vật đơn bào, một số có lợi và một số gây bệnh."
+  },
+  "fungus": {
+    "vi": "nấm",
+    "exp": "Fungus là một nhóm sinh vật như nấm men, nấm mốc và nấm (cây nấm), chúng phân hủy chất hữu cơ."
+  },
+  "protein": {
+    "vi": "protein (chất đạm)",
+    "exp": "Protein là các phân tử lớn cần thiết cho cấu trúc, chức năng và điều hòa của các mô và cơ quan trong cơ thể."
+  },
+  "carbohydrate": {
+    "vi": "carbohydrate (chất đường bột)",
+    "exp": "Carbohydrate là nguồn cung cấp năng lượng chính cho cơ thể, có trong đường, tinh bột và chất xơ."
+  },
+  "lipid": {
+    "vi": "lipid (chất béo)",
+    "exp": "Lipid là nhóm chất hữu cơ bao gồm chất béo và dầu, dùng để dự trữ năng lượng và xây dựng màng tế bào."
+  },
+  "nucleus (bio)": {
+    "vi": "nhân tế bào",
+    "exp": "Nucleus (trong sinh học) là bào quan chứa vật chất di truyền (DNA) của tế bào."
+  },
+  "mitochondria": {
+    "vi": "ty thể",
+    "exp": "Mitochondria là bào quan được gọi là 'nhà máy năng lượng' của tế bào, nơi diễn ra hô hấp tế bào."
+  },
+  "organism": {
+    "vi": "sinh vật",
+    "exp": "Organism là một cá thể sống hoàn chỉnh, ví dụ như động vật, thực vật, hoặc vi khuẩn."
+  },
+  "galaxy": {
+    "vi": "thiên hà",
+    "exp": "Galaxy là một hệ thống khổng lồ chứa hàng tỷ ngôi sao, cùng với khí, bụi và vật chất tối. Chúng ta ở trong Dải Ngân Hà."
+  },
+  "universe": {
+    "vi": "vũ trụ",
+    "exp": "Universe là tất cả không gian, thời gian và mọi thứ tồn tại trong đó, bao gồm các thiên hà, ngôi sao và hành tinh."
+  },
+  "solar system": {
+    "vi": "hệ mặt trời",
+    "exp": "Solar system là hệ thống bao gồm Mặt Trời và tất cả các thiên thể quay quanh nó (hành tinh, mặt trăng, tiểu hành tinh)."
+  },
+  "asteroid": {
+    "vi": "tiểu hành tinh",
+    "exp": "Asteroid là một tảng đá nhỏ trong không gian, chủ yếu quay quanh Mặt Trời giữa sao Hỏa và sao Mộc."
+  },
+  "comet": {
+    "vi": "sao chổi",
+    "exp": "Comet là một thiên thể băng giá quay quanh Mặt Trời, khi đến gần Mặt Trời, nó bốc hơi và tạo ra một cái đuôi."
+  },
+  "meteor": {
+    "vi": "sao băng",
+    "exp": "Meteor là vệt sáng bạn nhìn thấy khi một thiên thạch (mảnh đá nhỏ) bốc cháy lúc đi vào bầu khí quyển Trái Đất."
+  },
+  "black hole": {
+    "vi": "hố đen",
+    "exp": "Black hole là một vùng trong không gian có lực hấp dẫn mạnh đến mức không gì, kể cả ánh sáng, có thể thoát ra được."
+  },
+  "nebula": {
+    "vi": "tinh vân",
+    "exp": "Nebula là một đám mây khổng lồ gồm khí và bụi trong không gian, thường là nơi các ngôi sao mới được hình thành."
+  },
+  "constellation": {
+    "vi": "chòm sao",
+    "exp": "Constellation là một nhóm các ngôi sao trên bầu trời tạo thành một hình dạng hoặc hoa văn tưởng tượng, ví dụ như chòm Đại Hùng."
+  },
+  "telescope": {
+    "vi": "kính thiên văn",
+    "exp": "Telescope là một dụng cụ quang học giúp quan sát các vật thể ở xa bằng cách thu thập ánh sáng."
+  },
+  "orbit": {
+    "vi": "quỹ đạo",
+    "exp": "Orbit là đường đi cong của một vật thể (như hành tinh hoặc vệ tinh) xung quanh một vật thể khác do lực hấp dẫn."
+  },
+  "satellite": {
+    "vi": "vệ tinh",
+    "exp": "Satellite là một vật thể quay quanh một vật thể lớn hơn. Mặt Trăng là vệ tinh tự nhiên, cũng có vệ tinh nhân tạo."
+  },
+  "light-year": {
+    "vi": "năm ánh sáng",
+    "exp": "Light-year là đơn vị đo khoảng cách, là quãng đường ánh sáng đi được trong một năm."
+  },
+  "supernova": {
+    "vi": "siêu tân tinh",
+    "exp": "Supernova là một vụ nổ sao khổng lồ và cực kỳ sáng, xảy ra khi một ngôi sao lớn kết thúc vòng đời của nó."
+  },
+  "eclipse": {
+    "vi": "thiên thực",
+    "exp": "Eclipse (nhật thực hoặc nguyệt thực) xảy ra khi một thiên thể bị che khuất bởi một thiên thể khác."
+  },
+  "astronomy": {
+    "vi": "thiên văn học",
+    "exp": "Astronomy là ngành khoa học nghiên cứu về các ngôi sao, hành tinh, thiên hà và vũ trụ."
+  },
+  "astronaut": {
+    "vi": "phi hành gia",
+    "exp": "Astronaut là người được huấn luyện để du hành vào không gian vũ trụ."
+  },
+  "cosmology": {
+    "vi": "vũ trụ học",
+    "exp": "Cosmology là ngành khoa học nghiên cứu về nguồn gốc, sự tiến hóa và cấu trúc của vũ trụ."
+  },
+  "fossil": {
+    "vi": "hóa thạch",
+    "exp": "Fossil là dấu vết hoặc phần còn lại của sinh vật cổ đại (như xương, vỏ) được bảo tồn trong đá."
+  },
+  "magma": {
+    "vi": "magma",
+    "exp": "Magma là đá nóng chảy hoặc bán nóng chảy, nằm bên dưới bề mặt Trái Đất."
+  },
+  "lava": {
+    "vi": "dung nham",
+    "exp": "Lava là magma (đá nóng chảy) đã phun trào lên bề mặt Trái Đất."
+  },
+  "tectonic plate": {
+    "vi": "mảng kiến tạo",
+    "exp": "Tectonic plate là những mảng lớn, cứng của vỏ Trái Đất, trôi nổi trên lớp manti nóng chảy bên dưới."
+  },
+  "erosion": {
+    "vi": "xói mòn",
+    "exp": "Erosion là quá trình đất đá bị bào mòn và di chuyển đi nơi khác bởi gió, nước hoặc băng."
+  },
+  "sediment": {
+    "vi": "trầm tích",
+    "exp": "Sediment là vật liệu (như cát, bùn, sỏi) bị xói mòn và lắng đọng lại, thường là ở đáy sông hồ."
+  },
+  "crust": {
+    "vi": "vỏ (Trái Đất)",
+    "exp": "Crust là lớp đá mỏng, cứng, ngoài cùng của Trái Đất mà chúng ta sinh sống trên đó."
+  },
+  "mantle": {
+    "vi": "lớp manti",
+    "exp": "Mantle là lớp đá dày, nóng, nằm giữa vỏ Trái Đất và lõi Trái Đất."
+  },
+  "core": {
+    "vi": "lõi (Trái Đất)",
+    "exp": "Core là phần trung tâm, nóng nhất của Trái Đất, bao gồm lõi ngoài lỏng và lõi trong rắn."
+  },
+  "geology": {
+    "vi": "địa chất học",
+    "exp": "Geology là ngành khoa học nghiên cứu về Trái Đất, cấu tạo, vật liệu và các quá trình của nó."
+  },
+  "paleontology": {
+    "vi": "cổ sinh vật học",
+    "exp": "Paleontology là ngành khoa học nghiên cứu về lịch sử sự sống trên Trái Đất thông qua hóa thạch."
+  },
+  "seismology": {
+    "vi": "địa chấn học",
+    "exp": "Seismology là ngành khoa học nghiên cứu về động đất và sự lan truyền của sóng địa chấn."
+  },
+  "circle": {
+    "vi": "hình tròn",
+    "exp": "Hình tròn là một hình 2D hoàn toàn tròn, giống như đồng xu."
+  },
+  "square": {
+    "vi": "hình vuông",
+    "exp": "Hình vuông là hình 2D có bốn cạnh bằng nhau và bốn góc vuông."
+  },
+  "triangle": {
+    "vi": "hình tam giác",
+    "exp": "Hình tam giác là hình 2D có ba cạnh và ba góc."
+  },
+  "rectangle": {
+    "vi": "hình chữ nhật",
+    "exp": "Hình chữ nhật là hình 2D có bốn cạnh, với các cạnh đối diện bằng nhau và bốn góc vuông."
+  },
+  "oval": {
+    "vi": "hình bầu dục",
+    "exp": "Hình bầu dục là hình 2D trông giống quả trứng hoặc hình tròn bị kéo dẹt."
+  },
+  "heart": {
+    "vi": "hình trái tim",
+    "exp": "Hình trái tim là biểu tượng của tình yêu, có hai đường cong ở trên và một điểm nhọn ở dưới."
+  },
+  "diamond": {
+    "vi": "hình thoi",
+    "exp": "Hình thoi (hoặc hình kim cương) là hình 2D có bốn cạnh bằng nhau, giống như quân bài rô."
+  },
+  "pentagon": {
+    "vi": "hình ngũ giác",
+    "exp": "Hình ngũ giác là hình 2D có năm cạnh và năm góc."
+  },
+  "hexagon": {
+    "vi": "hình lục giác",
+    "exp": "Hình lục giác là hình 2D có sáu cạnh và sáu góc, giống như tổ ong."
+  },
+  "heptagon": {
+    "vi": "hình thất giác",
+    "exp": "Hình thất giác là hình 2D có bảy cạnh và bảy góc."
+  },
+  "octagon": {
+    "vi": "hình bát giác",
+    "exp": "Hình bát giác là hình 2D có tám cạnh và tám góc, giống như biển báo 'Stop'."
+  },
+  "nonagon": {
+    "vi": "hình cửu giác",
+    "exp": "Hình cửu giác là hình 2D có chín cạnh và chín góc."
+  },
+  "decagon": {
+    "vi": "hình thập giác",
+    "exp": "Hình thập giác là hình 2D có mười cạnh và mười góc."
+  },
+  "crescent": {
+    "vi": "hình lưỡi liềm",
+    "exp": "Hình lưỡi liềm là hình cong có hai điểm nhọn, giống như mặt trăng khuyết."
+  },
+  "cross": {
+    "vi": "hình chữ thập",
+    "exp": "Hình chữ thập được tạo bởi hai đường thẳng cắt nhau, thường là ở góc vuông, giống như dấu cộng."
+  },
+  "polygon": {
+    "vi": "hình đa giác",
+    "exp": "Đa giác là một hình 2D khép kín được tạo bởi các đường thẳng, ví dụ như tam giác, vuông."
+  },
+  "quadrilateral": {
+    "vi": "hình tứ giác",
+    "exp": "Hình tứ giác là bất kỳ hình 2D nào có bốn cạnh và bốn góc."
+  },
+  "parallelogram": {
+    "vi": "hình bình hành",
+    "exp": "Hình bình hành là hình tứ giác có hai cặp cạnh đối diện song song và bằng nhau."
+  },
+  "trapezoid": {
+    "vi": "hình thang",
+    "exp": "Hình thang là hình tứ giác chỉ có một cặp cạnh đối diện song song."
+  },
+  "kite": {
+    "vi": "hình diều",
+    "exp": "Hình diều là hình tứ giác có hai cặp cạnh kề bằng nhau, giống như con diều."
+  },
+  "semicircle": {
+    "vi": "hình bán nguyệt",
+    "exp": "Hình bán nguyệt là một nửa của hình tròn, được chia bởi một đường kính."
+  },
+  "equilateral triangle": {
+    "vi": "tam giác đều",
+    "exp": "Tam giác đều là tam giác có cả ba cạnh bằng nhau và ba góc bằng nhau (đều 60 độ)."
+  },
+  "isosceles triangle": {
+    "vi": "tam giác cân",
+    "exp": "Tam giác cân là tam giác có ít nhất hai cạnh bằng nhau."
+  },
+  "scalene triangle": {
+    "vi": "tam giác thường",
+    "exp": "Tam giác thường (hoặc tam giác lệch) là tam giác có ba cạnh với độ dài khác nhau."
+  },
+  "right triangle": {
+    "vi": "tam giác vuông",
+    "exp": "Tam giác vuông là tam giác có một góc bằng 90 độ (góc vuông)."
+  },
+  "cube": {
+    "vi": "hình lập phương",
+    "exp": "Hình lập phương là hình 3D có sáu mặt đều là hình vuông, giống như viên xúc xắc."
+  },
+  "sphere": {
+    "vi": "hình cầu",
+    "exp": "Hình cầu là hình 3D hoàn toàn tròn, giống như quả bóng."
+  },
+  "cylinder": {
+    "vi": "hình trụ",
+    "exp": "Hình trụ là hình 3D có hai đáy hình tròn song song và một mặt cong, giống như lon nước ngọt."
+  },
+  "cone": {
+    "vi": "hình nón",
+    "exp": "Hình nón là hình 3D có đáy hình tròn và một đỉnh nhọn, giống như nón lá hoặc ốc quế."
+  },
+  "pyramid": {
+    "vi": "hình chóp",
+    "exp": "Hình chóp là hình 3D có đáy là đa giác và các mặt bên là tam giác gặp nhau ở một đỉnh."
+  },
+  "prism": {
+    "vi": "hình lăng trụ",
+    "exp": "Hình lăng trụ là hình 3D có hai đáy là đa giác giống hệt nhau và các mặt bên là hình bình hành."
+  },
+  "cuboid": {
+    "vi": "hình hộp chữ nhật",
+    "exp": "Hình hộp chữ nhật là hình 3D có sáu mặt là hình chữ nhật, giống như hộp giày."
+  },
+  "torus": {
+    "vi": "hình xuyến",
+    "exp": "Hình xuyến là hình 3D có hình dạng giống chiếc bánh donut hoặc phao bơi."
+  },
+  "triangular prism": {
+    "vi": "lăng trụ tam giác",
+    "exp": "Lăng trụ tam giác là hình lăng trụ có hai đáy là hình tam giác."
+  },
+  "square pyramid": {
+    "vi": "hình chóp tứ giác đều",
+    "exp": "Hình chóp tứ giác đều (hoặc chóp vuông) là hình chóp có đáy là hình vuông."
+  },
+  "hemisphere": {
+    "vi": "hình bán cầu",
+    "exp": "Hình bán cầu là một nửa của hình cầu, giống như cái bát."
+  },
+  "tetrahedron": {
+    "vi": "hình tứ diện",
+    "exp": "Hình tứ diện là hình chóp có đáy là tam giác (tổng cộng 4 mặt tam giác)."
+  },
+  "octahedron": {
+    "vi": "hình bát diện",
+    "exp": "Hình bát diện là hình 3D có tám mặt, thường là tám tam giác đều."
+  },
+  "dodecahedron": {
+    "vi": "hình mười hai mặt",
+    "exp": "Hình mười hai mặt là hình 3D có mười hai mặt (thường là ngũ giác đều)."
+  },
+  "icosahedron": {
+    "vi": "hình hai mươi mặt",
+    "exp": "Hình hai mươi mặt là hình 3D có hai mươi mặt (thường là tam giác đều)."
+  },
+  "line": {
+    "vi": "đường thẳng",
+    "exp": "Đường thẳng là một đường dài, thẳng, không có điểm đầu hay điểm cuối."
+  },
+  "point": {
+    "vi": "điểm",
+    "exp": "Điểm là một vị trí chính xác trong không gian, không có kích thước."
+  },
+  "angle": {
+    "vi": "góc",
+    "exp": "Góc được tạo bởi hai đường thẳng (hoặc tia) gặp nhau tại một điểm."
+  },
+  "curve": {
+    "vi": "đường cong",
+    "exp": "Đường cong là một đường không thẳng, uốn lượn."
+  },
+  "spiral": {
+    "vi": "đường xoắn ốc",
+    "exp": "Đường xoắn ốc là một đường cong cuộn tròn quanh một điểm trung tâm, giống vỏ ốc sên."
+  },
+  "helix": {
+    "vi": "đường xoắn (chuỗi)",
+    "exp": "Đường xoắn (chuỗi) là một hình 3D cuộn tròn giống như lò xo hoặc cấu trúc DNA."
+  },
+  "loop": {
+    "vi": "vòng lặp",
+    "exp": "Vòng lặp là một hình dạng khép kín, nơi đường cong quay trở lại điểm bắt đầu."
+  },
+  "arc": {
+    "vi": "cung (hình học)",
+    "exp": "Cung là một phần của đường cong, đặc biệt là một phần của chu vi hình tròn."
+  },
+  "arrow": {
+    "vi": "hình mũi tên",
+    "exp": "Hình mũi tên là biểu tượng có một đầu nhọn để chỉ hướng."
+  },
+  "society": {
+    "vi": "xã hội",
+    "exp": "Society là một nhóm lớn những người sống cùng nhau trong một cộng đồng có tổ chức, có chung luật lệ, văn hóa."
+  },
+  "community": {
+    "vi": "cộng đồng",
+    "exp": "Community là một nhóm người sống trong cùng một khu vực (ví dụ: khu phố) hoặc có chung sở thích, đặc điểm."
+  },
+  "government": {
+    "vi": "chính phủ",
+    "exp": "Government là hệ thống hoặc nhóm người quản lý, điều hành một quốc gia hoặc một khu vực."
+  },
+  "law": {
+    "vi": "luật pháp",
+    "exp": "Law là hệ thống các quy tắc mà mọi người trong một quốc gia hoặc xã hội phải tuân theo."
+  },
+  "citizen": {
+    "vi": "công dân",
+    "exp": "Citizen là một người thuộc về một quốc gia cụ thể, có các quyền và nghĩa vụ pháp lý tại đó."
+  },
+  "nation": {
+    "vi": "dân tộc, quốc gia",
+    "exp": "Nation thường chỉ một nhóm người có chung lịch sử, văn hóa, ngôn ngữ, sống trong một quốc gia."
+  },
+  "state": {
+    "vi": "bang (ở Mỹ), nhà nước",
+    "exp": "State có thể là một khu vực hành chính trong một quốc gia (như California) hoặc chỉ một chính phủ, nhà nước."
+  },
+  "town": {
+    "vi": "thị trấn",
+    "exp": "Town là một khu dân cư lớn hơn làng (village) nhưng nhỏ hơn thành phố (city)."
+  },
+  "village": {
+    "vi": "ngôi làng",
+    "exp": "Village là một nhóm nhà ở, khu dân cư nhỏ ở nông thôn, nhỏ hơn thị trấn (town)."
+  },
+  "population": {
+    "vi": "dân số",
+    "exp": "Population là tổng số người sống ở một khu vực, thành phố hoặc quốc gia cụ thể."
+  },
+  "life": {
+    "vi": "cuộc sống, sự sống",
+    "exp": "Life là trạng thái tồn tại của con người, động vật, thực vật; hoặc chỉ toàn bộ trải nghiệm sống."
+  },
+  "birth": {
+    "vi": "sự ra đời",
+    "exp": "Birth là thời điểm một em bé hoặc con vật được sinh ra."
+  },
+  "marriage": {
+    "vi": "hôn nhân, đám cưới",
+    "exp": "Marriage là sự kết hợp hợp pháp (lễ cưới) giữa hai người để làm vợ chồng."
+  },
+  "death": {
+    "vi": "cái chết, sự qua đời",
+    "exp": "Death là sự kết thúc vĩnh viễn của sự sống."
+  },
+  "funeral": {
+    "vi": "đám tang",
+    "exp": "Funeral là buổi lễ được tổ chức khi ai đó qua đời, để chôn cất hoặc hỏa táng họ."
+  },
+  "economy": {
+    "vi": "nền kinh tế",
+    "exp": "Economy là hệ thống sản xuất, mua bán và sử dụng hàng hóa, dịch vụ của một quốc gia."
+  },
+  "business": {
+    "vi": "kinh doanh, doanh nghiệp",
+    "exp": "Business là hoạt động mua bán hàng hóa, dịch vụ để kiếm lời; hoặc chỉ một công ty, tổ chức."
+  },
+  "industry": {
+    "vi": "ngành công nghiệp",
+    "exp": "Industry là tập hợp các công ty cùng sản xuất một loại hàng hóa (ví dụ: công nghiệp ô tô)."
+  },
+  "tax": {
+    "vi": "thuế",
+    "exp": "Tax là khoản tiền bắt buộc người dân và doanh nghiệp phải nộp cho chính phủ."
+  },
+  "bank": {
+    "vi": "ngân hàng",
+    "exp": "Bank là tổ chức tài chính giữ tiền cho mọi người, cho vay và cung cấp các dịch vụ tài chính khác."
+  },
+  "unemployment": {
+    "vi": "thất nghiệp",
+    "exp": "Unemployment là tình trạng không có việc làm (dù đang muốn tìm việc)."
+  },
+  "poverty": {
+    "vi": "sự nghèo đói",
+    "exp": "Poverty là tình trạng rất nghèo, không có đủ tiền cho các nhu cầu cơ bản như thức ăn, nhà ở."
+  },
+  "wealth": {
+    "vi": "sự giàu có",
+    "exp": "Wealth là việc sở hữu rất nhiều tiền bạc, tài sản giá trị."
+  },
+  "rich": {
+    "vi": "giàu có",
+    "exp": "Rich là tính từ chỉ người có nhiều tiền, tài sản (trái nghĩa với 'poor')."
+  },
+  "poor": {
+    "vi": "nghèo khó",
+    "exp": "Poor là tính từ chỉ người có ít tiền, không đủ sống (trái nghĩa với 'rich')."
+  },
+  "health": {
+    "vi": "sức khỏe",
+    "exp": "Health là tình trạng thể chất và tinh thần của một người (khỏe mạnh hay ốm yếu)."
+  },
+  "hospital": {
+    "vi": "bệnh viện",
+    "exp": "Hospital là nơi người bệnh (sick) hoặc bị thương (injured) đến để bác sĩ, y tá chăm sóc."
+  },
+  "disease": {
+    "vi": "bệnh tật, dịch bệnh",
+    "exp": "Disease (hoặc illness, sickness) là một căn bệnh cụ thể ảnh hưởng đến cơ thể hoặc tâm trí."
+  },
+  "medicine": {
+    "vi": "thuốc, y học",
+    "exp": "Medicine là thuốc dùng để chữa bệnh, hoặc chỉ ngành y học nói chung."
+  },
+  "war": {
+    "vi": "chiến tranh",
+    "exp": "War là cuộc xung đột vũ trang, đánh nhau giữa các quốc gia hoặc các nhóm trong một quốc gia."
+  },
+  "peace": {
+    "vi": "hòa bình",
+    "exp": "Peace là trạng thái không có chiến tranh, xung đột; hoặc sự yên tĩnh, bình yên."
+  },
+  "crime": {
+    "vi": "tội phạm, hành vi phạm tội",
+    "exp": "Crime là hành động vi phạm pháp luật (ví dụ: trộm cắp, giết người)."
+  },
+  "police": {
+    "vi": "cảnh sát",
+    "exp": "Police là lực lượng của chính phủ, có nhiệm vụ giữ gìn trật tự, bắt giữ tội phạm."
+  },
+  "court": {
+    "vi": "tòa án",
+    "exp": "Court là nơi các vấn đề pháp lý, tranh chấp hoặc tội phạm được xét xử bởi thẩm phán."
+  },
+  "prison": {
+    "vi": "nhà tù",
+    "exp": "Prison (hoặc jail) là nơi giam giữ những người bị kết tội, phạm pháp."
+  },
+  "victim": {
+    "vi": "nạn nhân",
+    "exp": "Victim là người bị tổn thương, thiệt mạng hoặc chịu ảnh hưởng xấu từ một vụ tai nạn, tội ác."
+  },
+  "politics": {
+    "vi": "chính trị",
+    "exp": "Politics là các hoạt động liên quan đến việc điều hành một quốc gia, giành quyền lực chính trị."
+  },
+  "president": {
+    "vi": "tổng thống",
+    "exp": "President là người đứng đầu nhà nước ở các nước cộng hòa (như Mỹ)."
+  },
+  "king": {
+    "vi": "nhà vua",
+    "exp": "King là người đàn ông đứng đầu một quốc gia theo chế độ quân chủ (cha truyền con nối)."
+  },
+  "queen": {
+    "vi": "nữ hoàng",
+    "exp": "Queen là người phụ nữ đứng đầu một quốc gia (nữ hoàng) hoặc là vợ của nhà vua (hoàng hậu)."
+  },
+  "election": {
+    "vi": "cuộc bầu cử",
+    "exp": "Election là quá trình người dân bỏ phiếu để chọn ra người đại diện hoặc nhà lãnh đạo."
+  },
+  "vote": {
+    "vi": "bỏ phiếu, lá phiếu",
+    "exp": "Vote là hành động đưa ra lựa chọn của mình trong một cuộc bầu cử hoặc trưng cầu ý dân."
+  },
+  "democracy": {
+    "vi": "nền dân chủ",
+    "exp": "Democracy là hệ thống chính trị trong đó người dân bầu ra chính phủ của mình."
+  },
+  "freedom": {
+    "vi": "sự tự do",
+    "exp": "Freedom (hoặc liberty) là quyền được hành động, suy nghĩ, phát biểu mà không bị ngăn cấm vô lý."
+  },
+  "rights": {
+    "vi": "quyền (con người)",
+    "exp": "Rights là những điều mà về mặt đạo đức hoặc pháp lý, bạn được phép có hoặc làm (ví dụ: quyền được giáo dục)."
+  },
+  "equality": {
+    "vi": "sự bình đẳng",
+    "exp": "Equality là tình trạng mọi người được đối xử như nhau, có cơ hội như nhau, không phân biệt."
+  },
+  "justice": {
+    "vi": "công lý, sự công bằng",
+    "exp": "Justice là sự đối xử công bằng, hợp lý theo pháp luật hoặc đạo đức."
+  },
+  "human": {
+    "vi": "con người",
+    "exp": "Human (hoặc human being) là từ dùng để chỉ loài người, phân biệt với động vật."
+  },
+  "generation": {
+    "vi": "thế hệ",
+    "exp": "Generation là nhóm những người sinh ra và sống trong cùng một khoảng thời gian (ví dụ: thế hệ 9x)."
+  },
+  "youth": {
+    "vi": "tuổi trẻ, thanh niên",
+    "exp": "Youth là giai đoạn còn trẻ (giữa thời thơ ấu và khi trưởng thành), hoặc chỉ giới trẻ nói chung."
+  },
+  "elderly": {
+    "vi": "người cao tuổi",
+    "exp": "Elderly (hoặc the aged) là từ dùng để chỉ những người già, lớn tuổi một cách lịch sự."
+  },
+  "relationship": {
+    "vi": "mối quan hệ",
+    "exp": "Relationship là cách thức hai hoặc nhiều người kết nối, đối xử với nhau (ví dụ: quan hệ bạn bè, tình cảm)."
+  },
+  "friendship": {
+    "vi": "tình bạn",
+    "exp": "Friendship là mối quan hệ giữa những người bạn (friends) với nhau."
+  },
+  "charity": {
+    "vi": "tổ chức từ thiện, lòng từ thiện",
+    "exp": "Charity là một tổ chức gây quỹ để giúp đỡ người nghèo, người bệnh; hoặc chỉ hành động giúp đỡ đó."
+  },
+  "homeless": {
+    "vi": "vô gia cư",
+    "exp": "Homeless là tình trạng (hoặc người) không có nhà để ở."
+  },
+  "organization": {
+    "vi": "tổ chức",
+    "exp": "Organization là một nhóm người được tổ chức (như công ty, câu lạc bộ) để hoạt động vì một mục đích chung."
+  },
+  "system": {
+    "vi": "hệ thống",
+    "exp": "System là một tập hợp các bộ phận, quy tắc liên kết với nhau, hoạt động như một thể thống nhất."
+  },
+  "technology": {
+    "vi": "công nghệ",
+    "exp": "Technology là việc áp dụng kiến thức khoa học, máy móc, thiết bị để giải quyết vấn đề trong thực tế."
+  },
+  "religion": {
+    "vi": "tôn giáo",
+    "exp": "Religion là hệ thống niềm tin và thờ phụng một hoặc nhiều vị thần (ví dụ: Phật giáo, Thiên Chúa giáo)."
+  },
+  "god": {
+    "vi": "thần, Thượng đế",
+    "exp": "God là đấng tối cao, được thờ phụng trong nhiều tôn giáo (viết hoa 'God' khi chỉ Thượng đế)."
+  },
+  "future": {
+    "vi": "tương lai",
+    "exp": "Future là khoảng thời gian sắp xảy ra, sau thời điểm hiện tại."
+  },
+  "past": {
+    "vi": "quá khứ",
+    "exp": "Past là khoảng thời gian đã xảy ra, trước thời điểm hiện tại."
+  },
+  "present": {
+    "vi": "hiện tại",
+    "exp": "Present là thời điểm ngay bây giờ, đang diễn ra."
+  },
+  "problem": {
+    "vi": "vấn đề",
+    "exp": "Problem là một tình huống khó khăn, nan giải cần được giải quyết."
+  },
+  "software": {
+    "vi": "phần mềm",
+    "exp": "Software là các chương trình và dữ liệu hướng dẫn máy tính cách thức hoạt động, không thể cầm nắm được."
+  },
+  "hardware": {
+    "vi": "phần cứng",
+    "exp": "Hardware là các bộ phận vật lý của máy tính mà bạn có thể chạm vào, ví dụ như màn hình, chuột, bàn phím."
+  },
+  "algorithm": {
+    "vi": "thuật toán",
+    "exp": "Algorithm là một tập hợp các quy tắc hoặc hướng dẫn từng bước để giải quyết một vấn R."
+  },
+  "database": {
+    "vi": "cơ sở dữ liệu",
+    "exp": "Database là một bộ sưu tập có tổ chức của dữ liệu, được lưu trữ và truy cập điện tử."
+  },
+  "network": {
+    "vi": "mạng (máy tính)",
+    "exp": "Network là một nhóm các máy tính hoặc thiết bị được kết nối với nhau để chia sẻ tài nguyên và giao tiếp."
+  },
+  "cloud computing": {
+    "vi": "điện toán đám mây",
+    "exp": "Cloud computing là việc cung cấp các dịch vụ máy tính—bao gồm máy chủ, lưu trữ, cơ sở dữ liệu—qua Internet."
+  },
+  "artificial intelligence": {
+    "vi": "trí tuệ nhân tạo",
+    "exp": "Artificial intelligence (AI) là sự mô phỏng trí thông minh của con người trong các cỗ máy được lập trình để suy nghĩ và học hỏi."
+  },
+  "machine learning": {
+    "vi": "học máy",
+    "exp": "Machine learning là một nhánh của AI cho phép hệ thống tự động học hỏi và cải thiện từ kinh nghiệm mà không cần lập trình rõ ràng."
+  },
+  "blockchain": {
+    "vi": "chuỗi khối",
+    "exp": "Blockchain là một công nghệ sổ cái kỹ thuật số phi tập trung, phân tán, ghi lại các giao dịch một cách an toàn và không thể thay đổi."
+  },
+  "cryptocurrency": {
+    "vi": "tiền điện tử",
+    "exp": "Cryptocurrency là một loại tiền kỹ thuật số hoặc ảo sử dụng mật mã để bảo mật, ví dụ như Bitcoin."
+  },
+  "cybersecurity": {
+    "vi": "an ninh mạng",
+    "exp": "Cybersecurity là hoạt động bảo vệ hệ thống, mạng và dữ liệu khỏi các cuộc tấn công kỹ thuật số hoặc truy cập trái phép."
+  },
+  "firewall": {
+    "vi": "tường lửa",
+    "exp": "Firewall là một hệ thống an ninh mạng kiểm soát lưu lượng truy cập mạng đến và đi dựa trên các quy tắc bảo mật."
+  },
+  "bug": {
+    "vi": "lỗi (phần mềm)",
+    "exp": "Bug là một lỗi, sai sót hoặc khiếm khuyết trong chương trình máy tính khiến nó tạo ra kết quả không chính xác hoặc không mong muốn."
+  },
+  "operating system": {
+    "vi": "hệ điều hành",
+    "exp": "Operating system (OS) là phần mềm quản lý tài nguyên phần cứng và phần mềm của máy tính, ví dụ như Windows, macOS hoặc Android."
+  },
+  "user interface": {
+    "vi": "giao diện người dùng",
+    "exp": "User interface (UI) là phần của một hệ thống mà người dùng tương tác trực tiếp, ví dụ như màn hình và các nút bấm."
+  },
+  "user experience": {
+    "vi": "trải nghiệm người dùng",
+    "exp": "User experience (UX) là cảm nhận và thái độ tổng thể của một người khi sử dụng một sản phẩm hoặc dịch vụ cụ thể."
+  },
+  "server": {
+    "vi": "máy chủ",
+    "exp": "Server là một máy tính hoặc chương trình cung cấp dịch vụ, tài nguyên hoặc dữ liệu cho các máy tính khác (máy khách) trong mạng."
+  },
+  "bandwidth": {
+    "vi": "băng thông",
+    "exp": "Bandwidth là lượng dữ liệu tối đa có thể truyền qua kết nối mạng trong một khoảng thời gian nhất định, thường tính bằng bit mỗi giây."
+  },
+  "monday": {
+    "vi": "thứ Hai",
+    "exp": "Monday là ngày đầu tiên trong tuần làm việc, sau Chủ Nhật."
+  },
+  "tuesday": {
+    "vi": "thứ Ba",
+    "exp": "Tuesday là ngày thứ hai trong tuần làm việc, sau thứ Hai."
+  },
+  "wednesday": {
+    "vi": "thứ Tư",
+    "exp": "Wednesday là ngày thứ ba trong tuần làm việc, ở giữa tuần."
+  },
+  "thursday": {
+    "vi": "thứ Năm",
+    "exp": "Thursday là ngày thứ tư trong tuần làm việc, sau thứ Tư."
+  },
+  "friday": {
+    "vi": "thứ Sáu",
+    "exp": "Friday là ngày thứ năm và là ngày cuối cùng của tuần làm việc."
+  },
+  "saturday": {
+    "vi": "thứ Bảy",
+    "exp": "Saturday là ngày đầu tiên của cuối tuần, sau thứ Sáu."
+  },
+  "sunday": {
+    "vi": "Chủ Nhật",
+    "exp": "Sunday là ngày cuối cùng trong tuần, thường là ngày nghỉ."
+  },
+  "january": {
+    "vi": "tháng Một",
+    "exp": "January là tháng đầu tiên của năm, có 31 ngày."
+  },
+  "february": {
+    "vi": "tháng Hai",
+    "exp": "February là tháng thứ hai của năm, thường có 28 hoặc 29 ngày (năm nhuận)."
+  },
+  "march": {
+    "vi": "tháng Ba",
+    "exp": "March là tháng thứ ba của năm, có 31 ngày, là bắt đầu mùa xuân ở Bắc bán cầu."
+  },
+  "april": {
+    "vi": "tháng Tư",
+    "exp": "April là tháng thứ tư của năm, có 30 ngày."
+  },
+  "may": {
+    "vi": "tháng Năm",
+    "exp": "May là tháng thứ năm của năm, có 31 ngày."
+  },
+  "june": {
+    "vi": "tháng Sáu",
+    "exp": "June là tháng thứ sáu của năm, có 30 ngày, bắt đầu mùa hè ở Bắc bán cầu."
+  },
+  "july": {
+    "vi": "tháng Bảy",
+    "exp": "July là tháng thứ bảy của năm, có 31 ngày."
+  },
+  "august": {
+    "vi": "tháng Tám",
+    "exp": "August là tháng thứ tám của năm, có 31 ngày."
+  },
+  "september": {
+    "vi": "tháng Chín",
+    "exp": "September là tháng thứ chín của năm, có 30 ngày, bắt đầu mùa thu ở Bắc bán cầu."
+  },
+  "october": {
+    "vi": "tháng Mười",
+    "exp": "October là tháng thứ mười của năm, có 31 ngày."
+  },
+  "november": {
+    "vi": "tháng Mười Một",
+    "exp": "November là tháng thứ mười một của năm, có 30 ngày."
+  },
+  "december": {
+    "vi": "tháng Mười Hai",
+    "exp": "December là tháng cuối cùng (thứ 12) của năm, có 31 ngày."
+  },
+  "spring": {
+    "vi": "mùa xuân",
+    "exp": "Spring là mùa trong năm cây cối đâm chồi nảy lộc, thời tiết ấm áp, sau mùa đông."
+  },
+  "summer": {
+    "vi": "mùa hè (mùa hạ)",
+    "exp": "Summer là mùa nóng nhất trong năm, giữa mùa xuân và mùa thu."
+  },
+  "autumn": {
+    "vi": "mùa thu",
+    "exp": "Autumn (hay Fall) là mùa trong năm lá cây chuyển màu và rụng, thời tiết mát mẻ."
+  },
+  "fall": {
+    "vi": "mùa thu",
+    "exp": "Fall là một từ khác của 'Autumn', thường dùng ở Mỹ."
+  },
+  "winter": {
+    "vi": "mùa đông",
+    "exp": "Winter là mùa lạnh nhất trong năm, giữa mùa thu và mùa xuân."
+  },
+  "day": {
+    "vi": "ngày",
+    "exp": "Day là một khoảng thời gian 24 giờ, hoặc là khoảng thời gian có ánh sáng mặt trời."
+  },
+  "week": {
+    "vi": "tuần",
+    "exp": "Week là một khoảng thời gian 7 ngày liên tục (từ thứ Hai đến Chủ Nhật)."
+  },
+  "month": {
+    "vi": "tháng",
+    "exp": "Month là một khoảng thời gian khoảng 30 hoặc 31 ngày, một năm có 12 tháng."
+  },
+  "year": {
+    "vi": "năm",
+    "exp": "Year là một khoảng thời gian 12 tháng hoặc 365 ngày (366 ngày nếu là năm nhuận)."
+  },
+  "season": {
+    "vi": "mùa",
+    "exp": "Season là một trong bốn khoảng thời gian trong năm (Xuân, Hạ, Thu, Đông), đặc trưng bởi thời tiết riêng."
+  },
+  "today": {
+    "vi": "hôm nay",
+    "exp": "Today là ngày hiện tại, ngày mà bạn đang sống."
+  },
+  "tomorrow": {
+    "vi": "ngày mai",
+    "exp": "Tomorrow là ngày ngay sau ngày hôm nay."
+  },
+  "yesterday": {
+    "vi": "hôm qua",
+    "exp": "Yesterday là ngày ngay trước ngày hôm nay."
+  },
+  "morning": {
+    "vi": "buổi sáng",
+    "exp": "Morning là khoảng thời gian từ lúc mặt trời mọc đến 12 giờ trưa."
+  },
+  "noon": {
+    "vi": "buổi trưa",
+    "exp": "Noon là thời điểm chính xác 12 giờ trưa."
+  },
+  "afternoon": {
+    "vi": "buổi chiều",
+    "exp": "Afternoon là khoảng thời gian từ 12 giờ trưa đến khoảng 5-6 giờ tối."
+  },
+  "evening": {
+    "vi": "buổi tối",
+    "exp": "Evening là khoảng thời gian từ lúc mặt trời lặn đến khi đi ngủ."
+  },
+  "night": {
+    "vi": "ban đêm",
+    "exp": "Night là khoảng thời gian trời tối, thường là sau 'evening' và trước 'morning'."
+  },
+  "midnight": {
+    "vi": "nửa đêm",
+    "exp": "Midnight là thời điểm chính xác 12 giờ đêm (00:00)."
+  },
+  "weekend": {
+    "vi": "cuối tuần",
+    "exp": "Weekend là khoảng thời gian nghỉ ngơi, thường là thứ Bảy và Chủ Nhật."
+  },
+  "weekday": {
+    "vi": "ngày trong tuần",
+    "exp": "Weekday là các ngày đi làm hoặc đi học, thường là từ thứ Hai đến thứ Sáu."
+  },
+  "hour": {
+    "vi": "giờ (tiếng đồng hồ)",
+    "exp": "Hour là một khoảng thời gian 60 phút."
+  },
+  "minute": {
+    "vi": "phút",
+    "exp": "Minute là một khoảng thời gian 60 giây."
+  },
+  "clock": {
+    "vi": "đồng hồ (treo tường, để bàn)",
+    "exp": "Clock là dụng cụ dùng để xem giờ, thường đặt ở một chỗ cố định."
+  },
+  "calendar": {
+    "vi": "lịch",
+    "exp": "Calendar là một bảng hệ thống các ngày, tuần, và tháng trong một năm."
+  },
+  "daily": {
+    "vi": "hàng ngày",
+    "exp": "Daily là tính từ mô tả điều gì đó xảy ra mỗi ngày."
+  },
+  "weekly": {
+    "vi": "hàng tuần",
+    "exp": "Weekly là tính từ mô tả điều gì đó xảy ra mỗi tuần."
+  },
+  "monthly": {
+    "vi": "hàng tháng",
+    "exp": "Monthly là tính từ mô tả điều gì đó xảy ra mỗi tháng."
+  },
+  "yearly": {
+    "vi": "hàng năm",
+    "exp": "Yearly (hoặc 'annual') là tính từ mô tả điều gì đó xảy ra mỗi năm."
+  }
+}

@@ -1,0 +1,13 @@
+version: "3.1"
+intents:
+  - hoi_nghia_don_gian
+  - hoi_nghia_chi_tiet
+  - greet
+  - goodbye
+entities:
+  - word
+actions:
+  - action_giai_thich_tu
+responses:
+  utter_hoi_lai:
+    - text: "Bạn muốn hỏi nghĩa của từ nào vậy?"

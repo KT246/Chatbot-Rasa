@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Rasa
+.rasa/
+models/
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Flask cache
+instance/
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db

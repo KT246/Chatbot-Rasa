@@ -1,0 +1,11 @@
+version: "3.1"
+stories:
+  - story: hoi nghia tu chi tiet
+    steps:
+      - intent: hoi_nghia_chi_tiet
+      - action: action_giai_thich_tu
+
+  - story: hoi nghia tu don gian
+    steps:
+      - intent: hoi_nghia_don_gian
+      - action: action_giai_thich_tu
