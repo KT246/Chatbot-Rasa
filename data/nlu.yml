@@ -1,9 +1,7 @@
-version: "3.1"
 nlu:
   - intent: hoi_nghia_chi_tiet
     examples: |
       - [CEO](word) là gì
-
       - [CEO](word) nghĩa là gì?
 
       - [CV](word) là gì
@@ -8303,12 +8301,10 @@ nlu:
       - định nghĩa từ [yearly](word)
 
       - định nghĩa từ [yellow](word)
-
       - định nghĩa từ [zebra](word)
   - intent: hoi_nghia_don_gian
     examples: |
       - [CEO](word)
-
       - [CV](word)
 
       - [DNA](word)

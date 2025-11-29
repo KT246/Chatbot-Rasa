@@ -1,11 +1,51 @@
+recipe: default.v1
+
 language: vi
+
 pipeline:
+  # 1. Chia tách từ ngữ (cơ bản)
 - name: WhitespaceTokenizer
+
+  # 2. Quan trọng cho Lookup Table: Biến các từ trong lookup thành đặc trưng số
 - name: RegexFeaturizer
+
+  # 3. Phân tích cú pháp từ vựng
+- name: LexicalSyntacticFeaturizer
+
+  # 4. Biến từ thành vector (dùng mô hình đơn giản char_wb để nhẹ máy)
 - name: CountVectorsFeaturizer
+- name: CountVectorsFeaturizer
+  analyzer: char_wb
+  min_ngram: 1
+  max_ngram: 4
+
+  # 5. Mô hình phân loại Intent & Entity (DIETClassifier)
+  # epochs: 100 là đủ cho lookup.
 - name: DIETClassifier
   epochs: 100
+  constrain_similarities: true
+
+  # 6. Xử lý đồng nghĩa (nếu có)
 - name: EntitySynonymMapper
+
+  # 7. Chọn câu trả lời (cho chao_hoi, tam_biet...)
+- name: ResponseSelector
+  epochs: 100
+  constrain_similarities: true
+
+  # 8. Fallback: Nếu không hiểu thì trả lời mặc định
+- name: FallbackClassifier
+  threshold: 0.3
+  ambiguity_threshold: 0.1
+
 policies:
+- name: MemoizationPolicy
 - name: RulePolicy
-assistant_id: 20251112-065646-greedy-market
+- name: UnexpecTEDIntentPolicy
+  max_history: 5
+  epochs: 100
+- name: TEDPolicy
+  max_history: 5
+  epochs: 100
+  constrain_similarities: true
+assistant_id: 20251123-145015-investor-level

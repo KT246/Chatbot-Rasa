@@ -1,11 +1,12 @@
 version: "3.1"
+
 rules:
-  - rule: tra nghia tu don gian
+  - rule: Tra nghĩa đơn giản
     steps:
       - intent: hoi_nghia_don_gian
-      - action: action_giai_thich_tu
+      - action: action_tra_nghia_don_gian
 
-  - rule: tra nghia tu chi tiet
+  - rule: Tra nghĩa chi tiết
     steps:
       - intent: hoi_nghia_chi_tiet
-      - action: action_giai_thich_tu
+      - action: action_tra_nghia_chi_tiet

@@ -1,13 +1,24 @@
 version: "3.1"
+
 intents:
   - hoi_nghia_don_gian
   - hoi_nghia_chi_tiet
-  - greet
-  - goodbye
+
 entities:
   - word
+
 actions:
-  - action_giai_thich_tu
+  - action_tra_nghia_don_gian
+  - action_tra_nghia_chi_tiet
+
 responses:
+  utter_chao_hoi:
+    - text: "Chào bạn! Mình là từ điển AI. Bạn muốn tra từ gì?"
+  utter_tam_biet:
+    - text: "Tạm biệt nhé!"
   utter_hoi_lai:
     - text: "Bạn muốn hỏi nghĩa của từ nào vậy?"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
